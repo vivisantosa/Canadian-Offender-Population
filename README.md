@@ -16,7 +16,7 @@ Project components will include extraction of the data from open Canadian CSC da
 -	StatCan – Population Demographic data  <br>
   https://www150.statcan.gc.ca/n1/en <br>
 
-###	Application Schema:  <br>
+###	Application Schema:  
 <img src="Images/Project2_flow_v2.jpg" width="1080"><br> 
 
 ###	Draft of tasks <br>
@@ -27,18 +27,19 @@ Project components will include extraction of the data from open Canadian CSC da
 •	Web application (HTML, JS, CSS)
 •	Query database and pass CSC and StatCan data into HTML [Eben, Vivi]
 •	Visualizations [all]
-<img src="Images/Illustrative_1(map).png" width="1080"><br> 
-•	Interactive Map: D3 and Leaflet  <br>
-Interactive component: user hovers to see popup on each province; clicks to see province-specific information in other charts
-<img src="Images/Illustrative_2(map).png" width="1080"><br> 
+  (images illustrative)
 
-•	Interactive bar chart: Plotly 
-Interactive component: user clicks on selector to see a specific gender/race <br>
-<img src="Images/Illustrative_3(map).png" width="1080"><br> 
+  •	Interactive Map: D3 and Leaflet  <br>
+    Interactive component: user hovers to see popup on each province; clicks to see province-specific information in other charts
+    <img src="Images/Illustrative_1(map).png" width="540"><br> 
 
-•	Interactive scatter plot: Plotly 
-Interactive component: user can select year (between 2013-2018) to see year-specific trends  <br>
- 
+  •	Interactive bar chart: Plotly 
+    Interactive component: user clicks on selector to see a specific gender/race <br>
+    <img src="Images/Illustrative_2(bar).png" width="540"><br> 
+
+  •	Interactive scatter plot: Plotly 
+    Interactive component: user can select year (between 2013-2018) to see year-specific trends  <br>
+    <img src="Illustrative_3(scatter).png" width="540"><br>  
 
 
 
