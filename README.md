@@ -1,5 +1,5 @@
 # Project2
-Correctional Service
+Canadian Correctional Service
 
-<src="Images/Project2_flow_v1.jpg" width="50%">
+<img src="Images/Project2_flow_v1.jpg" width="1080"><br>
 Project2_flow_v1
