@@ -1,1569 +1,1569 @@
-﻿year,province,race,sex,in_custody_community,avg_length,arrested
-2012,National,Black,Female,In Custody,"1,604",58
-2012,BC,Black,Female,In Custody,0,0
-2012,AB,Black,Female,In Custody,"1,218",3
-2012,SK,Black,Female,In Custody,0,0
-2012,MB,Black,Female,In Custody,0,0
-2012,ON,Black,Female,In Custody,"1,724",47
-2012,QC,Black,Female,In Custody,"1,104",5
-2012,NB,Black,Female,In Custody,0,0
-2012,NL,Black,Female,In Custody,0,0
-2012,PE,Black,Female,In Custody,0,0
-2012,NS,Black,Female,In Custody,942,3
-2012,NW,Black,Female,In Custody,0,0
-2012,YU,Black,Female,In Custody,0,0
-2012,NU,Black,Female,In Custody,0,0
-2012,National,White,Female,In Custody,"1,062",303
-2012,BC,White,Female,In Custody,792,35
-2012,AB,White,Female,In Custody,"1,142",48
-2012,SK,White,Female,In Custody,"1,063",17
-2012,MB,White,Female,In Custody,0,0
-2012,ON,White,Female,In Custody,"1,121",80
-2012,QC,White,Female,In Custody,"1,105",70
-2012,NB,White,Female,In Custody,0,0
-2012,NL,White,Female,In Custody,0,0
-2012,PE,White,Female,In Custody,0,0
-2012,NS,White,Female,In Custody,"1,022",53
-2012,NW,White,Female,In Custody,0,0
-2012,YU,White,Female,In Custody,0,0
-2012,NU,White,Female,In Custody,0,0
-2012,National,Aboriginal,Female,In Custody,"1,131",205
-2012,BC,Aboriginal,Female,In Custody,"1,326",33
-2012,AB,Aboriginal,Female,In Custody,"1,214",85
-2012,SK,Aboriginal,Female,In Custody,908,25
-2012,MB,Aboriginal,Female,In Custody,0,0
-2012,ON,Aboriginal,Female,In Custody,802,36
-2012,QC,Aboriginal,Female,In Custody,"1,241",11
-2012,NB,Aboriginal,Female,In Custody,0,0
-2012,NL,Aboriginal,Female,In Custody,0,0
-2012,PE,Aboriginal,Female,In Custody,0,0
-2012,NS,Aboriginal,Female,In Custody,"1,313",15
-2012,NW,Aboriginal,Female,In Custody,0,0
-2012,YU,Aboriginal,Female,In Custody,0,0
-2012,NU,Aboriginal,Female,In Custody,0,0
-2012,National,Other Minority,Female,In Custody,"1,481",50
-2012,BC,Other Minority,Female,In Custody,"1,507",5
-2012,AB,Other Minority,Female,In Custody,"1,518",10
-2012,SK,Other Minority,Female,In Custody,882,3
-2012,MB,Other Minority,Female,In Custody,0,0
-2012,ON,Other Minority,Female,In Custody,"1,788",23
-2012,QC,Other Minority,Female,In Custody,765,8
-2012,NB,Other Minority,Female,In Custody,0,0
-2012,NL,Other Minority,Female,In Custody,0,0
-2012,PE,Other Minority,Female,In Custody,0,0
-2012,NS,Other Minority,Female,In Custody,"1,461",1
-2012,NW,Other Minority,Female,In Custody,0,0
-2012,YU,Other Minority,Female,In Custody,0,0
-2012,NU,Other Minority,Female,In Custody,0,0
-2012,National,Black,Male,In Custody,"1,583","1,440"
-2012,BC,Black,Male,In Custody,"1,502",69
-2012,AB,Black,Male,In Custody,"1,521",101
-2012,SK,Black,Male,In Custody,"1,273",23
-2012,MB,Black,Male,In Custody,"1,929",13
-2012,ON,Black,Male,In Custody,"1,563",828
-2012,QC,Black,Male,In Custody,"1,731",249
-2012,NB,Black,Male,In Custody,"1,462",86
-2012,NL,Black,Male,In Custody,0,0
-2012,PE,Black,Male,In Custody,0,0
-2012,NS,Black,Male,In Custody,"1,651",71
-2012,NW,Black,Male,In Custody,0,0
-2012,YU,Black,Male,In Custody,0,0
-2012,NU,Black,Male,In Custody,0,0
-2012,National,White,Male,In Custody,"1,508","8,628"
-2012,BC,White,Male,In Custody,"1,458","1,134"
-2012,AB,White,Male,In Custody,"1,516","1,075"
-2012,SK,White,Male,In Custody,"1,308",294
-2012,MB,White,Male,In Custody,"1,420",251
-2012,ON,White,Male,In Custody,"1,358","2,157"
-2012,QC,White,Male,In Custody,"1,740","2,623"
-2012,NB,White,Male,In Custody,"1,358",739
-2012,NL,White,Male,In Custody,0,0
-2012,PE,White,Male,In Custody,0,0
-2012,NS,White,Male,In Custody,"1,384",355
-2012,NW,White,Male,In Custody,0,0
-2012,YU,White,Male,In Custody,0,0
-2012,NU,White,Male,In Custody,0,0
-2012,National,Aboriginal,Male,In Custody,"1,433","3,361"
-2012,BC,Aboriginal,Male,In Custody,"1,332",553
-2012,AB,Aboriginal,Male,In Custody,"1,487",699
-2012,SK,Aboriginal,Male,In Custody,"1,502",619
-2012,MB,Aboriginal,Male,In Custody,"1,432",460
-2012,ON,Aboriginal,Male,In Custody,"1,371",495
-2012,QC,Aboriginal,Male,In Custody,"1,437",382
-2012,NB,Aboriginal,Male,In Custody,"1,518",113
-2012,NL,Aboriginal,Male,In Custody,0,0
-2012,PE,Aboriginal,Male,In Custody,0,0
-2012,NS,Aboriginal,Male,In Custody,"1,293",40
-2012,NW,Aboriginal,Male,In Custody,0,0
-2012,YU,Aboriginal,Male,In Custody,0,0
-2012,NU,Aboriginal,Male,In Custody,0,0
-2012,National,Other Minority,Male,In Custody,"1,524","1,268"
-2012,BC,Other Minority,Male,In Custody,"1,489",217
-2012,AB,Other Minority,Male,In Custody,"1,434",168
-2012,SK,Other Minority,Male,In Custody,"1,370",124
-2012,MB,Other Minority,Male,In Custody,"1,695",70
-2012,ON,Other Minority,Male,In Custody,"1,603",454
-2012,QC,Other Minority,Male,In Custody,"1,516",184
-2012,NB,Other Minority,Male,In Custody,"1,460",32
-2012,NL,Other Minority,Male,In Custody,0,0
-2012,PE,Other Minority,Male,In Custody,0,0
-2012,NS,Other Minority,Male,In Custody,"1,359",19
-2012,NW,Other Minority,Male,In Custody,0,0
-2012,YU,Other Minority,Male,In Custody,0,0
-2012,NU,Other Minority,Male,In Custody,0,0
-2013,National,Black,Female,In Custody,"1,646",55
-2013,BC,Black,Female,In Custody,0,0
-2013,AB,Black,Female,In Custody,"1,218",3
-2013,SK,Black,Female,In Custody,0,0
-2013,MB,Black,Female,In Custody,0,0
-2013,ON,Black,Female,In Custody,"1,752",45
-2013,QC,Black,Female,In Custody,"1,301",4
-2013,NB,Black,Female,In Custody,0,0
-2013,NL,Black,Female,In Custody,0,0
-2013,PE,Black,Female,In Custody,0,0
-2013,NS,Black,Female,In Custody,942,3
-2013,NW,Black,Female,In Custody,0,0
-2013,YU,Black,Female,In Custody,0,0
-2013,NU,Black,Female,In Custody,0,0
-2013,National,White,Female,In Custody,"1,062",284
-2013,BC,White,Female,In Custody,759,33
-2013,AB,White,Female,In Custody,"1,181",42
-2013,SK,White,Female,In Custody,"1,063",17
-2013,MB,White,Female,In Custody,0,0
-2013,ON,White,Female,In Custody,"1,125",75
-2013,QC,White,Female,In Custody,"1,106",71
-2013,NB,White,Female,In Custody,0,0
-2013,NL,White,Female,In Custody,0,0
-2013,PE,White,Female,In Custody,0,0
-2013,NS,White,Female,In Custody,996,46
-2013,NW,White,Female,In Custody,0,0
-2013,YU,White,Female,In Custody,0,0
-2013,NU,White,Female,In Custody,0,0
-2013,National,Aboriginal,Female,In Custody,"1,139",191
-2013,BC,Aboriginal,Female,In Custody,"1,324",31
-2013,AB,Aboriginal,Female,In Custody,"1,222",76
-2013,SK,Aboriginal,Female,In Custody,952,23
-2013,MB,Aboriginal,Female,In Custody,"1,142",2
-2013,ON,Aboriginal,Female,In Custody,788,35
-2013,QC,Aboriginal,Female,In Custody,"1,292",10
-2013,NB,Aboriginal,Female,In Custody,0,0
-2013,NL,Aboriginal,Female,In Custody,0,0
-2013,PE,Aboriginal,Female,In Custody,0,0
-2013,NS,Aboriginal,Female,In Custody,"1,355",14
-2013,NW,Aboriginal,Female,In Custody,0,0
-2013,YU,Aboriginal,Female,In Custody,0,0
-2013,NU,Aboriginal,Female,In Custody,0,0
-2013,National,Other Minority,Female,In Custody,"1,536",49
-2013,BC,Other Minority,Female,In Custody,"1,507",5
-2013,AB,Other Minority,Female,In Custody,"1,589",9
-2013,SK,Other Minority,Female,In Custody,882,3
-2013,MB,Other Minority,Female,In Custody,0,0
-2013,ON,Other Minority,Female,In Custody,"1,879",23
-2013,QC,Other Minority,Female,In Custody,765,8
-2013,NB,Other Minority,Female,In Custody,0,0
-2013,NL,Other Minority,Female,In Custody,0,0
-2013,PE,Other Minority,Female,In Custody,0,0
-2013,NS,Other Minority,Female,In Custody,"1,461",1
-2013,NW,Other Minority,Female,In Custody,0,0
-2013,YU,Other Minority,Female,In Custody,0,0
-2013,NU,Other Minority,Female,In Custody,0,0
-2013,National,Black,Male,In Custody,"1,571","1,385"
-2013,BC,Black,Male,In Custody,"1,490",64
-2013,AB,Black,Male,In Custody,"1,522",99
-2013,SK,Black,Male,In Custody,"1,288",22
-2013,MB,Black,Male,In Custody,"1,732",11
-2013,ON,Black,Male,In Custody,"1,553",807
-2013,QC,Black,Male,In Custody,"1,723",235
-2013,NB,Black,Male,In Custody,"1,461",80
-2013,NL,Black,Male,In Custody,0,0
-2013,PE,Black,Male,In Custody,0,0
-2013,NS,Black,Male,In Custody,"1,613",67
-2013,NW,Black,Male,In Custody,0,0
-2013,YU,Black,Male,In Custody,0,0
-2013,NU,Black,Male,In Custody,0,0
-2013,National,White,Male,In Custody,"1,502","8,311"
-2013,BC,White,Male,In Custody,"1,449","1,066"
-2013,AB,White,Male,In Custody,"1,521","1,040"
-2013,SK,White,Male,In Custody,"1,276",285
-2013,MB,White,Male,In Custody,"1,430",241
-2013,ON,White,Male,In Custody,"1,347","2,078"
-2013,QC,White,Male,In Custody,"1,738","2,521"
-2013,NB,White,Male,In Custody,"1,348",700
-2013,NL,White,Male,In Custody,"1,106",31
-2013,PE,White,Male,In Custody,"2,192",1
-2013,NS,White,Male,In Custody,"1,392",348
-2013,NW,White,Male,In Custody,0,0
-2013,YU,White,Male,In Custody,0,0
-2013,NU,White,Male,In Custody,0,0
-2013,National,Aboriginal,Male,In Custody,"1,436","3,185"
-2013,BC,Aboriginal,Male,In Custody,"1,321",515
-2013,AB,Aboriginal,Male,In Custody,"1,504",663
-2013,SK,Aboriginal,Male,In Custody,"1,509",592
-2013,MB,Aboriginal,Male,In Custody,"1,465",432
-2013,ON,Aboriginal,Male,In Custody,"1,389",461
-2013,QC,Aboriginal,Male,In Custody,"1,387",365
-2013,NB,Aboriginal,Male,In Custody,"1,511",109
-2013,NL,Aboriginal,Male,In Custody,"1,389",1
-2013,PE,Aboriginal,Male,In Custody,0,0
-2013,NS,Aboriginal,Male,In Custody,"1,271",42
-2013,NW,Aboriginal,Male,In Custody,"1,058",5
-2013,YU,Aboriginal,Male,In Custody,0,0
-2013,NU,Aboriginal,Male,In Custody,0,0
-2013,National,Other Minority,Male,In Custody,"1,526","1,256"
-2013,BC,Other Minority,Male,In Custody,"1,497",213
-2013,AB,Other Minority,Male,In Custody,"1,439",166
-2013,SK,Other Minority,Male,In Custody,"1,418",118
-2013,MB,Other Minority,Male,In Custody,"1,705",68
-2013,ON,Other Minority,Male,In Custody,"1,585",458
-2013,QC,Other Minority,Male,In Custody,"1,512",183
-2013,NB,Other Minority,Male,In Custody,"1,507",31
-2013,NL,Other Minority,Male,In Custody,0,0
-2013,PE,Other Minority,Male,In Custody,0,0
-2013,NS,Other Minority,Male,In Custody,"1,359",19
-2013,NW,Other Minority,Male,In Custody,0,0
-2013,YU,Other Minority,Male,In Custody,0,0
-2013,NU,Other Minority,Male,In Custody,0,0
-2014,National,Black,Female,In Custody,"1,774",47
-2014,BC,Black,Female,In Custody,0,0
-2014,AB,Black,Female,In Custody,730,1
-2014,SK,Black,Female,In Custody,0,0
-2014,MB,Black,Female,In Custody,0,0
-2014,ON,Black,Female,In Custody,"1,910",38
-2014,QC,Black,Female,In Custody,"1,217",4
-2014,NB,Black,Female,In Custody,0,0
-2014,NL,Black,Female,In Custody,0,0
-2014,PE,Black,Female,In Custody,0,0
-2014,NS,Black,Female,In Custody,"1,294",4
-2014,NW,Black,Female,In Custody,0,0
-2014,YU,Black,Female,In Custody,0,0
-2014,NU,Black,Female,In Custody,0,0
-2014,National,White,Female,In Custody,"1,077",308
-2014,BC,White,Female,In Custody,"1,062",40
-2014,AB,White,Female,In Custody,"1,203",41
-2014,SK,White,Female,In Custody,"1,114",17
-2014,MB,White,Female,In Custody,0,1
-2014,ON,White,Female,In Custody,"1,201",84
-2014,QC,White,Female,In Custody,"1,018",66
-2014,NB,White,Female,In Custody,0,0
-2014,NL,White,Female,In Custody,0,0
-2014,PE,White,Female,In Custody,0,0
-2014,NS,White,Female,In Custody,895,59
-2014,NW,White,Female,In Custody,0,0
-2014,YU,White,Female,In Custody,0,0
-2014,NU,White,Female,In Custody,0,0
-2014,National,Aboriginal,Female,In Custody,"1,108",218
-2014,BC,Aboriginal,Female,In Custody,"1,154",39
-2014,AB,Aboriginal,Female,In Custody,"1,195",80
-2014,SK,Aboriginal,Female,In Custody,"1,088",30
-2014,MB,Aboriginal,Female,In Custody,"1,416",4
-2014,ON,Aboriginal,Female,In Custody,713,36
-2014,QC,Aboriginal,Female,In Custody,"1,026",15
-2014,NB,Aboriginal,Female,In Custody,0,0
-2014,NL,Aboriginal,Female,In Custody,0,0
-2014,PE,Aboriginal,Female,In Custody,0,0
-2014,NS,Aboriginal,Female,In Custody,"1,537",14
-2014,NW,Aboriginal,Female,In Custody,0,0
-2014,YU,Aboriginal,Female,In Custody,0,0
-2014,NU,Aboriginal,Female,In Custody,0,0
-2014,National,Other Minority,Female,In Custody,"1,439",58
-2014,BC,Other Minority,Female,In Custody,"1,532",5
-2014,AB,Other Minority,Female,In Custody,"1,457",11
-2014,SK,Other Minority,Female,In Custody,913,6
-2014,MB,Other Minority,Female,In Custody,0,0
-2014,ON,Other Minority,Female,In Custody,"1,988",21
-2014,QC,Other Minority,Female,In Custody,731,11
-2014,NB,Other Minority,Female,In Custody,0,0
-2014,NL,Other Minority,Female,In Custody,0,0
-2014,PE,Other Minority,Female,In Custody,0,0
-2014,NS,Other Minority,Female,In Custody,"1,121",4
-2014,NW,Other Minority,Female,In Custody,0,0
-2014,YU,Other Minority,Female,In Custody,0,0
-2014,NU,Other Minority,Female,In Custody,0,0
-2014,National,Black,Male,In Custody,"1,600","1,409"
-2014,BC,Black,Male,In Custody,"1,451",100
-2014,AB,Black,Male,In Custody,"1,611",95
-2014,SK,Black,Male,In Custody,"1,061",19
-2014,MB,Black,Male,In Custody,"2,001",17
-2014,ON,Black,Male,In Custody,"1,592",786
-2014,QC,Black,Male,In Custody,"1,688",230
-2014,NB,Black,Male,In Custody,"1,528",99
-2014,NL,Black,Male,In Custody,0,0
-2014,PE,Black,Male,In Custody,0,0
-2014,NS,Black,Male,In Custody,"1,763",63
-2014,NW,Black,Male,In Custody,0,0
-2014,YU,Black,Male,In Custody,0,0
-2014,NU,Black,Male,In Custody,0,0
-2014,National,White,Male,In Custody,"1,507","8,563"
-2014,BC,White,Male,In Custody,"1,461","1,253"
-2014,AB,White,Male,In Custody,"1,460","1,005"
-2014,SK,White,Male,In Custody,"1,303",267
-2014,MB,White,Male,In Custody,"1,468",211
-2014,ON,White,Male,In Custody,"1,358","1,962"
-2014,QC,White,Male,In Custody,"1,700","2,765"
-2014,NB,White,Male,In Custody,"1,420",722
-2014,NL,White,Male,In Custody,0,0
-2014,PE,White,Male,In Custody,0,0
-2014,NS,White,Male,In Custody,"1,476",378
-2014,NW,White,Male,In Custody,0,0
-2014,YU,White,Male,In Custody,0,0
-2014,NU,White,Male,In Custody,0,0
-2014,National,Aboriginal,Male,In Custody,"1,449","3,324"
-2014,BC,Aboriginal,Male,In Custody,"1,272",601
-2014,AB,Aboriginal,Male,In Custody,"1,591",683
-2014,SK,Aboriginal,Male,In Custody,"1,528",524
-2014,MB,Aboriginal,Male,In Custody,"1,474",474
-2014,ON,Aboriginal,Male,In Custody,"1,380",440
-2014,QC,Aboriginal,Male,In Custody,"1,460",420
-2014,NB,Aboriginal,Male,In Custody,"1,395",131
-2014,NL,Aboriginal,Male,In Custody,0,0
-2014,PE,Aboriginal,Male,In Custody,0,0
-2014,NS,Aboriginal,Male,In Custody,"1,282",50
-2014,NW,Aboriginal,Male,In Custody,853,1
-2014,YU,Aboriginal,Male,In Custody,0,0
-2014,NU,Aboriginal,Male,In Custody,0,0
-2014,National,Other Minority,Male,In Custody,"1,495","1,400"
-2014,BC,Other Minority,Male,In Custody,"1,453",254
-2014,AB,Other Minority,Male,In Custody,"1,409",169
-2014,SK,Other Minority,Male,In Custody,"1,283",224
-2014,MB,Other Minority,Male,In Custody,"1,715",54
-2014,ON,Other Minority,Male,In Custody,"1,665",422
-2014,QC,Other Minority,Male,In Custody,"1,465",214
-2014,NB,Other Minority,Male,In Custody,"1,355",37
-2014,NL,Other Minority,Male,In Custody,0,0
-2014,PE,Other Minority,Male,In Custody,0,0
-2014,NS,Other Minority,Male,In Custody,"1,511",26
-2014,NW,Other Minority,Male,In Custody,0,0
-2014,YU,Other Minority,Male,In Custody,0,0
-2014,NU,Other Minority,Male,In Custody,0,0
-2015,National,Black,Female,In Custody,"1,774",47
-2015,BC,Black,Female,In Custody,0,0
-2015,AB,Black,Female,In Custody,730,1
-2015,SK,Black,Female,In Custody,0,0
-2015,MB,Black,Female,In Custody,0,0
-2015,ON,Black,Female,In Custody,"1,910",38
-2015,QC,Black,Female,In Custody,"1,217",4
-2015,NB,Black,Female,In Custody,0,0
-2015,NL,Black,Female,In Custody,0,0
-2015,PE,Black,Female,In Custody,0,0
-2015,NS,Black,Female,In Custody,"1,294",4
-2015,NW,Black,Female,In Custody,0,0
-2015,YU,Black,Female,In Custody,0,0
-2015,NU,Black,Female,In Custody,0,0
-2015,National,White,Female,In Custody,"1,080",308
-2015,BC,White,Female,In Custody,"1,062",40
-2015,AB,White,Female,In Custody,"1,203",41
-2015,SK,White,Female,In Custody,"1,114",17
-2015,MB,White,Female,In Custody,0,0
-2015,ON,White,Female,In Custody,"1,200",85
-2015,QC,White,Female,In Custody,"1,018",66
-2015,NB,White,Female,In Custody,0,0
-2015,NL,White,Female,In Custody,0,0
-2015,PE,White,Female,In Custody,0,0
-2015,NS,White,Female,In Custody,895,59
-2015,NW,White,Female,In Custody,0,0
-2015,YU,White,Female,In Custody,0,0
-2015,NU,White,Female,In Custody,0,0
-2015,National,Aboriginal,Female,In Custody,"1,110",211
-2015,BC,Aboriginal,Female,In Custody,"1,167",38
-2015,AB,Aboriginal,Female,In Custody,"1,195",80
-2015,SK,Aboriginal,Female,In Custody,"1,115",29
-2015,MB,Aboriginal,Female,In Custody,0,0
-2015,ON,Aboriginal,Female,In Custody,715,35
-2015,QC,Aboriginal,Female,In Custody,"1,026",15
-2015,NB,Aboriginal,Female,In Custody,0,0
-2015,NL,Aboriginal,Female,In Custody,0,0
-2015,PE,Aboriginal,Female,In Custody,0,0
-2015,NS,Aboriginal,Female,In Custody,"1,537",14
-2015,NW,Aboriginal,Female,In Custody,0,0
-2015,YU,Aboriginal,Female,In Custody,0,0
-2015,NU,Aboriginal,Female,In Custody,0,0
-2015,National,Other Minority,Female,In Custody,"1,439",58
-2015,BC,Other Minority,Female,In Custody,"1,532",5
-2015,AB,Other Minority,Female,In Custody,"1,457",11
-2015,SK,Other Minority,Female,In Custody,913,6
-2015,MB,Other Minority,Female,In Custody,0,0
-2015,ON,Other Minority,Female,In Custody,"1,988",21
-2015,QC,Other Minority,Female,In Custody,731,11
-2015,NB,Other Minority,Female,In Custody,0,0
-2015,NL,Other Minority,Female,In Custody,0,0
-2015,PE,Other Minority,Female,In Custody,0,0
-2015,NS,Other Minority,Female,In Custody,"1,121",4
-2015,NW,Other Minority,Female,In Custody,0,0
-2015,YU,Other Minority,Female,In Custody,0,0
-2015,NU,Other Minority,Female,In Custody,0,0
-2015,National,Black,Male,In Custody,"1,602","1,409"
-2015,BC,Black,Male,In Custody,"1,451",100
-2015,AB,Black,Male,In Custody,"1,611",95
-2015,SK,Black,Male,In Custody,"1,061",19
-2015,MB,Black,Male,In Custody,"2,001",17
-2015,ON,Black,Male,In Custody,"1,595",785
-2015,QC,Black,Male,In Custody,"1,694",231
-2015,NB,Black,Male,In Custody,"1,528",99
-2015,NL,Black,Male,In Custody,0,0
-2015,PE,Black,Male,In Custody,0,0
-2015,NS,Black,Male,In Custody,"1,763",63
-2015,NW,Black,Male,In Custody,0,0
-2015,YU,Black,Male,In Custody,0,0
-2015,NU,Black,Male,In Custody,0,0
-2015,National,White,Male,In Custody,"1,511","8,559"
-2015,BC,White,Male,In Custody,"1,464","1,253"
-2015,AB,White,Male,In Custody,"1,465","1,004"
-2015,SK,White,Male,In Custody,"1,303",267
-2015,MB,White,Male,In Custody,"1,473",212
-2015,ON,White,Male,In Custody,"1,363","1,953"
-2015,QC,White,Male,In Custody,"1,703","2,772"
-2015,NB,White,Male,In Custody,"1,421",721
-2015,NL,White,Male,In Custody,0,0
-2015,PE,White,Male,In Custody,0,0
-2015,NS,White,Male,In Custody,"1,479",377
-2015,NW,White,Male,In Custody,0,0
-2015,YU,White,Male,In Custody,0,0
-2015,NU,White,Male,In Custody,0,0
-2015,National,Aboriginal,Male,In Custody,"1,451","3,324"
-2015,BC,Aboriginal,Male,In Custody,"1,266",600
-2015,AB,Aboriginal,Male,In Custody,"1,591",688
-2015,SK,Aboriginal,Male,In Custody,"1,530",523
-2015,MB,Aboriginal,Male,In Custody,"1,477",473
-2015,ON,Aboriginal,Male,In Custody,"1,384",438
-2015,QC,Aboriginal,Male,In Custody,"1,465",421
-2015,NB,Aboriginal,Male,In Custody,"1,395",131
-2015,NL,Aboriginal,Male,In Custody,0,0
-2015,PE,Aboriginal,Male,In Custody,0,0
-2015,NS,Aboriginal,Male,In Custody,"1,282",50
-2015,NW,Aboriginal,Male,In Custody,0,0
-2015,YU,Aboriginal,Male,In Custody,0,0
-2015,NU,Aboriginal,Male,In Custody,0,0
-2015,National,Other Minority,Male,In Custody,"1,502","1,397"
-2015,BC,Other Minority,Male,In Custody,"1,459",253
-2015,AB,Other Minority,Male,In Custody,"1,409",169
-2015,SK,Other Minority,Male,In Custody,"1,307",220
-2015,MB,Other Minority,Male,In Custody,"1,717",53
-2015,ON,Other Minority,Male,In Custody,"1,665",422
-2015,QC,Other Minority,Male,In Custody,"1,480",217
-2015,NB,Other Minority,Male,In Custody,"1,355",37
-2015,NL,Other Minority,Male,In Custody,0,0
-2015,PE,Other Minority,Male,In Custody,0,0
-2015,NS,Other Minority,Male,In Custody,"1,511",26
-2015,NW,Other Minority,Male,In Custody,0,0
-2015,YU,Other Minority,Male,In Custody,0,0
-2015,NU,Other Minority,Male,In Custody,0,0
-2016,National,Black,Female,In Custody,"1,697",36
-2016,BC,Black,Female,In Custody,0,0
-2016,AB,Black,Female,In Custody,"1,095",1
-2016,SK,Black,Female,In Custody,731,1
-2016,MB,Black,Female,In Custody,0,0
-2016,ON,Black,Female,In Custody,"1,889",28
-2016,QC,Black,Female,In Custody,"1,233",2
-2016,NB,Black,Female,In Custody,0,0
-2016,NL,Black,Female,In Custody,0,0
-2016,PE,Black,Female,In Custody,0,0
-2016,NS,Black,Female,In Custody,974,4
-2016,NW,Black,Female,In Custody,0,0
-2016,YU,Black,Female,In Custody,0,0
-2016,NU,Black,Female,In Custody,0,0
-2016,National,White,Female,In Custody,"1,076",348
-2016,BC,White,Female,In Custody,668,37
-2016,AB,White,Female,In Custody,"1,272",51
-2016,SK,White,Female,In Custody,"1,116",13
-2016,MB,White,Female,In Custody,0,0
-2016,ON,White,Female,In Custody,"1,255",103
-2016,QC,White,Female,In Custody,984,84
-2016,NB,White,Female,In Custody,0,0
-2016,NL,White,Female,In Custody,0,0
-2016,PE,White,Female,In Custody,0,0
-2016,NS,White,Female,In Custody,974,60
-2016,NW,White,Female,In Custody,0,0
-2016,YU,White,Female,In Custody,0,0
-2016,NU,White,Female,In Custody,0,0
-2016,National,Aboriginal,Female,In Custody,"1,113",240
-2016,BC,Aboriginal,Female,In Custody,"1,128",37
-2016,AB,Aboriginal,Female,In Custody,"1,272",99
-2016,SK,Aboriginal,Female,In Custody,"1,084",40
-2016,MB,Aboriginal,Female,In Custody,0,0
-2016,ON,Aboriginal,Female,In Custody,844,34
-2016,QC,Aboriginal,Female,In Custody,702,19
-2016,NB,Aboriginal,Female,In Custody,0,0
-2016,NL,Aboriginal,Female,In Custody,0,0
-2016,PE,Aboriginal,Female,In Custody,0,0
-2016,NS,Aboriginal,Female,In Custody,"1,279",11
-2016,NW,Aboriginal,Female,In Custody,0,0
-2016,YU,Aboriginal,Female,In Custody,0,0
-2016,NU,Aboriginal,Female,In Custody,0,0
-2016,National,Other Minority,Female,In Custody,"1,317",57
-2016,BC,Other Minority,Female,In Custody,"1,756",5
-2016,AB,Other Minority,Female,In Custody,"1,579",13
-2016,SK,Other Minority,Female,In Custody,244,3
-2016,MB,Other Minority,Female,In Custody,0,0
-2016,ON,Other Minority,Female,In Custody,"1,233",25
-2016,QC,Other Minority,Female,In Custody,"1,215",7
-2016,NB,Other Minority,Female,In Custody,0,0
-2016,NL,Other Minority,Female,In Custody,0,0
-2016,PE,Other Minority,Female,In Custody,0,0
-2016,NS,Other Minority,Female,In Custody,"1,424",4
-2016,NW,Other Minority,Female,In Custody,0,0
-2016,YU,Other Minority,Female,In Custody,0,0
-2016,NU,Other Minority,Female,In Custody,0,0
-2016,National,Black,Male,In Custody,"1,602","1,399"
-2016,BC,Black,Male,In Custody,"1,501",99
-2016,AB,Black,Male,In Custody,"1,617",99
-2016,SK,Black,Male,In Custody,"1,535",19
-2016,MB,Black,Male,In Custody,"1,848",30
-2016,ON,Black,Male,In Custody,"1,596",751
-2016,QC,Black,Male,In Custody,"1,622",262
-2016,NB,Black,Male,In Custody,"1,488",91
-2016,NL,Black,Male,In Custody,0,0
-2016,PE,Black,Male,In Custody,0,0
-2016,NS,Black,Male,In Custody,"1,852",48
-2016,NW,Black,Male,In Custody,0,0
-2016,YU,Black,Male,In Custody,0,0
-2016,NU,Black,Male,In Custody,0,0
-2016,National,White,Male,In Custody,"1,495","8,183"
-2016,BC,White,Male,In Custody,"1,453","1,140"
-2016,AB,White,Male,In Custody,"1,473","1,003"
-2016,SK,White,Male,In Custody,"1,299",287
-2016,MB,White,Male,In Custody,"1,592",237
-2016,ON,White,Male,In Custody,"1,301","1,858"
-2016,QC,White,Male,In Custody,"1,684","2,642"
-2016,NB,White,Male,In Custody,"1,436",708
-2016,NL,White,Male,In Custody,0,0
-2016,PE,White,Male,In Custody,0,0
-2016,NS,White,Male,In Custody,"1,531",308
-2016,NW,White,Male,In Custody,0,0
-2016,YU,White,Male,In Custody,0,0
-2016,NU,White,Male,In Custody,0,0
-2016,National,Aboriginal,Male,In Custody,"1,431","3,413"
-2016,BC,Aboriginal,Male,In Custody,"1,299",602
-2016,AB,Aboriginal,Male,In Custody,"1,522",662
-2016,SK,Aboriginal,Male,In Custody,"1,427",648
-2016,MB,Aboriginal,Male,In Custody,"1,542",446
-2016,ON,Aboriginal,Male,In Custody,"1,361",440
-2016,QC,Aboriginal,Male,In Custody,"1,472",441
-2016,NB,Aboriginal,Male,In Custody,"1,372",129
-2016,NL,Aboriginal,Male,In Custody,0,0
-2016,PE,Aboriginal,Male,In Custody,0,0
-2016,NS,Aboriginal,Male,In Custody,"1,246",45
-2016,NW,Aboriginal,Male,In Custody,0,0
-2016,YU,Aboriginal,Male,In Custody,0,0
-2016,NU,Aboriginal,Male,In Custody,0,0
-2016,National,Other Minority,Male,In Custody,"1,499","1,186"
-2016,BC,Other Minority,Male,In Custody,"1,410",224
-2016,AB,Other Minority,Male,In Custody,"1,481",151
-2016,SK,Other Minority,Male,In Custody,"1,459",82
-2016,MB,Other Minority,Male,In Custody,"1,605",45
-2016,ON,Other Minority,Male,In Custody,"1,640",387
-2016,QC,Other Minority,Male,In Custody,"1,438",228
-2016,NB,Other Minority,Male,In Custody,"1,227",43
-2016,NL,Other Minority,Male,In Custody,0,0
-2016,PE,Other Minority,Male,In Custody,0,0
-2016,NS,Other Minority,Male,In Custody,"1,190",26
-2016,NW,Other Minority,Male,In Custody,0,0
-2016,YU,Other Minority,Male,In Custody,0,0
-2016,NU,Other Minority,Male,In Custody,0,0
-2017,National,Black,Female,In Custody,"1,528",38
-2017,BC,Black,Female,In Custody,0,0
-2017,AB,Black,Female,In Custody,"2,184",2
-2017,SK,Black,Female,In Custody,731,1
-2017,MB,Black,Female,In Custody,0,0
-2017,ON,Black,Female,In Custody,"1,566",30
-2017,QC,Black,Female,In Custody,"1,375",2
-2017,NB,Black,Female,In Custody,0,0
-2017,NL,Black,Female,In Custody,0,0
-2017,PE,Black,Female,In Custody,0,0
-2017,NS,Black,Female,In Custody,"1,076",3
-2017,NW,Black,Female,In Custody,0,0
-2017,YU,Black,Female,In Custody,0,0
-2017,NU,Black,Female,In Custody,0,0
-2017,National,White,Female,In Custody,"1,038",345
-2017,BC,White,Female,In Custody,754,39
-2017,AB,White,Female,In Custody,969,57
-2017,SK,White,Female,In Custody,"1,186",13
-2017,MB,White,Female,In Custody,0,0
-2017,ON,White,Female,In Custody,"1,206",101
-2017,QC,White,Female,In Custody,"1,031",82
-2017,NB,White,Female,In Custody,0,0
-2017,NL,White,Female,In Custody,0,0
-2017,PE,White,Female,In Custody,0,0
-2017,NS,White,Female,In Custody,975,53
-2017,NW,White,Female,In Custody,0,0
-2017,YU,White,Female,In Custody,0,0
-2017,NU,White,Female,In Custody,0,0
-2017,National,Aboriginal,Female,In Custody,"1,067",250
-2017,BC,Aboriginal,Female,In Custody,"1,164",43
-2017,AB,Aboriginal,Female,In Custody,"1,074",91
-2017,SK,Aboriginal,Female,In Custody,"1,236",41
-2017,MB,Aboriginal,Female,In Custody,0,0
-2017,ON,Aboriginal,Female,In Custody,895,39
-2017,QC,Aboriginal,Female,In Custody,858,24
-2017,NB,Aboriginal,Female,In Custody,0,0
-2017,NL,Aboriginal,Female,In Custody,0,0
-2017,PE,Aboriginal,Female,In Custody,0,0
-2017,NS,Aboriginal,Female,In Custody,"1,065",12
-2017,NW,Aboriginal,Female,In Custody,0,0
-2017,YU,Aboriginal,Female,In Custody,0,0
-2017,NU,Aboriginal,Female,In Custody,0,0
-2017,National,Other Minority,Female,In Custody,"1,373",60
-2017,BC,Other Minority,Female,In Custody,"1,214",8
-2017,AB,Other Minority,Female,In Custody,"1,863",13
-2017,SK,Other Minority,Female,In Custody,639,6
-2017,MB,Other Minority,Female,In Custody,0,0
-2017,ON,Other Minority,Female,In Custody,"1,440",22
-2017,QC,Other Minority,Female,In Custody,"1,205",9
-2017,NB,Other Minority,Female,In Custody,0,0
-2017,NL,Other Minority,Female,In Custody,0,0
-2017,PE,Other Minority,Female,In Custody,0,0
-2017,NS,Other Minority,Female,In Custody,"1,056",2
-2017,NW,Other Minority,Female,In Custody,0,0
-2017,YU,Other Minority,Female,In Custody,0,0
-2017,NU,Other Minority,Female,In Custody,0,0
-2017,National,Black,Male,In Custody,"1,562","1,258"
-2017,BC,Black,Male,In Custody,"1,545",91
-2017,AB,Black,Male,In Custody,"1,470",113
-2017,SK,Black,Male,In Custody,"1,326",20
-2017,MB,Black,Male,In Custody,"1,783",24
-2017,ON,Black,Male,In Custody,"1,547",629
-2017,QC,Black,Male,In Custody,"1,563",254
-2017,NB,Black,Male,In Custody,"1,616",84
-2017,NL,Black,Male,In Custody,0,0
-2017,PE,Black,Male,In Custody,0,0
-2017,NS,Black,Male,In Custody,"1,946",43
-2017,NW,Black,Male,In Custody,0,0
-2017,YU,Black,Male,In Custody,0,0
-2017,NU,Black,Male,In Custody,0,0
-2017,National,White,Male,In Custody,"1,475","7,775"
-2017,BC,White,Male,In Custody,"1,351","1,062"
-2017,AB,White,Male,In Custody,"1,449","1,059"
-2017,SK,White,Male,In Custody,"1,406",249
-2017,MB,White,Male,In Custody,"1,478",242
-2017,ON,White,Male,In Custody,"1,252","1,728"
-2017,QC,White,Male,In Custody,"1,707","2,498"
-2017,NB,White,Male,In Custody,"1,465",633
-2017,NL,White,Male,In Custody,0,0
-2017,PE,White,Male,In Custody,0,0
-2017,NS,White,Male,In Custody,"1,426",304
-2017,NW,White,Male,In Custody,0,0
-2017,YU,White,Male,In Custody,0,0
-2017,NU,White,Male,In Custody,0,0
-2017,National,Aboriginal,Male,In Custody,"1,402","3,525"
-2017,BC,Aboriginal,Male,In Custody,"1,250",629
-2017,AB,Aboriginal,Male,In Custody,"1,514",731
-2017,SK,Aboriginal,Male,In Custody,"1,427",644
-2017,MB,Aboriginal,Male,In Custody,"1,474",490
-2017,ON,Aboriginal,Male,In Custody,"1,334",450
-2017,QC,Aboriginal,Male,In Custody,"1,437",424
-2017,NB,Aboriginal,Male,In Custody,"1,196",121
-2017,NL,Aboriginal,Male,In Custody,0,0
-2017,PE,Aboriginal,Male,In Custody,0,0
-2017,NS,Aboriginal,Male,In Custody,"1,449",36
-2017,NW,Aboriginal,Male,In Custody,0,0
-2017,YU,Aboriginal,Male,In Custody,0,0
-2017,NU,Aboriginal,Male,In Custody,0,0
-2017,National,Other Minority,Male,In Custody,"1,463","1,426"
-2017,BC,Other Minority,Male,In Custody,"1,336",201
-2017,AB,Other Minority,Male,In Custody,"1,389",169
-2017,SK,Other Minority,Male,In Custody,"1,389",134
-2017,MB,Other Minority,Male,In Custody,"1,439",56
-2017,ON,Other Minority,Male,In Custody,"1,569",616
-2017,QC,Other Minority,Male,In Custody,"1,456",199
-2017,NB,Other Minority,Male,In Custody,"1,216",36
-2017,NL,Other Minority,Male,In Custody,0,0
-2017,PE,Other Minority,Male,In Custody,0,0
-2017,NS,Other Minority,Male,In Custody,"1,092",15
-2017,NW,Other Minority,Male,In Custody,0,0
-2017,YU,Other Minority,Male,In Custody,0,0
-2017,NU,Other Minority,Male,In Custody,0,0
-2018,National,Black,Female,In Custody,"1,284",42
-2018,BC,Black,Female,In Custody,"1,095",1
-2018,AB,Black,Female,In Custody,"1,608",3
-2018,SK,Black,Female,In Custody,0,0
-2018,MB,Black,Female,In Custody,0,0
-2018,ON,Black,Female,In Custody,"1,188",34
-2018,QC,Black,Female,In Custody,"1,800",2
-2018,NB,Black,Female,In Custody,0,0
-2018,NL,Black,Female,In Custody,0,0
-2018,PE,Black,Female,In Custody,0,0
-2018,NS,Black,Female,In Custody,"2,010",2
-2018,NW,Black,Female,In Custody,0,0
-2018,YU,Black,Female,In Custody,0,0
-2018,NU,Black,Female,In Custody,0,0
-2018,National,White,Female,In Custody,"1,052",332
-2018,BC,White,Female,In Custody,853,36
-2018,AB,White,Female,In Custody,940,58
-2018,SK,White,Female,In Custody,"1,336",13
-2018,MB,White,Female,In Custody,0,0
-2018,ON,White,Female,In Custody,"1,105",83
-2018,QC,White,Female,In Custody,"1,140",77
-2018,NB,White,Female,In Custody,0,0
-2018,NL,White,Female,In Custody,0,0
-2018,PE,White,Female,In Custody,0,0
-2018,NS,White,Female,In Custody,"1,035",65
-2018,NW,White,Female,In Custody,0,0
-2018,YU,White,Female,In Custody,0,0
-2018,NU,White,Female,In Custody,0,0
-2018,National,Aboriginal,Female,In Custody,"1,154",252
-2018,BC,Aboriginal,Female,In Custody,"1,455",38
-2018,AB,Aboriginal,Female,In Custody,"1,142",102
-2018,SK,Aboriginal,Female,In Custody,"1,249",53
-2018,MB,Aboriginal,Female,In Custody,0,0
-2018,ON,Aboriginal,Female,In Custody,"1,001",37
-2018,QC,Aboriginal,Female,In Custody,676,14
-2018,NB,Aboriginal,Female,In Custody,0,0
-2018,NL,Aboriginal,Female,In Custody,0,0
-2018,PE,Aboriginal,Female,In Custody,0,0
-2018,NS,Aboriginal,Female,In Custody,810,8
-2018,NW,Aboriginal,Female,In Custody,0,0
-2018,YU,Aboriginal,Female,In Custody,0,0
-2018,NU,Aboriginal,Female,In Custody,0,0
-2018,National,Other Minority,Female,In Custody,"1,390",64
-2018,BC,Other Minority,Female,In Custody,"1,356",4
-2018,AB,Other Minority,Female,In Custody,"1,669",16
-2018,SK,Other Minority,Female,In Custody,449,4
-2018,MB,Other Minority,Female,In Custody,0,0
-2018,ON,Other Minority,Female,In Custody,"1,590",25
-2018,QC,Other Minority,Female,In Custody,"1,045",10
-2018,NB,Other Minority,Female,In Custody,0,0
-2018,NL,Other Minority,Female,In Custody,0,0
-2018,PE,Other Minority,Female,In Custody,0,0
-2018,NS,Other Minority,Female,In Custody,966,5
-2018,NW,Other Minority,Female,In Custody,0,0
-2018,YU,Other Minority,Female,In Custody,0,0
-2018,NU,Other Minority,Female,In Custody,0,0
-2018,National,Black,Male,In Custody,"1,536","1,150"
-2018,BC,Black,Male,In Custody,"1,435",97
-2018,AB,Black,Male,In Custody,"1,632",105
-2018,SK,Black,Male,In Custody,"1,226",14
-2018,MB,Black,Male,In Custody,"1,766",29
-2018,ON,Black,Male,In Custody,"1,548",571
-2018,QC,Black,Male,In Custody,"1,438",238
-2018,NB,Black,Male,In Custody,"1,483",61
-2018,NL,Black,Male,In Custody,0,0
-2018,PE,Black,Male,In Custody,0,0
-2018,NS,Black,Male,In Custody,"2,020",35
-2018,NW,Black,Male,In Custody,0,0
-2018,YU,Black,Male,In Custody,0,0
-2018,NU,Black,Male,In Custody,0,0
-2018,National,White,Male,In Custody,"1,439","7,296"
-2018,BC,White,Male,In Custody,"1,370","1,072"
-2018,AB,White,Male,In Custody,"1,423","1,063"
-2018,SK,White,Male,In Custody,"1,158",202
-2018,MB,White,Male,In Custody,"1,460",223
-2018,ON,White,Male,In Custody,"1,247","1,684"
-2018,QC,White,Male,In Custody,"1,675","2,145"
-2018,NB,White,Male,In Custody,"1,372",612
-2018,NL,White,Male,In Custody,0,0
-2018,PE,White,Male,In Custody,0,0
-2018,NS,White,Male,In Custody,"1,448",295
-2018,NW,White,Male,In Custody,0,0
-2018,YU,White,Male,In Custody,0,0
-2018,NU,White,Male,In Custody,0,0
-2018,National,Aboriginal,Male,In Custody,"1,392","3,538"
-2018,BC,Aboriginal,Male,In Custody,"1,311",637
-2018,AB,Aboriginal,Male,In Custody,"1,494",755
-2018,SK,Aboriginal,Male,In Custody,"1,406",586
-2018,MB,Aboriginal,Male,In Custody,"1,469",518
-2018,ON,Aboriginal,Male,In Custody,"1,316",486
-2018,QC,Aboriginal,Male,In Custody,"1,306",381
-2018,NB,Aboriginal,Male,In Custody,"1,291",133
-2018,NL,Aboriginal,Male,In Custody,0,0
-2018,PE,Aboriginal,Male,In Custody,0,0
-2018,NS,Aboriginal,Male,In Custody,"1,574",42
-2018,NW,Aboriginal,Male,In Custody,0,0
-2018,YU,Aboriginal,Male,In Custody,0,0
-2018,NU,Aboriginal,Male,In Custody,0,0
-2018,National,Other Minority,Male,In Custody,"1,449","1,458"
-2018,BC,Other Minority,Male,In Custody,"1,394",208
-2018,AB,Other Minority,Male,In Custody,"1,227",204
-2018,SK,Other Minority,Male,In Custody,"1,388",105
-2018,MB,Other Minority,Male,In Custody,"1,525",48
-2018,ON,Other Minority,Male,In Custody,"1,570",621
-2018,QC,Other Minority,Male,In Custody,"1,410",197
-2018,NB,Other Minority,Male,In Custody,"1,358",46
-2018,NL,Other Minority,Male,In Custody,0,0
-2018,PE,Other Minority,Male,In Custody,0,0
-2018,NS,Other Minority,Male,In Custody,"1,323",29
-2018,NW,Other Minority,Male,In Custody,0,0
-2018,YU,Other Minority,Male,In Custody,0,0
-2018,NU,Other Minority,Male,In Custody,0,0
-2012,National,Black,Female,Community,"1,803",47
-2012,BC,Black,Female,Community,"1,916",1
-2012,AB,Black,Female,Community,"1,157",2
-2012,SK,Black,Female,Community,0,1
-2012,MB,Black,Female,Community,0,0
-2012,ON,Black,Female,Community,"1,999",34
-2012,QC,Black,Female,Community,"1,650",6
-2012,NB,Black,Female,Community,0,0
-2012,NL,Black,Female,Community,0,0
-2012,PE,Black,Female,Community,0,0
-2012,NS,Black,Female,Community,873,3
-2012,NW,Black,Female,Community,0,0
-2012,YU,Black,Female,Community,0,0
-2012,NU,Black,Female,Community,0,0
-2012,National,White,Female,Community,"1,020",290
-2012,BC,White,Female,Community,908,54
-2012,AB,White,Female,Community,"1,115",45
-2012,SK,White,Female,Community,"1,258",6
-2012,MB,White,Female,Community,"1,336",6
-2012,ON,White,Female,Community,789,76
-2012,QC,White,Female,Community,"1,392",57
-2012,NB,White,Female,Community,"1,077",10
-2012,NL,White,Female,Community,712,9
-2012,PE,White,Female,Community,654,2
-2012,NS,White,Female,Community,933,25
-2012,NW,White,Female,Community,0,0
-2012,YU,White,Female,Community,0,0
-2012,NU,White,Female,Community,0,0
-2012,National,Aboriginal,Female,Community,"1,071",104
-2012,BC,Aboriginal,Female,Community,637,15
-2012,AB,Aboriginal,Female,Community,"1,206",21
-2012,SK,Aboriginal,Female,Community,"1,465",18
-2012,MB,Aboriginal,Female,Community,"1,026",15
-2012,ON,Aboriginal,Female,Community,"1,118",21
-2012,QC,Aboriginal,Female,Community,411,2
-2012,NB,Aboriginal,Female,Community,"2,299",2
-2012,NL,Aboriginal,Female,Community,0,0
-2012,PE,Aboriginal,Female,Community,0,0
-2012,NS,Aboriginal,Female,Community,579,10
-2012,NW,Aboriginal,Female,Community,0,0
-2012,YU,Aboriginal,Female,Community,0,0
-2012,NU,Aboriginal,Female,Community,0,0
-2012,National,Other Minority,Female,Community,"1,416",43
-2012,BC,Other Minority,Female,Community,"2,079",11
-2012,AB,Other Minority,Female,Community,983,3
-2012,SK,Other Minority,Female,Community,"2,192",1
-2012,MB,Other Minority,Female,Community,"1,095",3
-2012,ON,Other Minority,Female,Community,"1,180",20
-2012,QC,Other Minority,Female,Community,"1,080",3
-2012,NB,Other Minority,Female,Community,"2,010",1
-2012,NL,Other Minority,Female,Community,0,0
-2012,PE,Other Minority,Female,Community,0,0
-2012,NS,Other Minority,Female,Community,731,1
-2012,NW,Other Minority,Female,Community,0,0
-2012,YU,Other Minority,Female,Community,0,0
-2012,NU,Other Minority,Female,Community,0,0
-2012,National,Black,Male,Community,"1,503",430
-2012,BC,Black,Male,Community,"2,611",15
-2012,AB,Black,Male,Community,"1,461",55
-2012,SK,Black,Male,Community,"1,198",3
-2012,MB,Black,Male,Community,"1,242",8
-2012,ON,Black,Male,Community,"1,505",233
-2012,QC,Black,Male,Community,"1,459",72
-2012,NB,Black,Male,Community,615,5
-2012,NL,Black,Male,Community,0,0
-2012,PE,Black,Male,Community,0,0
-2012,NS,Black,Male,Community,"1,400",39
-2012,NW,Black,Male,Community,0,0
-2012,YU,Black,Male,Community,0,0
-2012,NU,Black,Male,Community,0,0
-2012,National,White,Male,Community,"1,334","5,014"
-2012,BC,White,Male,Community,"1,260",683
-2012,AB,White,Male,Community,"1,238",608
-2012,SK,White,Male,Community,"1,106",145
-2012,MB,White,Male,Community,"1,184",140
-2012,ON,White,Male,Community,"1,305","1,179"
-2012,QC,White,Male,Community,"1,482","1,650"
-2012,NB,White,Male,Community,"1,368",264
-2012,NL,White,Male,Community,"1,205",102
-2012,PE,White,Male,Community,736,19
-2012,NS,White,Male,Community,"1,194",224
-2012,NW,White,Male,Community,0,0
-2012,YU,White,Male,Community,0,0
-2012,NU,White,Male,Community,0,0
-2012,National,Aboriginal,Male,Community,"1,195","1,135"
-2012,BC,Aboriginal,Male,Community,"1,245",233
-2012,AB,Aboriginal,Male,Community,"1,211",215
-2012,SK,Aboriginal,Male,Community,"1,234",192
-2012,MB,Aboriginal,Male,Community,"1,095",152
-2012,ON,Aboriginal,Male,Community,"1,147",169
-2012,QC,Aboriginal,Male,Community,"1,238",121
-2012,NB,Aboriginal,Male,Community,"1,461",15
-2012,NL,Aboriginal,Male,Community,"1,390",6
-2012,PE,Aboriginal,Male,Community,0,0
-2012,NS,Aboriginal,Male,Community,886,21
-2012,NW,Aboriginal,Male,Community,892,6
-2012,YU,Aboriginal,Male,Community,0,0
-2012,NU,Aboriginal,Male,Community,850,5
-2012,National,Other Minority,Male,Community,"1,622",602
-2012,BC,Other Minority,Male,Community,"1,905",149
-2012,AB,Other Minority,Male,Community,"1,358",116
-2012,SK,Other Minority,Male,Community,"1,252",16
-2012,MB,Other Minority,Male,Community,"1,465",49
-2012,ON,Other Minority,Male,Community,"1,648",176
-2012,QC,Other Minority,Male,Community,"1,628",80
-2012,NB,Other Minority,Male,Community,"2,055",4
-2012,NL,Other Minority,Male,Community,0,0
-2012,PE,Other Minority,Male,Community,0,0
-2012,NS,Other Minority,Male,Community,"1,242",12
-2012,NW,Other Minority,Male,Community,0,0
-2012,YU,Other Minority,Male,Community,0,0
-2012,NU,Other Minority,Male,Community,0,0
-2013,National,Black,Female,Community,"1,682",61
-2013,BC,Black,Female,Community,"1,916",1
-2013,AB,Black,Female,Community,"1,157",2
-2013,SK,Black,Female,Community,0,1
-2013,MB,Black,Female,Community,0,0
-2013,ON,Black,Female,Community,"1,792",47
-2013,QC,Black,Female,Community,"1,654",7
-2013,NB,Black,Female,Community,0,0
-2013,NL,Black,Female,Community,0,0
-2013,PE,Black,Female,Community,0,0
-2013,NS,Black,Female,Community,873,3
-2013,NW,Black,Female,Community,0,0
-2013,YU,Black,Female,Community,0,0
-2013,NU,Black,Female,Community,0,0
-2013,National,White,Female,Community,"1,062",305
-2013,BC,White,Female,Community,972,51
-2013,AB,White,Female,Community,"1,087",51
-2013,SK,White,Female,Community,"1,382",5
-2013,MB,White,Female,Community,"1,457",5
-2013,ON,White,Female,Community,871,87
-2013,QC,White,Female,Community,"1,395",58
-2013,NB,White,Female,Community,"1,077",10
-2013,NL,White,Female,Community,796,7
-2013,PE,White,Female,Community,912,1
-2013,NS,White,Female,Community,"1,025",30
-2013,NW,White,Female,Community,0,0
-2013,YU,White,Female,Community,0,0
-2013,NU,White,Female,Community,0,0
-2013,National,Aboriginal,Female,Community,"1,103",110
-2013,BC,Aboriginal,Female,Community,740,16
-2013,AB,Aboriginal,Female,Community,"1,220",27
-2013,SK,Aboriginal,Female,Community,"1,513",17
-2013,MB,Aboriginal,Female,Community,"1,100",12
-2013,ON,Aboriginal,Female,Community,"1,126",22
-2013,QC,Aboriginal,Female,Community,617,4
-2013,NB,Aboriginal,Female,Community,"2,299",2
-2013,NL,Aboriginal,Female,Community,0,0
-2013,PE,Aboriginal,Female,Community,0,0
-2013,NS,Aboriginal,Female,Community,578,10
-2013,NW,Aboriginal,Female,Community,0,0
-2013,YU,Aboriginal,Female,Community,0,0
-2013,NU,Aboriginal,Female,Community,0,0
-2013,National,Other Minority,Female,Community,"1,411",48
-2013,BC,Other Minority,Female,Community,"2,226",10
-2013,AB,Other Minority,Female,Community,959,4
-2013,SK,Other Minority,Female,Community,"2,192",1
-2013,MB,Other Minority,Female,Community,"1,095",3
-2013,ON,Other Minority,Female,Community,"1,212",24
-2013,QC,Other Minority,Female,Community,"1,084",4
-2013,NB,Other Minority,Female,Community,"2,010",1
-2013,NL,Other Minority,Female,Community,0,0
-2013,PE,Other Minority,Female,Community,0,0
-2013,NS,Other Minority,Female,Community,731,1
-2013,NW,Other Minority,Female,Community,0,0
-2013,YU,Other Minority,Female,Community,0,0
-2013,NU,Other Minority,Female,Community,0,0
-2013,National,Black,Male,Community,"1,508",599
-2013,BC,Black,Male,Community,"2,307",25
-2013,AB,Black,Male,Community,"1,495",54
-2013,SK,Black,Male,Community,"1,161",4
-2013,MB,Black,Male,Community,"1,969",11
-2013,ON,Black,Male,Community,"1,444",349
-2013,QC,Black,Male,Community,"1,556",101
-2013,NB,Black,Male,Community,"1,149",12
-2013,NL,Black,Male,Community,0,0
-2013,PE,Black,Male,Community,0,0
-2013,NS,Black,Male,Community,"1,483",43
-2013,NW,Black,Male,Community,0,0
-2013,YU,Black,Male,Community,0,0
-2013,NU,Black,Male,Community,0,0
-2013,National,White,Male,Community,"1,377","5,303"
-2013,BC,White,Male,Community,"1,318",725
-2013,AB,White,Male,Community,"1,250",624
-2013,SK,White,Male,Community,"1,135",152
-2013,MB,White,Male,Community,"1,183",150
-2013,ON,White,Male,Community,"1,326","1,298"
-2013,QC,White,Male,Community,"1,533","1,738"
-2013,NB,White,Male,Community,"1,505",285
-2013,NL,White,Male,Community,"1,302",90
-2013,PE,White,Male,Community,768,17
-2013,NS,White,Male,Community,"1,213",224
-2013,NW,White,Male,Community,0,0
-2013,YU,White,Male,Community,0,0
-2013,NU,White,Male,Community,0,0
-2013,National,Aboriginal,Male,Community,"1,223","1,244"
-2013,BC,Aboriginal,Male,Community,"1,288",257
-2013,AB,Aboriginal,Male,Community,"1,210",235
-2013,SK,Aboriginal,Male,Community,"1,248",205
-2013,MB,Aboriginal,Male,Community,"1,055",165
-2013,ON,Aboriginal,Male,Community,"1,198",193
-2013,QC,Aboriginal,Male,Community,"1,356",137
-2013,NB,Aboriginal,Male,Community,"1,568",16
-2013,NL,Aboriginal,Male,Community,"1,390",6
-2013,PE,Aboriginal,Male,Community,0,0
-2013,NS,Aboriginal,Male,Community,864,19
-2013,NW,Aboriginal,Male,Community,892,6
-2013,YU,Aboriginal,Male,Community,0,0
-2013,NU,Aboriginal,Male,Community,850,5
-2013,National,Other Minority,Male,Community,"1,690",716
-2013,BC,Other Minority,Male,Community,"1,997",168
-2013,AB,Other Minority,Male,Community,"1,381",125
-2013,SK,Other Minority,Male,Community,"1,237",19
-2013,MB,Other Minority,Male,Community,"1,489",48
-2013,ON,Other Minority,Male,Community,"1,679",235
-2013,QC,Other Minority,Male,Community,"1,793",105
-2013,NB,Other Minority,Male,Community,"2,009",5
-2013,NL,Other Minority,Male,Community,0,0
-2013,PE,Other Minority,Male,Community,0,0
-2013,NS,Other Minority,Male,Community,"1,313",11
-2013,NW,Other Minority,Male,Community,0,0
-2013,YU,Other Minority,Male,Community,0,0
-2013,NU,Other Minority,Male,Community,0,0
-2014,National,Black,Female,Community,"1,720",45
-2014,BC,Black,Female,Community,0,0
-2014,AB,Black,Female,Community,"1,339",2
-2014,SK,Black,Female,Community,0,1
-2014,MB,Black,Female,Community,0,0
-2014,ON,Black,Female,Community,"1,929",32
-2014,QC,Black,Female,Community,"1,577",6
-2014,NB,Black,Female,Community,731,1
-2014,NL,Black,Female,Community,0,0
-2014,PE,Black,Female,Community,0,0
-2014,NS,Black,Female,Community,942,3
-2014,NW,Black,Female,Community,0,0
-2014,YU,Black,Female,Community,0,0
-2014,NU,Black,Female,Community,0,0
-2014,National,White,Female,Community,"1,032",286
-2014,BC,White,Female,Community,901,55
-2014,AB,White,Female,Community,"1,212",43
-2014,SK,White,Female,Community,"1,017",9
-2014,MB,White,Female,Community,"1,382",8
-2014,ON,White,Female,Community,896,80
-2014,QC,White,Female,Community,"1,274",52
-2014,NB,White,Female,Community,936,15
-2014,NL,White,Female,Community,840,7
-2014,PE,White,Female,Community,0,0
-2014,NS,White,Female,Community,913,17
-2014,NW,White,Female,Community,0,0
-2014,YU,White,Female,Community,0,0
-2014,NU,White,Female,Community,0,0
-2014,National,Aboriginal,Female,Community,"1,151",118
-2014,BC,Aboriginal,Female,Community,938,17
-2014,AB,Aboriginal,Female,Community,"1,158",35
-2014,SK,Aboriginal,Female,Community,"1,482",15
-2014,MB,Aboriginal,Female,Community,985,12
-2014,ON,Aboriginal,Female,Community,"1,065",21
-2014,QC,Aboriginal,Female,Community,"1,644",7
-2014,NB,Aboriginal,Female,Community,"2,233",3
-2014,NL,Aboriginal,Female,Community,0,0
-2014,PE,Aboriginal,Female,Community,0,0
-2014,NS,Aboriginal,Female,Community,582,8
-2014,NW,Aboriginal,Female,Community,0,0
-2014,YU,Aboriginal,Female,Community,0,0
-2014,NU,Aboriginal,Female,Community,0,0
-2014,National,Other Minority,Female,Community,"1,571",43
-2014,BC,Other Minority,Female,Community,"2,707",9
-2014,AB,Other Minority,Female,Community,567,5
-2014,SK,Other Minority,Female,Community,"1,552",2
-2014,MB,Other Minority,Female,Community,"1,283",6
-2014,ON,Other Minority,Female,Community,"1,439",16
-2014,QC,Other Minority,Female,Community,"1,495",4
-2014,NB,Other Minority,Female,Community,0,0
-2014,NL,Other Minority,Female,Community,549,1
-2014,PE,Other Minority,Female,Community,0,0
-2014,NS,Other Minority,Female,Community,0,0
-2014,NW,Other Minority,Female,Community,0,0
-2014,YU,Other Minority,Female,Community,0,0
-2014,NU,Other Minority,Female,Community,0,0
-2014,National,Black,Male,Community,"1,616",468
-2014,BC,Black,Male,Community,"2,668",20
-2014,AB,Black,Male,Community,"1,513",47
-2014,SK,Black,Male,Community,"1,302",4
-2014,MB,Black,Male,Community,"1,269",7
-2014,ON,Black,Male,Community,"1,627",261
-2014,QC,Black,Male,Community,"1,623",85
-2014,NB,Black,Male,Community,801,6
-2014,NL,Black,Male,Community,0,0
-2014,PE,Black,Male,Community,0,0
-2014,NS,Black,Male,Community,"1,326",38
-2014,NW,Black,Male,Community,0,0
-2014,YU,Black,Male,Community,0,0
-2014,NU,Black,Male,Community,0,0
-2014,National,White,Male,Community,"1,338","4,991"
-2014,BC,White,Male,Community,"1,232",713
-2014,AB,White,Male,Community,"1,348",571
-2014,SK,White,Male,Community,"1,095",119
-2014,MB,White,Male,Community,"1,311",148
-2014,ON,White,Male,Community,"1,290","1,098"
-2014,QC,White,Male,Community,"1,469","1,715"
-2014,NB,White,Male,Community,"1,348",269
-2014,NL,White,Male,Community,"1,325",105
-2014,PE,White,Male,Community,717,22
-2014,NS,White,Male,Community,"1,082",231
-2014,NW,White,Male,Community,0,0
-2014,YU,White,Male,Community,0,0
-2014,NU,White,Male,Community,0,0
-2014,National,Aboriginal,Male,Community,"1,262","1,200"
-2014,BC,Aboriginal,Male,Community,"1,443",251
-2014,AB,Aboriginal,Male,Community,"1,164",239
-2014,SK,Aboriginal,Male,Community,"1,165",153
-2014,MB,Aboriginal,Male,Community,"1,188",168
-2014,ON,Aboriginal,Male,Community,"1,205",192
-2014,QC,Aboriginal,Male,Community,"1,437",134
-2014,NB,Aboriginal,Male,Community,"1,638",15
-2014,NL,Aboriginal,Male,Community,"1,235",8
-2014,PE,Aboriginal,Male,Community,0,0
-2014,NS,Aboriginal,Male,Community,917,27
-2014,NW,Aboriginal,Male,Community,"1,041",5
-2014,YU,Aboriginal,Male,Community,0,0
-2014,NU,Aboriginal,Male,Community,"1,002",8
-2014,National,Other Minority,Male,Community,"1,581",676
-2014,BC,Other Minority,Male,Community,"1,810",181
-2014,AB,Other Minority,Male,Community,"1,340",115
-2014,SK,Other Minority,Male,Community,"1,066",30
-2014,MB,Other Minority,Male,Community,"1,366",54
-2014,ON,Other Minority,Male,Community,"1,660",211
-2014,QC,Other Minority,Male,Community,"1,596",66
-2014,NB,Other Minority,Male,Community,"1,476",8
-2014,NL,Other Minority,Male,Community,"1,256",1
-2014,PE,Other Minority,Male,Community,0,0
-2014,NS,Other Minority,Male,Community,"1,259",10
-2014,NW,Other Minority,Male,Community,0,0
-2014,YU,Other Minority,Male,Community,0,0
-2014,NU,Other Minority,Male,Community,0,0
-2015,National,Black,Female,Community,"1,752",44
-2015,BC,Black,Female,Community,0,0
-2015,AB,Black,Female,Community,"1,339",2
-2015,SK,Black,Female,Community,0,1
-2015,MB,Black,Female,Community,0,0
-2015,ON,Black,Female,Community,"1,929",32
-2015,QC,Black,Female,Community,"1,828",5
-2015,NB,Black,Female,Community,731,1
-2015,NL,Black,Female,Community,0,0
-2015,PE,Black,Female,Community,0,0
-2015,NS,Black,Female,Community,942,3
-2015,NW,Black,Female,Community,0,0
-2015,YU,Black,Female,Community,0,0
-2015,NU,Black,Female,Community,0,0
-2015,National,White,Female,Community,"1,066",270
-2015,BC,White,Female,Community,952,49
-2015,AB,White,Female,Community,"1,227",42
-2015,SK,White,Female,Community,"1,064",8
-2015,MB,White,Female,Community,"1,502",7
-2015,ON,White,Female,Community,907,79
-2015,QC,White,Female,Community,"1,274",52
-2015,NB,White,Female,Community,"1,102",11
-2015,NL,White,Female,Community,840,7
-2015,PE,White,Female,Community,0,0
-2015,NS,White,Female,Community,978,15
-2015,NW,White,Female,Community,0,0
-2015,YU,White,Female,Community,0,0
-2015,NU,White,Female,Community,0,0
-2015,National,Aboriginal,Female,Community,"1,166",115
-2015,BC,Aboriginal,Female,Community,938,17
-2015,AB,Aboriginal,Female,Community,"1,177",34
-2015,SK,Aboriginal,Female,Community,"1,549",14
-2015,MB,Aboriginal,Female,Community,"1,022",11
-2015,ON,Aboriginal,Female,Community,"1,065",21
-2015,QC,Aboriginal,Female,Community,"1,644",7
-2015,NB,Aboriginal,Female,Community,"2,233",3
-2015,NL,Aboriginal,Female,Community,0,0
-2015,PE,Aboriginal,Female,Community,0,0
-2015,NS,Aboriginal,Female,Community,582,8
-2015,NW,Aboriginal,Female,Community,0,0
-2015,YU,Aboriginal,Female,Community,0,0
-2015,NU,Aboriginal,Female,Community,0,0
-2015,National,Other Minority,Female,Community,"1,713",38
-2015,BC,Other Minority,Female,Community,"2,707",9
-2015,AB,Other Minority,Female,Community,621,3
-2015,SK,Other Minority,Female,Community,"1,552",2
-2015,MB,Other Minority,Female,Community,"1,689",4
-2015,ON,Other Minority,Female,Community,"1,439",16
-2015,QC,Other Minority,Female,Community,"1,495",4
-2015,NB,Other Minority,Female,Community,0,0
-2015,NL,Other Minority,Female,Community,0,0
-2015,PE,Other Minority,Female,Community,0,0
-2015,NS,Other Minority,Female,Community,0,0
-2015,NW,Other Minority,Female,Community,0,0
-2015,YU,Other Minority,Female,Community,0,0
-2015,NU,Other Minority,Female,Community,0,0
-2015,National,Black,Male,Community,"1,633",461
-2015,BC,Black,Male,Community,"2,790",19
-2015,AB,Black,Male,Community,"1,526",46
-2015,SK,Black,Male,Community,"1,302",4
-2015,MB,Black,Male,Community,"1,269",7
-2015,ON,Black,Male,Community,"1,645",257
-2015,QC,Black,Male,Community,"1,640",84
-2015,NB,Black,Male,Community,801,6
-2015,NL,Black,Male,Community,0,0
-2015,PE,Black,Male,Community,0,0
-2015,NS,Black,Male,Community,"1,326",38
-2015,NW,Black,Male,Community,0,0
-2015,YU,Black,Male,Community,0,0
-2015,NU,Black,Male,Community,0,0
-2015,National,White,Male,Community,"1,366","4,825"
-2015,BC,White,Male,Community,"1,283",665
-2015,AB,White,Male,Community,"1,360",563
-2015,SK,White,Male,Community,"1,097",117
-2015,MB,White,Male,Community,"1,326",145
-2015,ON,White,Male,Community,"1,316","1,070"
-2015,QC,White,Male,Community,"1,490","1,679"
-2015,NB,White,Male,Community,"1,398",252
-2015,NL,White,Male,Community,"1,431",92
-2015,PE,White,Male,Community,731,15
-2015,NS,White,Male,Community,"1,089",227
-2015,NW,White,Male,Community,0,0
-2015,YU,White,Male,Community,0,0
-2015,NU,White,Male,Community,0,0
-2015,National,Aboriginal,Male,Community,"1,274","1,180"
-2015,BC,Aboriginal,Male,Community,"1,465",245
-2015,AB,Aboriginal,Male,Community,"1,161",237
-2015,SK,Aboriginal,Male,Community,"1,165",153
-2015,MB,Aboriginal,Male,Community,"1,197",166
-2015,ON,Aboriginal,Male,Community,"1,232",186
-2015,QC,Aboriginal,Male,Community,"1,461",131
-2015,NB,Aboriginal,Male,Community,"1,638",15
-2015,NL,Aboriginal,Male,Community,"1,309",7
-2015,PE,Aboriginal,Male,Community,0,0
-2015,NS,Aboriginal,Male,Community,917,27
-2015,NW,Aboriginal,Male,Community,"1,041",5
-2015,YU,Aboriginal,Male,Community,0,0
-2015,NU,Aboriginal,Male,Community,"1,002",8
-2015,National,Other Minority,Male,Community,"1,629",645
-2015,BC,Other Minority,Male,Community,"1,908",168
-2015,AB,Other Minority,Male,Community,"1,387",108
-2015,SK,Other Minority,Male,Community,"1,078",29
-2015,MB,Other Minority,Male,Community,"1,470",48
-2015,ON,Other Minority,Male,Community,"1,670",209
-2015,QC,Other Minority,Male,Community,"1,596",66
-2015,NB,Other Minority,Male,Community,"1,776",6
-2015,NL,Other Minority,Male,Community,"1,256",1
-2015,PE,Other Minority,Male,Community,0,0
-2015,NS,Other Minority,Male,Community,"1,259",10
-2015,NW,Other Minority,Male,Community,0,0
-2015,YU,Other Minority,Male,Community,0,0
-2015,NU,Other Minority,Male,Community,0,0
-2016,National,Black,Female,Community,"2,030",36
-2016,BC,Black,Female,Community,0,0
-2016,AB,Black,Female,Community,0,0
-2016,SK,Black,Female,Community,0,1
-2016,MB,Black,Female,Community,0,0
-2016,ON,Black,Female,Community,"2,187",29
-2016,QC,Black,Female,Community,"2,232",4
-2016,NB,Black,Female,Community,0,0
-2016,NL,Black,Female,Community,0,0
-2016,PE,Black,Female,Community,0,0
-2016,NS,Black,Female,Community,366,2
-2016,NW,Black,Female,Community,0,0
-2016,YU,Black,Female,Community,0,0
-2016,NU,Black,Female,Community,0,0
-2016,National,White,Female,Community,"1,052",293
-2016,BC,White,Female,Community,"1,105",46
-2016,AB,White,Female,Community,"1,072",47
-2016,SK,White,Female,Community,"1,233",11
-2016,MB,White,Female,Community,"1,485",6
-2016,ON,White,Female,Community,822,75
-2016,QC,White,Female,Community,"1,242",62
-2016,NB,White,Female,Community,"1,101",18
-2016,NL,White,Female,Community,"1,076",7
-2016,PE,White,Female,Community,"1,096",1
-2016,NS,White,Female,Community,923,19
-2016,NW,White,Female,Community,0,0
-2016,YU,White,Female,Community,0,1
-2016,NU,White,Female,Community,0,0
-2016,National,Aboriginal,Female,Community,"1,089",113
-2016,BC,Aboriginal,Female,Community,"1,038",16
-2016,AB,Aboriginal,Female,Community,934,29
-2016,SK,Aboriginal,Female,Community,"1,008",10
-2016,MB,Aboriginal,Female,Community,"1,237",11
-2016,ON,Aboriginal,Female,Community,"1,062",21
-2016,QC,Aboriginal,Female,Community,"1,510",12
-2016,NB,Aboriginal,Female,Community,"1,731",5
-2016,NL,Aboriginal,Female,Community,0,0
-2016,PE,Aboriginal,Female,Community,0,0
-2016,NS,Aboriginal,Female,Community,690,7
-2016,NW,Aboriginal,Female,Community,0,0
-2016,YU,Aboriginal,Female,Community,943,1
-2016,NU,Aboriginal,Female,Community,867,1
-2016,National,Other Minority,Female,Community,"1,821",51
-2016,BC,Other Minority,Female,Community,"2,535",10
-2016,AB,Other Minority,Female,Community,"1,194",9
-2016,SK,Other Minority,Female,Community,"1,827",2
-2016,MB,Other Minority,Female,Community,"1,962",3
-2016,ON,Other Minority,Female,Community,"2,056",18
-2016,QC,Other Minority,Female,Community,"1,254",7
-2016,NB,Other Minority,Female,Community,0,0
-2016,NL,Other Minority,Female,Community,0,0
-2016,PE,Other Minority,Female,Community,0,0
-2016,NS,Other Minority,Female,Community,731,2
-2016,NW,Other Minority,Female,Community,0,0
-2016,YU,Other Minority,Female,Community,0,0
-2016,NU,Other Minority,Female,Community,0,0
-2016,National,Black,Male,Community,"1,574",497
-2016,BC,Black,Male,Community,"1,682",22
-2016,AB,Black,Male,Community,"1,461",45
-2016,SK,Black,Male,Community,"1,078",5
-2016,MB,Black,Male,Community,"1,619",10
-2016,ON,Black,Male,Community,"1,628",292
-2016,QC,Black,Male,Community,"1,613",73
-2016,NB,Black,Male,Community,"1,263",4
-2016,NL,Black,Male,Community,0,0
-2016,PE,Black,Male,Community,0,0
-2016,NS,Black,Male,Community,"1,300",46
-2016,NW,Black,Male,Community,0,0
-2016,YU,Black,Male,Community,0,0
-2016,NU,Black,Male,Community,0,0
-2016,National,White,Male,Community,"1,337","4,967"
-2016,BC,White,Male,Community,"1,236",676
-2016,AB,White,Male,Community,"1,384",604
-2016,SK,White,Male,Community,971,127
-2016,MB,White,Male,Community,"1,267",136
-2016,ON,White,Male,Community,"1,367","1,129"
-2016,QC,White,Male,Community,"1,434","1,696"
-2016,NB,White,Male,Community,"1,272",245
-2016,NL,White,Male,Community,"1,218",92
-2016,PE,White,Male,Community,"1,021",21
-2016,NS,White,Male,Community,"1,048",238
-2016,NW,White,Male,Community,0,0
-2016,YU,White,Male,Community,886,3
-2016,NU,White,Male,Community,0,0
-2016,National,Aboriginal,Male,Community,"1,330","1,215"
-2016,BC,Aboriginal,Male,Community,"1,403",255
-2016,AB,Aboriginal,Male,Community,"1,318",206
-2016,SK,Aboriginal,Male,Community,"1,364",174
-2016,MB,Aboriginal,Male,Community,"1,189",162
-2016,ON,Aboriginal,Male,Community,"1,244",187
-2016,QC,Aboriginal,Male,Community,"1,519",156
-2016,NB,Aboriginal,Male,Community,"1,216",22
-2016,NL,Aboriginal,Male,Community,"1,142",12
-2016,PE,Aboriginal,Male,Community,0,0
-2016,NS,Aboriginal,Male,Community,"1,187",26
-2016,NW,Aboriginal,Male,Community,"1,121",10
-2016,YU,Aboriginal,Male,Community,"1,108",2
-2016,NU,Aboriginal,Male,Community,973,3
-2016,National,Other Minority,Male,Community,"1,703",684
-2016,BC,Other Minority,Male,Community,"1,879",180
-2016,AB,Other Minority,Male,Community,"1,441",133
-2016,SK,Other Minority,Male,Community,"1,556",14
-2016,MB,Other Minority,Male,Community,"1,571",45
-2016,ON,Other Minority,Male,Community,"1,843",210
-2016,QC,Other Minority,Male,Community,"1,611",87
-2016,NB,Other Minority,Male,Community,"1,412",4
-2016,NL,Other Minority,Male,Community,735,3
-2016,PE,Other Minority,Male,Community,0,0
-2016,NS,Other Minority,Male,Community,918,8
-2016,NW,Other Minority,Male,Community,0,0
-2016,YU,Other Minority,Male,Community,0,0
-2016,NU,Other Minority,Male,Community,0,0
-2017,National,Black,Female,Community,"1,949",47
-2017,BC,Black,Female,Community,0,0
-2017,AB,Black,Female,Community,0,0
-2017,SK,Black,Female,Community,0,1
-2017,MB,Black,Female,Community,0,0
-2017,ON,Black,Female,Community,"2,187",37
-2017,QC,Black,Female,Community,"1,493",5
-2017,NB,Black,Female,Community,0,0
-2017,NL,Black,Female,Community,0,0
-2017,PE,Black,Female,Community,0,0
-2017,NS,Black,Female,Community,807,4
-2017,NW,Black,Female,Community,0,0
-2017,YU,Black,Female,Community,0,0
-2017,NU,Black,Female,Community,0,0
-2017,National,White,Female,Community,"1,081",321
-2017,BC,White,Female,Community,"1,074",44
-2017,AB,White,Female,Community,"1,322",51
-2017,SK,White,Female,Community,"1,442",7
-2017,MB,White,Female,Community,"1,369",4
-2017,ON,White,Female,Community,932,81
-2017,QC,White,Female,Community,"1,105",84
-2017,NB,White,Female,Community,"1,018",18
-2017,NL,White,Female,Community,"1,179",6
-2017,PE,White,Female,Community,966,2
-2017,NS,White,Female,Community,910,23
-2017,NW,White,Female,Community,0,0
-2017,YU,White,Female,Community,0,1
-2017,NU,White,Female,Community,0,0
-2017,National,Aboriginal,Female,Community,"1,131",149
-2017,BC,Aboriginal,Female,Community,"1,281",20
-2017,AB,Aboriginal,Female,Community,"1,051",39
-2017,SK,Aboriginal,Female,Community,951,18
-2017,MB,Aboriginal,Female,Community,"1,319",19
-2017,ON,Aboriginal,Female,Community,984,24
-2017,QC,Aboriginal,Female,Community,"1,374",18
-2017,NB,Aboriginal,Female,Community,"1,781",4
-2017,NL,Aboriginal,Female,Community,0,0
-2017,PE,Aboriginal,Female,Community,0,0
-2017,NS,Aboriginal,Female,Community,564,6
-2017,NW,Aboriginal,Female,Community,0,0
-2017,YU,Aboriginal,Female,Community,943,1
-2017,NU,Aboriginal,Female,Community,0,0
-2017,National,Other Minority,Female,Community,"1,627",57
-2017,BC,Other Minority,Female,Community,"2,264",9
-2017,AB,Other Minority,Female,Community,"1,118",10
-2017,SK,Other Minority,Female,Community,"1,644",3
-2017,MB,Other Minority,Female,Community,"1,827",3
-2017,ON,Other Minority,Female,Community,"1,762",24
-2017,QC,Other Minority,Female,Community,980,5
-2017,NB,Other Minority,Female,Community,0,0
-2017,NL,Other Minority,Female,Community,0,0
-2017,PE,Other Minority,Female,Community,0,0
-2017,NS,Other Minority,Female,Community,"1,195",3
-2017,NW,Other Minority,Female,Community,0,0
-2017,YU,Other Minority,Female,Community,0,0
-2017,NU,Other Minority,Female,Community,0,0
-2017,National,Black,Male,Community,"1,670",517
-2017,BC,Black,Male,Community,"1,640",23
-2017,AB,Black,Male,Community,"1,494",38
-2017,SK,Black,Male,Community,760,1
-2017,MB,Black,Male,Community,"1,890",12
-2017,ON,Black,Male,Community,"1,701",306
-2017,QC,Black,Male,Community,"1,766",82
-2017,NB,Black,Male,Community,999,5
-2017,NL,Black,Male,Community,0,0
-2017,PE,Black,Male,Community,0,0
-2017,NS,Black,Male,Community,"1,503",50
-2017,NW,Black,Male,Community,0,0
-2017,YU,Black,Male,Community,0,0
-2017,NU,Black,Male,Community,0,0
-2017,National,White,Male,Community,"1,338","5,045"
-2017,BC,White,Male,Community,"1,396",644
-2017,AB,White,Male,Community,"1,337",617
-2017,SK,White,Male,Community,890,117
-2017,MB,White,Male,Community,"1,392",120
-2017,ON,White,Male,Community,"1,360","1,169"
-2017,QC,White,Male,Community,"1,385","1,775"
-2017,NB,White,Male,Community,"1,250",231
-2017,NL,White,Male,Community,"1,299",89
-2017,PE,White,Male,Community,"1,056",21
-2017,NS,White,Male,Community,"1,065",259
-2017,NW,White,Male,Community,"2,557",1
-2017,YU,White,Male,Community,366,2
-2017,NU,White,Male,Community,0,0
-2017,National,Aboriginal,Male,Community,"1,363","1,260"
-2017,BC,Aboriginal,Male,Community,"1,520",256
-2017,AB,Aboriginal,Male,Community,"1,274",207
-2017,SK,Aboriginal,Male,Community,"1,395",174
-2017,MB,Aboriginal,Male,Community,"1,237",151
-2017,ON,Aboriginal,Male,Community,"1,282",209
-2017,QC,Aboriginal,Male,Community,"1,456",182
-2017,NB,Aboriginal,Male,Community,"1,368",29
-2017,NL,Aboriginal,Male,Community,"1,356",4
-2017,PE,Aboriginal,Male,Community,0,0
-2017,NS,Aboriginal,Male,Community,"1,218",34
-2017,NW,Aboriginal,Male,Community,"1,318",8
-2017,YU,Aboriginal,Male,Community,761,2
-2017,NU,Aboriginal,Male,Community,"1,008",4
-2017,National,Other Minority,Male,Community,"1,711",727
-2017,BC,Other Minority,Male,Community,"2,014",171
-2017,AB,Other Minority,Male,Community,"1,362",130
-2017,SK,Other Minority,Male,Community,"1,365",20
-2017,MB,Other Minority,Male,Community,"1,809",38
-2017,ON,Other Minority,Male,Community,"1,864",227
-2017,QC,Other Minority,Male,Community,"1,475",108
-2017,NB,Other Minority,Male,Community,"1,647",9
-2017,NL,Other Minority,Male,Community,"1,226",5
-2017,PE,Other Minority,Male,Community,731,1
-2017,NS,Other Minority,Male,Community,"1,240",18
-2017,NW,Other Minority,Male,Community,0,0
-2017,YU,Other Minority,Male,Community,0,0
-2017,NU,Other Minority,Male,Community,0,0
-2018,National,Black,Female,Community,"2,044",39
-2018,BC,Black,Female,Community,0,0
-2018,AB,Black,Female,Community,"1,065",1
-2018,SK,Black,Female,Community,0,1
-2018,MB,Black,Female,Community,0,0
-2018,ON,Black,Female,Community,"2,313",32
-2018,QC,Black,Female,Community,815,4
-2018,NB,Black,Female,Community,0,0
-2018,NL,Black,Female,Community,0,0
-2018,PE,Black,Female,Community,0,0
-2018,NS,Black,Female,Community,"1,400",1
-2018,NW,Black,Female,Community,0,0
-2018,YU,Black,Female,Community,0,0
-2018,NU,Black,Female,Community,0,0
-2018,National,White,Female,Community,"1,045",363
-2018,BC,White,Female,Community,870,52
-2018,AB,White,Female,Community,"1,185",46
-2018,SK,White,Female,Community,"1,345",13
-2018,MB,White,Female,Community,"1,396",6
-2018,ON,White,Female,Community,"1,056",108
-2018,QC,White,Female,Community,"1,036",87
-2018,NB,White,Female,Community,"1,068",13
-2018,NL,White,Female,Community,"1,141",7
-2018,PE,White,Female,Community,887,3
-2018,NS,White,Female,Community,921,27
-2018,NW,White,Female,Community,0,0
-2018,YU,White,Female,Community,0,1
-2018,NU,White,Female,Community,0,0
-2018,National,Aboriginal,Female,Community,"1,054",160
-2018,BC,Aboriginal,Female,Community,904,30
-2018,AB,Aboriginal,Female,Community,"1,025",34
-2018,SK,Aboriginal,Female,Community,"1,057",20
-2018,MB,Aboriginal,Female,Community,"1,327",21
-2018,ON,Aboriginal,Female,Community,"1,054",33
-2018,QC,Aboriginal,Female,Community,"1,035",10
-2018,NB,Aboriginal,Female,Community,"1,563",5
-2018,NL,Aboriginal,Female,Community,0,0
-2018,PE,Aboriginal,Female,Community,0,0
-2018,NS,Aboriginal,Female,Community,639,6
-2018,NW,Aboriginal,Female,Community,0,0
-2018,YU,Aboriginal,Female,Community,943,1
-2018,NU,Aboriginal,Female,Community,0,0
-2018,National,Other Minority,Female,Community,"1,589",64
-2018,BC,Other Minority,Female,Community,"1,598",13
-2018,AB,Other Minority,Female,Community,"1,261",14
-2018,SK,Other Minority,Female,Community,"1,280",1
-2018,MB,Other Minority,Female,Community,"1,897",3
-2018,ON,Other Minority,Female,Community,"1,820",24
-2018,QC,Other Minority,Female,Community,"1,238",5
-2018,NB,Other Minority,Female,Community,731,1
-2018,NL,Other Minority,Female,Community,0,0
-2018,PE,Other Minority,Female,Community,0,0
-2018,NS,Other Minority,Female,Community,"1,888",3
-2018,NW,Other Minority,Female,Community,0,0
-2018,YU,Other Minority,Female,Community,0,0
-2018,NU,Other Minority,Female,Community,0,0
-2018,National,Black,Male,Community,"1,745",566
-2018,BC,Black,Male,Community,"1,740",19
-2018,AB,Black,Male,Community,"1,575",53
-2018,SK,Black,Male,Community,0,0
-2018,MB,Black,Male,Community,"1,475",10
-2018,ON,Black,Male,Community,"1,788",334
-2018,QC,Black,Male,Community,"1,792",95
-2018,NB,Black,Male,Community,"2,888",9
-2018,NL,Black,Male,Community,"1,067",1
-2018,PE,Black,Male,Community,"1,096",1
-2018,NS,Black,Male,Community,"1,392",43
-2018,NW,Black,Male,Community,0,0
-2018,YU,Black,Male,Community,915,1
-2018,NU,Black,Male,Community,0,0
-2018,National,White,Male,Community,"1,367","5,282"
-2018,BC,White,Male,Community,"1,404",656
-2018,AB,White,Male,Community,"1,304",654
-2018,SK,White,Male,Community,902,110
-2018,MB,White,Male,Community,"1,450",130
-2018,ON,White,Male,Community,"1,373","1,252"
-2018,QC,White,Male,Community,"1,433","1,872"
-2018,NB,White,Male,Community,"1,373",248
-2018,NL,White,Male,Community,"1,274",73
-2018,PE,White,Male,Community,"1,170",23
-2018,NS,White,Male,Community,"1,113",261
-2018,NW,White,Male,Community,"2,557",1
-2018,YU,White,Male,Community,397,2
-2018,NU,White,Male,Community,0,0
-2018,National,Aboriginal,Male,Community,"1,368","1,332"
-2018,BC,Aboriginal,Male,Community,"1,479",291
-2018,AB,Aboriginal,Male,Community,"1,264",225
-2018,SK,Aboriginal,Male,Community,"1,410",185
-2018,MB,Aboriginal,Male,Community,"1,263",166
-2018,ON,Aboriginal,Male,Community,"1,318",204
-2018,QC,Aboriginal,Male,Community,"1,472",184
-2018,NB,Aboriginal,Male,Community,"1,327",28
-2018,NL,Aboriginal,Male,Community,981,8
-2018,PE,Aboriginal,Male,Community,0,0
-2018,NS,Aboriginal,Male,Community,"1,222",31
-2018,NW,Aboriginal,Male,Community,896,6
-2018,YU,Aboriginal,Male,Community,0,0
-2018,NU,Aboriginal,Male,Community,"2,271",4
-2018,National,Other Minority,Male,Community,"1,692",832
-2018,BC,Other Minority,Male,Community,"1,973",164
-2018,AB,Other Minority,Male,Community,"1,468",133
-2018,SK,Other Minority,Male,Community,"1,065",43
-2018,MB,Other Minority,Male,Community,"1,734",38
-2018,ON,Other Minority,Male,Community,"1,778",306
-2018,QC,Other Minority,Male,Community,"1,596",124
-2018,NB,Other Minority,Male,Community,"1,922",8
-2018,NL,Other Minority,Male,Community,990,5
-2018,PE,Other Minority,Male,Community,0,0
-2018,NS,Other Minority,Male,Community,"1,357",10
-2018,NW,Other Minority,Male,Community,"1,270",1
-2018,YU,Other Minority,Male,Community,0,0
-2018,NU,Other Minority,Male,Community,0,0
+﻿year,PRUID,province,race,sex,in_custody_community,avg_length,arrested
+2012,99,National,Black,Female,In Custody,"1,604",58
+2012,59,BC,Black,Female,In Custody,0,0
+2012,48,AB,Black,Female,In Custody,"1,218",3
+2012,47,SK,Black,Female,In Custody,0,0
+2012,46,MB,Black,Female,In Custody,0,0
+2012,35,ON,Black,Female,In Custody,"1,724",47
+2012,24,QC,Black,Female,In Custody,"1,104",5
+2012,13,NB,Black,Female,In Custody,0,0
+2012,10,NL,Black,Female,In Custody,0,0
+2012,11,PE,Black,Female,In Custody,0,0
+2012,12,NS,Black,Female,In Custody,942.3333333,3
+2012,61,NW,Black,Female,In Custody,0,0
+2012,60,YU,Black,Female,In Custody,0,0
+2012,62,NU,Black,Female,In Custody,0,0
+2012,99,National,White,Female,In Custody,"1,062",303
+2012,59,BC,White,Female,In Custody,792.4,35
+2012,48,AB,White,Female,In Custody,"1,142",48
+2012,47,SK,White,Female,In Custody,"1,063",17
+2012,46,MB,White,Female,In Custody,0,0
+2012,35,ON,White,Female,In Custody,"1,121",80
+2012,24,QC,White,Female,In Custody,"1,105",70
+2012,13,NB,White,Female,In Custody,0,0
+2012,10,NL,White,Female,In Custody,0,0
+2012,11,PE,White,Female,In Custody,0,0
+2012,12,NS,White,Female,In Custody,"1,022",53
+2012,61,NW,White,Female,In Custody,0,0
+2012,60,YU,White,Female,In Custody,0,0
+2012,62,NU,White,Female,In Custody,0,0
+2012,99,National,Aboriginal,Female,In Custody,"1,131",205
+2012,59,BC,Aboriginal,Female,In Custody,"1,326",33
+2012,48,AB,Aboriginal,Female,In Custody,"1,214",85
+2012,47,SK,Aboriginal,Female,In Custody,907.96,25
+2012,46,MB,Aboriginal,Female,In Custody,0,0
+2012,35,ON,Aboriginal,Female,In Custody,801.9166667,36
+2012,24,QC,Aboriginal,Female,In Custody,"1,241",11
+2012,13,NB,Aboriginal,Female,In Custody,0,0
+2012,10,NL,Aboriginal,Female,In Custody,0,0
+2012,11,PE,Aboriginal,Female,In Custody,0,0
+2012,12,NS,Aboriginal,Female,In Custody,"1,313",15
+2012,61,NW,Aboriginal,Female,In Custody,0,0
+2012,60,YU,Aboriginal,Female,In Custody,0,0
+2012,62,NU,Aboriginal,Female,In Custody,0,0
+2012,99,National,Other Minority,Female,In Custody,"1,481",50
+2012,59,BC,Other Minority,Female,In Custody,"1,507",5
+2012,48,AB,Other Minority,Female,In Custody,"1,518",10
+2012,47,SK,Other Minority,Female,In Custody,882,3
+2012,46,MB,Other Minority,Female,In Custody,0,0
+2012,35,ON,Other Minority,Female,In Custody,"1,788",23
+2012,24,QC,Other Minority,Female,In Custody,764.875,8
+2012,13,NB,Other Minority,Female,In Custody,0,0
+2012,10,NL,Other Minority,Female,In Custody,0,0
+2012,11,PE,Other Minority,Female,In Custody,0,0
+2012,12,NS,Other Minority,Female,In Custody,"1,461",1
+2012,61,NW,Other Minority,Female,In Custody,0,0
+2012,60,YU,Other Minority,Female,In Custody,0,0
+2012,62,NU,Other Minority,Female,In Custody,0,0
+2012,99,National,Black,Male,In Custody,"1,583","1,440"
+2012,59,BC,Black,Male,In Custody,"1,502",69
+2012,48,AB,Black,Male,In Custody,"1,521",101
+2012,47,SK,Black,Male,In Custody,"1,273",23
+2012,46,MB,Black,Male,In Custody,"1,929",13
+2012,35,ON,Black,Male,In Custody,"1,563",828
+2012,24,QC,Black,Male,In Custody,"1,731",249
+2012,13,NB,Black,Male,In Custody,"1,462",86
+2012,10,NL,Black,Male,In Custody,0,0
+2012,11,PE,Black,Male,In Custody,0,0
+2012,12,NS,Black,Male,In Custody,"1,651",71
+2012,61,NW,Black,Male,In Custody,0,0
+2012,60,YU,Black,Male,In Custody,0,0
+2012,62,NU,Black,Male,In Custody,0,0
+2012,99,National,White,Male,In Custody,"1,508","8,628"
+2012,59,BC,White,Male,In Custody,"1,458","1,134"
+2012,48,AB,White,Male,In Custody,"1,516","1,075"
+2012,47,SK,White,Male,In Custody,"1,308",294
+2012,46,MB,White,Male,In Custody,"1,420",251
+2012,35,ON,White,Male,In Custody,"1,358","2,157"
+2012,24,QC,White,Male,In Custody,"1,740","2,623"
+2012,13,NB,White,Male,In Custody,"1,358",739
+2012,10,NL,White,Male,In Custody,0,0
+2012,11,PE,White,Male,In Custody,0,0
+2012,12,NS,White,Male,In Custody,"1,384",355
+2012,61,NW,White,Male,In Custody,0,0
+2012,60,YU,White,Male,In Custody,0,0
+2012,62,NU,White,Male,In Custody,0,0
+2012,99,National,Aboriginal,Male,In Custody,"1,433","3,361"
+2012,59,BC,Aboriginal,Male,In Custody,"1,332",553
+2012,48,AB,Aboriginal,Male,In Custody,"1,487",699
+2012,47,SK,Aboriginal,Male,In Custody,"1,502",619
+2012,46,MB,Aboriginal,Male,In Custody,"1,432",460
+2012,35,ON,Aboriginal,Male,In Custody,"1,371",495
+2012,24,QC,Aboriginal,Male,In Custody,"1,437",382
+2012,13,NB,Aboriginal,Male,In Custody,"1,518",113
+2012,10,NL,Aboriginal,Male,In Custody,0,0
+2012,11,PE,Aboriginal,Male,In Custody,0,0
+2012,12,NS,Aboriginal,Male,In Custody,"1,293",40
+2012,61,NW,Aboriginal,Male,In Custody,0,0
+2012,60,YU,Aboriginal,Male,In Custody,0,0
+2012,62,NU,Aboriginal,Male,In Custody,0,0
+2012,99,National,Other Minority,Male,In Custody,"1,524","1,268"
+2012,59,BC,Other Minority,Male,In Custody,"1,489",217
+2012,48,AB,Other Minority,Male,In Custody,"1,434",168
+2012,47,SK,Other Minority,Male,In Custody,"1,370",124
+2012,46,MB,Other Minority,Male,In Custody,"1,695",70
+2012,35,ON,Other Minority,Male,In Custody,"1,603",454
+2012,24,QC,Other Minority,Male,In Custody,"1,516",184
+2012,13,NB,Other Minority,Male,In Custody,"1,460",32
+2012,10,NL,Other Minority,Male,In Custody,0,0
+2012,11,PE,Other Minority,Male,In Custody,0,0
+2012,12,NS,Other Minority,Male,In Custody,"1,359",19
+2012,61,NW,Other Minority,Male,In Custody,0,0
+2012,60,YU,Other Minority,Male,In Custody,0,0
+2012,62,NU,Other Minority,Male,In Custody,0,0
+2013,99,National,Black,Female,In Custody,"1,646",55
+2013,59,BC,Black,Female,In Custody,0,0
+2013,48,AB,Black,Female,In Custody,"1,218",3
+2013,47,SK,Black,Female,In Custody,0,0
+2013,46,MB,Black,Female,In Custody,0,0
+2013,35,ON,Black,Female,In Custody,"1,752",45
+2013,24,QC,Black,Female,In Custody,"1,301",4
+2013,13,NB,Black,Female,In Custody,0,0
+2013,10,NL,Black,Female,In Custody,0,0
+2013,11,PE,Black,Female,In Custody,0,0
+2013,12,NS,Black,Female,In Custody,942.3333333,3
+2013,61,NW,Black,Female,In Custody,0,0
+2013,60,YU,Black,Female,In Custody,0,0
+2013,62,NU,Black,Female,In Custody,0,0
+2013,99,National,White,Female,In Custody,"1,062",284
+2013,59,BC,White,Female,In Custody,759.2727273,33
+2013,48,AB,White,Female,In Custody,"1,181",42
+2013,47,SK,White,Female,In Custody,"1,063",17
+2013,46,MB,White,Female,In Custody,0,0
+2013,35,ON,White,Female,In Custody,"1,125",75
+2013,24,QC,White,Female,In Custody,"1,106",71
+2013,13,NB,White,Female,In Custody,0,0
+2013,10,NL,White,Female,In Custody,0,0
+2013,11,PE,White,Female,In Custody,0,0
+2013,12,NS,White,Female,In Custody,995.9782609,46
+2013,61,NW,White,Female,In Custody,0,0
+2013,60,YU,White,Female,In Custody,0,0
+2013,62,NU,White,Female,In Custody,0,0
+2013,99,National,Aboriginal,Female,In Custody,"1,139",191
+2013,59,BC,Aboriginal,Female,In Custody,"1,324",31
+2013,48,AB,Aboriginal,Female,In Custody,"1,222",76
+2013,47,SK,Aboriginal,Female,In Custody,951.8695652,23
+2013,46,MB,Aboriginal,Female,In Custody,"1,142",2
+2013,35,ON,Aboriginal,Female,In Custody,787.9714286,35
+2013,24,QC,Aboriginal,Female,In Custody,"1,292",10
+2013,13,NB,Aboriginal,Female,In Custody,0,0
+2013,10,NL,Aboriginal,Female,In Custody,0,0
+2013,11,PE,Aboriginal,Female,In Custody,0,0
+2013,12,NS,Aboriginal,Female,In Custody,"1,355",14
+2013,61,NW,Aboriginal,Female,In Custody,0,0
+2013,60,YU,Aboriginal,Female,In Custody,0,0
+2013,62,NU,Aboriginal,Female,In Custody,0,0
+2013,99,National,Other Minority,Female,In Custody,"1,536",49
+2013,59,BC,Other Minority,Female,In Custody,"1,507",5
+2013,48,AB,Other Minority,Female,In Custody,"1,589",9
+2013,47,SK,Other Minority,Female,In Custody,882,3
+2013,46,MB,Other Minority,Female,In Custody,0,0
+2013,35,ON,Other Minority,Female,In Custody,"1,879",23
+2013,24,QC,Other Minority,Female,In Custody,764.875,8
+2013,13,NB,Other Minority,Female,In Custody,0,0
+2013,10,NL,Other Minority,Female,In Custody,0,0
+2013,11,PE,Other Minority,Female,In Custody,0,0
+2013,12,NS,Other Minority,Female,In Custody,"1,461",1
+2013,61,NW,Other Minority,Female,In Custody,0,0
+2013,60,YU,Other Minority,Female,In Custody,0,0
+2013,62,NU,Other Minority,Female,In Custody,0,0
+2013,99,National,Black,Male,In Custody,"1,571","1,385"
+2013,59,BC,Black,Male,In Custody,"1,490",64
+2013,48,AB,Black,Male,In Custody,"1,522",99
+2013,47,SK,Black,Male,In Custody,"1,288",22
+2013,46,MB,Black,Male,In Custody,"1,732",11
+2013,35,ON,Black,Male,In Custody,"1,553",807
+2013,24,QC,Black,Male,In Custody,"1,723",235
+2013,13,NB,Black,Male,In Custody,"1,461",80
+2013,10,NL,Black,Male,In Custody,0,0
+2013,11,PE,Black,Male,In Custody,0,0
+2013,12,NS,Black,Male,In Custody,"1,613",67
+2013,61,NW,Black,Male,In Custody,0,0
+2013,60,YU,Black,Male,In Custody,0,0
+2013,62,NU,Black,Male,In Custody,0,0
+2013,99,National,White,Male,In Custody,"1,502","8,311"
+2013,59,BC,White,Male,In Custody,"1,449","1,066"
+2013,48,AB,White,Male,In Custody,"1,521","1,040"
+2013,47,SK,White,Male,In Custody,"1,276",285
+2013,46,MB,White,Male,In Custody,"1,430",241
+2013,35,ON,White,Male,In Custody,"1,347","2,078"
+2013,24,QC,White,Male,In Custody,"1,738","2,521"
+2013,13,NB,White,Male,In Custody,"1,348",700
+2013,10,NL,White,Male,In Custody,"1,106",31
+2013,11,PE,White,Male,In Custody,"2,192",1
+2013,12,NS,White,Male,In Custody,"1,392",348
+2013,61,NW,White,Male,In Custody,0,0
+2013,60,YU,White,Male,In Custody,0,0
+2013,62,NU,White,Male,In Custody,0,0
+2013,99,National,Aboriginal,Male,In Custody,"1,436","3,185"
+2013,59,BC,Aboriginal,Male,In Custody,"1,321",515
+2013,48,AB,Aboriginal,Male,In Custody,"1,504",663
+2013,47,SK,Aboriginal,Male,In Custody,"1,509",592
+2013,46,MB,Aboriginal,Male,In Custody,"1,465",432
+2013,35,ON,Aboriginal,Male,In Custody,"1,389",461
+2013,24,QC,Aboriginal,Male,In Custody,"1,387",365
+2013,13,NB,Aboriginal,Male,In Custody,"1,511",109
+2013,10,NL,Aboriginal,Male,In Custody,"1,389",1
+2013,11,PE,Aboriginal,Male,In Custody,0,0
+2013,12,NS,Aboriginal,Male,In Custody,"1,271",42
+2013,61,NW,Aboriginal,Male,In Custody,"1,058",5
+2013,60,YU,Aboriginal,Male,In Custody,0,0
+2013,62,NU,Aboriginal,Male,In Custody,0,0
+2013,99,National,Other Minority,Male,In Custody,"1,526","1,256"
+2013,59,BC,Other Minority,Male,In Custody,"1,497",213
+2013,48,AB,Other Minority,Male,In Custody,"1,439",166
+2013,47,SK,Other Minority,Male,In Custody,"1,418",118
+2013,46,MB,Other Minority,Male,In Custody,"1,705",68
+2013,35,ON,Other Minority,Male,In Custody,"1,585",458
+2013,24,QC,Other Minority,Male,In Custody,"1,512",183
+2013,13,NB,Other Minority,Male,In Custody,"1,507",31
+2013,10,NL,Other Minority,Male,In Custody,0,0
+2013,11,PE,Other Minority,Male,In Custody,0,0
+2013,12,NS,Other Minority,Male,In Custody,"1,359",19
+2013,61,NW,Other Minority,Male,In Custody,0,0
+2013,60,YU,Other Minority,Male,In Custody,0,0
+2013,62,NU,Other Minority,Male,In Custody,0,0
+2014,99,National,Black,Female,In Custody,"1,774",47
+2014,59,BC,Black,Female,In Custody,0,0
+2014,48,AB,Black,Female,In Custody,730,1
+2014,47,SK,Black,Female,In Custody,0,0
+2014,46,MB,Black,Female,In Custody,0,0
+2014,35,ON,Black,Female,In Custody,"1,910",38
+2014,24,QC,Black,Female,In Custody,"1,217",4
+2014,13,NB,Black,Female,In Custody,0,0
+2014,10,NL,Black,Female,In Custody,0,0
+2014,11,PE,Black,Female,In Custody,0,0
+2014,12,NS,Black,Female,In Custody,"1,294",4
+2014,61,NW,Black,Female,In Custody,0,0
+2014,60,YU,Black,Female,In Custody,0,0
+2014,62,NU,Black,Female,In Custody,0,0
+2014,99,National,White,Female,In Custody,"1,077",308
+2014,59,BC,White,Female,In Custody,"1,062",40
+2014,48,AB,White,Female,In Custody,"1,203",41
+2014,47,SK,White,Female,In Custody,"1,114",17
+2014,46,MB,White,Female,In Custody,0,1
+2014,35,ON,White,Female,In Custody,"1,201",84
+2014,24,QC,White,Female,In Custody,"1,018",66
+2014,13,NB,White,Female,In Custody,0,0
+2014,10,NL,White,Female,In Custody,0,0
+2014,11,PE,White,Female,In Custody,0,0
+2014,12,NS,White,Female,In Custody,895.3559322,59
+2014,61,NW,White,Female,In Custody,0,0
+2014,60,YU,White,Female,In Custody,0,0
+2014,62,NU,White,Female,In Custody,0,0
+2014,99,National,Aboriginal,Female,In Custody,"1,108",218
+2014,59,BC,Aboriginal,Female,In Custody,"1,154",39
+2014,48,AB,Aboriginal,Female,In Custody,"1,195",80
+2014,47,SK,Aboriginal,Female,In Custody,"1,088",30
+2014,46,MB,Aboriginal,Female,In Custody,"1,416",4
+2014,35,ON,Aboriginal,Female,In Custody,713.3055556,36
+2014,24,QC,Aboriginal,Female,In Custody,"1,026",15
+2014,13,NB,Aboriginal,Female,In Custody,0,0
+2014,10,NL,Aboriginal,Female,In Custody,0,0
+2014,11,PE,Aboriginal,Female,In Custody,0,0
+2014,12,NS,Aboriginal,Female,In Custody,"1,537",14
+2014,61,NW,Aboriginal,Female,In Custody,0,0
+2014,60,YU,Aboriginal,Female,In Custody,0,0
+2014,62,NU,Aboriginal,Female,In Custody,0,0
+2014,99,National,Other Minority,Female,In Custody,"1,439",58
+2014,59,BC,Other Minority,Female,In Custody,"1,532",5
+2014,48,AB,Other Minority,Female,In Custody,"1,457",11
+2014,47,SK,Other Minority,Female,In Custody,912.8333333,6
+2014,46,MB,Other Minority,Female,In Custody,0,0
+2014,35,ON,Other Minority,Female,In Custody,"1,988",21
+2014,24,QC,Other Minority,Female,In Custody,731.0909091,11
+2014,13,NB,Other Minority,Female,In Custody,0,0
+2014,10,NL,Other Minority,Female,In Custody,0,0
+2014,11,PE,Other Minority,Female,In Custody,0,0
+2014,12,NS,Other Minority,Female,In Custody,"1,121",4
+2014,61,NW,Other Minority,Female,In Custody,0,0
+2014,60,YU,Other Minority,Female,In Custody,0,0
+2014,62,NU,Other Minority,Female,In Custody,0,0
+2014,99,National,Black,Male,In Custody,"1,600","1,409"
+2014,59,BC,Black,Male,In Custody,"1,451",100
+2014,48,AB,Black,Male,In Custody,"1,611",95
+2014,47,SK,Black,Male,In Custody,"1,061",19
+2014,46,MB,Black,Male,In Custody,"2,001",17
+2014,35,ON,Black,Male,In Custody,"1,592",786
+2014,24,QC,Black,Male,In Custody,"1,688",230
+2014,13,NB,Black,Male,In Custody,"1,528",99
+2014,10,NL,Black,Male,In Custody,0,0
+2014,11,PE,Black,Male,In Custody,0,0
+2014,12,NS,Black,Male,In Custody,"1,763",63
+2014,61,NW,Black,Male,In Custody,0,0
+2014,60,YU,Black,Male,In Custody,0,0
+2014,62,NU,Black,Male,In Custody,0,0
+2014,99,National,White,Male,In Custody,"1,507","8,563"
+2014,59,BC,White,Male,In Custody,"1,461","1,253"
+2014,48,AB,White,Male,In Custody,"1,460","1,005"
+2014,47,SK,White,Male,In Custody,"1,303",267
+2014,46,MB,White,Male,In Custody,"1,468",211
+2014,35,ON,White,Male,In Custody,"1,358","1,962"
+2014,24,QC,White,Male,In Custody,"1,700","2,765"
+2014,13,NB,White,Male,In Custody,"1,420",722
+2014,10,NL,White,Male,In Custody,0,0
+2014,11,PE,White,Male,In Custody,0,0
+2014,12,NS,White,Male,In Custody,"1,476",378
+2014,61,NW,White,Male,In Custody,0,0
+2014,60,YU,White,Male,In Custody,0,0
+2014,62,NU,White,Male,In Custody,0,0
+2014,99,National,Aboriginal,Male,In Custody,"1,449","3,324"
+2014,59,BC,Aboriginal,Male,In Custody,"1,272",601
+2014,48,AB,Aboriginal,Male,In Custody,"1,591",683
+2014,47,SK,Aboriginal,Male,In Custody,"1,528",524
+2014,46,MB,Aboriginal,Male,In Custody,"1,474",474
+2014,35,ON,Aboriginal,Male,In Custody,"1,380",440
+2014,24,QC,Aboriginal,Male,In Custody,"1,460",420
+2014,13,NB,Aboriginal,Male,In Custody,"1,395",131
+2014,10,NL,Aboriginal,Male,In Custody,0,0
+2014,11,PE,Aboriginal,Male,In Custody,0,0
+2014,12,NS,Aboriginal,Male,In Custody,"1,282",50
+2014,61,NW,Aboriginal,Male,In Custody,853,1
+2014,60,YU,Aboriginal,Male,In Custody,0,0
+2014,62,NU,Aboriginal,Male,In Custody,0,0
+2014,99,National,Other Minority,Male,In Custody,"1,495","1,400"
+2014,59,BC,Other Minority,Male,In Custody,"1,453",254
+2014,48,AB,Other Minority,Male,In Custody,"1,409",169
+2014,47,SK,Other Minority,Male,In Custody,"1,283",224
+2014,46,MB,Other Minority,Male,In Custody,"1,715",54
+2014,35,ON,Other Minority,Male,In Custody,"1,665",422
+2014,24,QC,Other Minority,Male,In Custody,"1,465",214
+2014,13,NB,Other Minority,Male,In Custody,"1,355",37
+2014,10,NL,Other Minority,Male,In Custody,0,0
+2014,11,PE,Other Minority,Male,In Custody,0,0
+2014,12,NS,Other Minority,Male,In Custody,"1,511",26
+2014,61,NW,Other Minority,Male,In Custody,0,0
+2014,60,YU,Other Minority,Male,In Custody,0,0
+2014,62,NU,Other Minority,Male,In Custody,0,0
+2015,99,National,Black,Female,In Custody,"1,774",47
+2015,59,BC,Black,Female,In Custody,0,0
+2015,48,AB,Black,Female,In Custody,730,1
+2015,47,SK,Black,Female,In Custody,0,0
+2015,46,MB,Black,Female,In Custody,0,0
+2015,35,ON,Black,Female,In Custody,"1,910",38
+2015,24,QC,Black,Female,In Custody,"1,217",4
+2015,13,NB,Black,Female,In Custody,0,0
+2015,10,NL,Black,Female,In Custody,0,0
+2015,11,PE,Black,Female,In Custody,0,0
+2015,12,NS,Black,Female,In Custody,"1,294",4
+2015,61,NW,Black,Female,In Custody,0,0
+2015,60,YU,Black,Female,In Custody,0,0
+2015,62,NU,Black,Female,In Custody,0,0
+2015,99,National,White,Female,In Custody,"1,080",308
+2015,59,BC,White,Female,In Custody,"1,062",40
+2015,48,AB,White,Female,In Custody,"1,203",41
+2015,47,SK,White,Female,In Custody,"1,114",17
+2015,46,MB,White,Female,In Custody,0,0
+2015,35,ON,White,Female,In Custody,"1,200",85
+2015,24,QC,White,Female,In Custody,"1,018",66
+2015,13,NB,White,Female,In Custody,0,0
+2015,10,NL,White,Female,In Custody,0,0
+2015,11,PE,White,Female,In Custody,0,0
+2015,12,NS,White,Female,In Custody,895.3559322,59
+2015,61,NW,White,Female,In Custody,0,0
+2015,60,YU,White,Female,In Custody,0,0
+2015,62,NU,White,Female,In Custody,0,0
+2015,99,National,Aboriginal,Female,In Custody,"1,110",211
+2015,59,BC,Aboriginal,Female,In Custody,"1,167",38
+2015,48,AB,Aboriginal,Female,In Custody,"1,195",80
+2015,47,SK,Aboriginal,Female,In Custody,"1,115",29
+2015,46,MB,Aboriginal,Female,In Custody,0,0
+2015,35,ON,Aboriginal,Female,In Custody,715.3142857,35
+2015,24,QC,Aboriginal,Female,In Custody,"1,026",15
+2015,13,NB,Aboriginal,Female,In Custody,0,0
+2015,10,NL,Aboriginal,Female,In Custody,0,0
+2015,11,PE,Aboriginal,Female,In Custody,0,0
+2015,12,NS,Aboriginal,Female,In Custody,"1,537",14
+2015,61,NW,Aboriginal,Female,In Custody,0,0
+2015,60,YU,Aboriginal,Female,In Custody,0,0
+2015,62,NU,Aboriginal,Female,In Custody,0,0
+2015,99,National,Other Minority,Female,In Custody,"1,439",58
+2015,59,BC,Other Minority,Female,In Custody,"1,532",5
+2015,48,AB,Other Minority,Female,In Custody,"1,457",11
+2015,47,SK,Other Minority,Female,In Custody,912.8333333,6
+2015,46,MB,Other Minority,Female,In Custody,0,0
+2015,35,ON,Other Minority,Female,In Custody,"1,988",21
+2015,24,QC,Other Minority,Female,In Custody,731.0909091,11
+2015,13,NB,Other Minority,Female,In Custody,0,0
+2015,10,NL,Other Minority,Female,In Custody,0,0
+2015,11,PE,Other Minority,Female,In Custody,0,0
+2015,12,NS,Other Minority,Female,In Custody,"1,121",4
+2015,61,NW,Other Minority,Female,In Custody,0,0
+2015,60,YU,Other Minority,Female,In Custody,0,0
+2015,62,NU,Other Minority,Female,In Custody,0,0
+2015,99,National,Black,Male,In Custody,"1,602","1,409"
+2015,59,BC,Black,Male,In Custody,"1,451",100
+2015,48,AB,Black,Male,In Custody,"1,611",95
+2015,47,SK,Black,Male,In Custody,"1,061",19
+2015,46,MB,Black,Male,In Custody,"2,001",17
+2015,35,ON,Black,Male,In Custody,"1,595",785
+2015,24,QC,Black,Male,In Custody,"1,694",231
+2015,13,NB,Black,Male,In Custody,"1,528",99
+2015,10,NL,Black,Male,In Custody,0,0
+2015,11,PE,Black,Male,In Custody,0,0
+2015,12,NS,Black,Male,In Custody,"1,763",63
+2015,61,NW,Black,Male,In Custody,0,0
+2015,60,YU,Black,Male,In Custody,0,0
+2015,62,NU,Black,Male,In Custody,0,0
+2015,99,National,White,Male,In Custody,"1,511","8,559"
+2015,59,BC,White,Male,In Custody,"1,464","1,253"
+2015,48,AB,White,Male,In Custody,"1,465","1,004"
+2015,47,SK,White,Male,In Custody,"1,303",267
+2015,46,MB,White,Male,In Custody,"1,473",212
+2015,35,ON,White,Male,In Custody,"1,363","1,953"
+2015,24,QC,White,Male,In Custody,"1,703","2,772"
+2015,13,NB,White,Male,In Custody,"1,421",721
+2015,10,NL,White,Male,In Custody,0,0
+2015,11,PE,White,Male,In Custody,0,0
+2015,12,NS,White,Male,In Custody,"1,479",377
+2015,61,NW,White,Male,In Custody,0,0
+2015,60,YU,White,Male,In Custody,0,0
+2015,62,NU,White,Male,In Custody,0,0
+2015,99,National,Aboriginal,Male,In Custody,"1,451","3,324"
+2015,59,BC,Aboriginal,Male,In Custody,"1,266",600
+2015,48,AB,Aboriginal,Male,In Custody,"1,591",688
+2015,47,SK,Aboriginal,Male,In Custody,"1,530",523
+2015,46,MB,Aboriginal,Male,In Custody,"1,477",473
+2015,35,ON,Aboriginal,Male,In Custody,"1,384",438
+2015,24,QC,Aboriginal,Male,In Custody,"1,465",421
+2015,13,NB,Aboriginal,Male,In Custody,"1,395",131
+2015,10,NL,Aboriginal,Male,In Custody,0,0
+2015,11,PE,Aboriginal,Male,In Custody,0,0
+2015,12,NS,Aboriginal,Male,In Custody,"1,282",50
+2015,61,NW,Aboriginal,Male,In Custody,0,0
+2015,60,YU,Aboriginal,Male,In Custody,0,0
+2015,62,NU,Aboriginal,Male,In Custody,0,0
+2015,99,National,Other Minority,Male,In Custody,"1,502","1,397"
+2015,59,BC,Other Minority,Male,In Custody,"1,459",253
+2015,48,AB,Other Minority,Male,In Custody,"1,409",169
+2015,47,SK,Other Minority,Male,In Custody,"1,307",220
+2015,46,MB,Other Minority,Male,In Custody,"1,717",53
+2015,35,ON,Other Minority,Male,In Custody,"1,665",422
+2015,24,QC,Other Minority,Male,In Custody,"1,480",217
+2015,13,NB,Other Minority,Male,In Custody,"1,355",37
+2015,10,NL,Other Minority,Male,In Custody,0,0
+2015,11,PE,Other Minority,Male,In Custody,0,0
+2015,12,NS,Other Minority,Male,In Custody,"1,511",26
+2015,61,NW,Other Minority,Male,In Custody,0,0
+2015,60,YU,Other Minority,Male,In Custody,0,0
+2015,62,NU,Other Minority,Male,In Custody,0,0
+2016,99,National,Black,Female,In Custody,"1,697",36
+2016,59,BC,Black,Female,In Custody,0,0
+2016,48,AB,Black,Female,In Custody,"1,095",1
+2016,47,SK,Black,Female,In Custody,731,1
+2016,46,MB,Black,Female,In Custody,0,0
+2016,35,ON,Black,Female,In Custody,"1,889",28
+2016,24,QC,Black,Female,In Custody,"1,233",2
+2016,13,NB,Black,Female,In Custody,0,0
+2016,10,NL,Black,Female,In Custody,0,0
+2016,11,PE,Black,Female,In Custody,0,0
+2016,12,NS,Black,Female,In Custody,974.25,4
+2016,61,NW,Black,Female,In Custody,0,0
+2016,60,YU,Black,Female,In Custody,0,0
+2016,62,NU,Black,Female,In Custody,0,0
+2016,99,National,White,Female,In Custody,"1,076",348
+2016,59,BC,White,Female,In Custody,667.7297297,37
+2016,48,AB,White,Female,In Custody,"1,272",51
+2016,47,SK,White,Female,In Custody,"1,116",13
+2016,46,MB,White,Female,In Custody,0,0
+2016,35,ON,White,Female,In Custody,"1,255",103
+2016,24,QC,White,Female,In Custody,984.4880952,84
+2016,13,NB,White,Female,In Custody,0,0
+2016,10,NL,White,Female,In Custody,0,0
+2016,11,PE,White,Female,In Custody,0,0
+2016,12,NS,White,Female,In Custody,973.6666667,60
+2016,61,NW,White,Female,In Custody,0,0
+2016,60,YU,White,Female,In Custody,0,0
+2016,62,NU,White,Female,In Custody,0,0
+2016,99,National,Aboriginal,Female,In Custody,"1,113",240
+2016,59,BC,Aboriginal,Female,In Custody,"1,128",37
+2016,48,AB,Aboriginal,Female,In Custody,"1,272",99
+2016,47,SK,Aboriginal,Female,In Custody,"1,084",40
+2016,46,MB,Aboriginal,Female,In Custody,0,0
+2016,35,ON,Aboriginal,Female,In Custody,844.4705882,34
+2016,24,QC,Aboriginal,Female,In Custody,702.2105263,19
+2016,13,NB,Aboriginal,Female,In Custody,0,0
+2016,10,NL,Aboriginal,Female,In Custody,0,0
+2016,11,PE,Aboriginal,Female,In Custody,0,0
+2016,12,NS,Aboriginal,Female,In Custody,"1,279",11
+2016,61,NW,Aboriginal,Female,In Custody,0,0
+2016,60,YU,Aboriginal,Female,In Custody,0,0
+2016,62,NU,Aboriginal,Female,In Custody,0,0
+2016,99,National,Other Minority,Female,In Custody,"1,317",57
+2016,59,BC,Other Minority,Female,In Custody,"1,756",5
+2016,48,AB,Other Minority,Female,In Custody,"1,579",13
+2016,47,SK,Other Minority,Female,In Custody,243.6666667,3
+2016,46,MB,Other Minority,Female,In Custody,0,0
+2016,35,ON,Other Minority,Female,In Custody,"1,233",25
+2016,24,QC,Other Minority,Female,In Custody,"1,215",7
+2016,13,NB,Other Minority,Female,In Custody,0,0
+2016,10,NL,Other Minority,Female,In Custody,0,0
+2016,11,PE,Other Minority,Female,In Custody,0,0
+2016,12,NS,Other Minority,Female,In Custody,"1,424",4
+2016,61,NW,Other Minority,Female,In Custody,0,0
+2016,60,YU,Other Minority,Female,In Custody,0,0
+2016,62,NU,Other Minority,Female,In Custody,0,0
+2016,99,National,Black,Male,In Custody,"1,602","1,399"
+2016,59,BC,Black,Male,In Custody,"1,501",99
+2016,48,AB,Black,Male,In Custody,"1,617",99
+2016,47,SK,Black,Male,In Custody,"1,535",19
+2016,46,MB,Black,Male,In Custody,"1,848",30
+2016,35,ON,Black,Male,In Custody,"1,596",751
+2016,24,QC,Black,Male,In Custody,"1,622",262
+2016,13,NB,Black,Male,In Custody,"1,488",91
+2016,10,NL,Black,Male,In Custody,0,0
+2016,11,PE,Black,Male,In Custody,0,0
+2016,12,NS,Black,Male,In Custody,"1,852",48
+2016,61,NW,Black,Male,In Custody,0,0
+2016,60,YU,Black,Male,In Custody,0,0
+2016,62,NU,Black,Male,In Custody,0,0
+2016,99,National,White,Male,In Custody,"1,495","8,183"
+2016,59,BC,White,Male,In Custody,"1,453","1,140"
+2016,48,AB,White,Male,In Custody,"1,473","1,003"
+2016,47,SK,White,Male,In Custody,"1,299",287
+2016,46,MB,White,Male,In Custody,"1,592",237
+2016,35,ON,White,Male,In Custody,"1,301","1,858"
+2016,24,QC,White,Male,In Custody,"1,684","2,642"
+2016,13,NB,White,Male,In Custody,"1,436",708
+2016,10,NL,White,Male,In Custody,0,0
+2016,11,PE,White,Male,In Custody,0,0
+2016,12,NS,White,Male,In Custody,"1,531",308
+2016,61,NW,White,Male,In Custody,0,0
+2016,60,YU,White,Male,In Custody,0,0
+2016,62,NU,White,Male,In Custody,0,0
+2016,99,National,Aboriginal,Male,In Custody,"1,431","3,413"
+2016,59,BC,Aboriginal,Male,In Custody,"1,299",602
+2016,48,AB,Aboriginal,Male,In Custody,"1,522",662
+2016,47,SK,Aboriginal,Male,In Custody,"1,427",648
+2016,46,MB,Aboriginal,Male,In Custody,"1,542",446
+2016,35,ON,Aboriginal,Male,In Custody,"1,361",440
+2016,24,QC,Aboriginal,Male,In Custody,"1,472",441
+2016,13,NB,Aboriginal,Male,In Custody,"1,372",129
+2016,10,NL,Aboriginal,Male,In Custody,0,0
+2016,11,PE,Aboriginal,Male,In Custody,0,0
+2016,12,NS,Aboriginal,Male,In Custody,"1,246",45
+2016,61,NW,Aboriginal,Male,In Custody,0,0
+2016,60,YU,Aboriginal,Male,In Custody,0,0
+2016,62,NU,Aboriginal,Male,In Custody,0,0
+2016,99,National,Other Minority,Male,In Custody,"1,499","1,186"
+2016,59,BC,Other Minority,Male,In Custody,"1,410",224
+2016,48,AB,Other Minority,Male,In Custody,"1,481",151
+2016,47,SK,Other Minority,Male,In Custody,"1,459",82
+2016,46,MB,Other Minority,Male,In Custody,"1,605",45
+2016,35,ON,Other Minority,Male,In Custody,"1,640",387
+2016,24,QC,Other Minority,Male,In Custody,"1,438",228
+2016,13,NB,Other Minority,Male,In Custody,"1,227",43
+2016,10,NL,Other Minority,Male,In Custody,0,0
+2016,11,PE,Other Minority,Male,In Custody,0,0
+2016,12,NS,Other Minority,Male,In Custody,"1,190",26
+2016,61,NW,Other Minority,Male,In Custody,0,0
+2016,60,YU,Other Minority,Male,In Custody,0,0
+2016,62,NU,Other Minority,Male,In Custody,0,0
+2017,99,National,Black,Female,In Custody,"1,528",38
+2017,59,BC,Black,Female,In Custody,0,0
+2017,48,AB,Black,Female,In Custody,"2,184",2
+2017,47,SK,Black,Female,In Custody,731,1
+2017,46,MB,Black,Female,In Custody,0,0
+2017,35,ON,Black,Female,In Custody,"1,566",30
+2017,24,QC,Black,Female,In Custody,"1,375",2
+2017,13,NB,Black,Female,In Custody,0,0
+2017,10,NL,Black,Female,In Custody,0,0
+2017,11,PE,Black,Female,In Custody,0,0
+2017,12,NS,Black,Female,In Custody,"1,076",3
+2017,61,NW,Black,Female,In Custody,0,0
+2017,60,YU,Black,Female,In Custody,0,0
+2017,62,NU,Black,Female,In Custody,0,0
+2017,99,National,White,Female,In Custody,"1,038",345
+2017,59,BC,White,Female,In Custody,754.4615385,39
+2017,48,AB,White,Female,In Custody,968.6842105,57
+2017,47,SK,White,Female,In Custody,"1,186",13
+2017,46,MB,White,Female,In Custody,0,0
+2017,35,ON,White,Female,In Custody,"1,206",101
+2017,24,QC,White,Female,In Custody,"1,031",82
+2017,13,NB,White,Female,In Custody,0,0
+2017,10,NL,White,Female,In Custody,0,0
+2017,11,PE,White,Female,In Custody,0,0
+2017,12,NS,White,Female,In Custody,975.0377358,53
+2017,61,NW,White,Female,In Custody,0,0
+2017,60,YU,White,Female,In Custody,0,0
+2017,62,NU,White,Female,In Custody,0,0
+2017,99,National,Aboriginal,Female,In Custody,"1,067",250
+2017,59,BC,Aboriginal,Female,In Custody,"1,164",43
+2017,48,AB,Aboriginal,Female,In Custody,"1,074",91
+2017,47,SK,Aboriginal,Female,In Custody,"1,236",41
+2017,46,MB,Aboriginal,Female,In Custody,0,0
+2017,35,ON,Aboriginal,Female,In Custody,895.4615385,39
+2017,24,QC,Aboriginal,Female,In Custody,858.2083333,24
+2017,13,NB,Aboriginal,Female,In Custody,0,0
+2017,10,NL,Aboriginal,Female,In Custody,0,0
+2017,11,PE,Aboriginal,Female,In Custody,0,0
+2017,12,NS,Aboriginal,Female,In Custody,"1,065",12
+2017,61,NW,Aboriginal,Female,In Custody,0,0
+2017,60,YU,Aboriginal,Female,In Custody,0,0
+2017,62,NU,Aboriginal,Female,In Custody,0,0
+2017,99,National,Other Minority,Female,In Custody,"1,373",60
+2017,59,BC,Other Minority,Female,In Custody,"1,214",8
+2017,48,AB,Other Minority,Female,In Custody,"1,863",13
+2017,47,SK,Other Minority,Female,In Custody,639.1666667,6
+2017,46,MB,Other Minority,Female,In Custody,0,0
+2017,35,ON,Other Minority,Female,In Custody,"1,440",22
+2017,24,QC,Other Minority,Female,In Custody,"1,205",9
+2017,13,NB,Other Minority,Female,In Custody,0,0
+2017,10,NL,Other Minority,Female,In Custody,0,0
+2017,11,PE,Other Minority,Female,In Custody,0,0
+2017,12,NS,Other Minority,Female,In Custody,"1,056",2
+2017,61,NW,Other Minority,Female,In Custody,0,0
+2017,60,YU,Other Minority,Female,In Custody,0,0
+2017,62,NU,Other Minority,Female,In Custody,0,0
+2017,99,National,Black,Male,In Custody,"1,562","1,258"
+2017,59,BC,Black,Male,In Custody,"1,545",91
+2017,48,AB,Black,Male,In Custody,"1,470",113
+2017,47,SK,Black,Male,In Custody,"1,326",20
+2017,46,MB,Black,Male,In Custody,"1,783",24
+2017,35,ON,Black,Male,In Custody,"1,547",629
+2017,24,QC,Black,Male,In Custody,"1,563",254
+2017,13,NB,Black,Male,In Custody,"1,616",84
+2017,10,NL,Black,Male,In Custody,0,0
+2017,11,PE,Black,Male,In Custody,0,0
+2017,12,NS,Black,Male,In Custody,"1,946",43
+2017,61,NW,Black,Male,In Custody,0,0
+2017,60,YU,Black,Male,In Custody,0,0
+2017,62,NU,Black,Male,In Custody,0,0
+2017,99,National,White,Male,In Custody,"1,475","7,775"
+2017,59,BC,White,Male,In Custody,"1,351","1,062"
+2017,48,AB,White,Male,In Custody,"1,449","1,059"
+2017,47,SK,White,Male,In Custody,"1,406",249
+2017,46,MB,White,Male,In Custody,"1,478",242
+2017,35,ON,White,Male,In Custody,"1,252","1,728"
+2017,24,QC,White,Male,In Custody,"1,707","2,498"
+2017,13,NB,White,Male,In Custody,"1,465",633
+2017,10,NL,White,Male,In Custody,0,0
+2017,11,PE,White,Male,In Custody,0,0
+2017,12,NS,White,Male,In Custody,"1,426",304
+2017,61,NW,White,Male,In Custody,0,0
+2017,60,YU,White,Male,In Custody,0,0
+2017,62,NU,White,Male,In Custody,0,0
+2017,99,National,Aboriginal,Male,In Custody,"1,402","3,525"
+2017,59,BC,Aboriginal,Male,In Custody,"1,250",629
+2017,48,AB,Aboriginal,Male,In Custody,"1,514",731
+2017,47,SK,Aboriginal,Male,In Custody,"1,427",644
+2017,46,MB,Aboriginal,Male,In Custody,"1,474",490
+2017,35,ON,Aboriginal,Male,In Custody,"1,334",450
+2017,24,QC,Aboriginal,Male,In Custody,"1,437",424
+2017,13,NB,Aboriginal,Male,In Custody,"1,196",121
+2017,10,NL,Aboriginal,Male,In Custody,0,0
+2017,11,PE,Aboriginal,Male,In Custody,0,0
+2017,12,NS,Aboriginal,Male,In Custody,"1,449",36
+2017,61,NW,Aboriginal,Male,In Custody,0,0
+2017,60,YU,Aboriginal,Male,In Custody,0,0
+2017,62,NU,Aboriginal,Male,In Custody,0,0
+2017,99,National,Other Minority,Male,In Custody,"1,463","1,426"
+2017,59,BC,Other Minority,Male,In Custody,"1,336",201
+2017,48,AB,Other Minority,Male,In Custody,"1,389",169
+2017,47,SK,Other Minority,Male,In Custody,"1,389",134
+2017,46,MB,Other Minority,Male,In Custody,"1,439",56
+2017,35,ON,Other Minority,Male,In Custody,"1,569",616
+2017,24,QC,Other Minority,Male,In Custody,"1,456",199
+2017,13,NB,Other Minority,Male,In Custody,"1,216",36
+2017,10,NL,Other Minority,Male,In Custody,0,0
+2017,11,PE,Other Minority,Male,In Custody,0,0
+2017,12,NS,Other Minority,Male,In Custody,"1,092",15
+2017,61,NW,Other Minority,Male,In Custody,0,0
+2017,60,YU,Other Minority,Male,In Custody,0,0
+2017,62,NU,Other Minority,Male,In Custody,0,0
+2018,99,National,Black,Female,In Custody,"1,284",42
+2018,59,BC,Black,Female,In Custody,"1,095",1
+2018,48,AB,Black,Female,In Custody,"1,608",3
+2018,47,SK,Black,Female,In Custody,0,0
+2018,46,MB,Black,Female,In Custody,0,0
+2018,35,ON,Black,Female,In Custody,"1,188",34
+2018,24,QC,Black,Female,In Custody,"1,800",2
+2018,13,NB,Black,Female,In Custody,0,0
+2018,10,NL,Black,Female,In Custody,0,0
+2018,11,PE,Black,Female,In Custody,0,0
+2018,12,NS,Black,Female,In Custody,"2,010",2
+2018,61,NW,Black,Female,In Custody,0,0
+2018,60,YU,Black,Female,In Custody,0,0
+2018,62,NU,Black,Female,In Custody,0,0
+2018,99,National,White,Female,In Custody,"1,052",332
+2018,59,BC,White,Female,In Custody,853.0555556,36
+2018,48,AB,White,Female,In Custody,940.1034483,58
+2018,47,SK,White,Female,In Custody,"1,336",13
+2018,46,MB,White,Female,In Custody,0,0
+2018,35,ON,White,Female,In Custody,"1,105",83
+2018,24,QC,White,Female,In Custody,"1,140",77
+2018,13,NB,White,Female,In Custody,0,0
+2018,10,NL,White,Female,In Custody,0,0
+2018,11,PE,White,Female,In Custody,0,0
+2018,12,NS,White,Female,In Custody,"1,035",65
+2018,61,NW,White,Female,In Custody,0,0
+2018,60,YU,White,Female,In Custody,0,0
+2018,62,NU,White,Female,In Custody,0,0
+2018,99,National,Aboriginal,Female,In Custody,"1,154",252
+2018,59,BC,Aboriginal,Female,In Custody,"1,455",38
+2018,48,AB,Aboriginal,Female,In Custody,"1,142",102
+2018,47,SK,Aboriginal,Female,In Custody,"1,249",53
+2018,46,MB,Aboriginal,Female,In Custody,0,0
+2018,35,ON,Aboriginal,Female,In Custody,"1,001",37
+2018,24,QC,Aboriginal,Female,In Custody,675.8571429,14
+2018,13,NB,Aboriginal,Female,In Custody,0,0
+2018,10,NL,Aboriginal,Female,In Custody,0,0
+2018,11,PE,Aboriginal,Female,In Custody,0,0
+2018,12,NS,Aboriginal,Female,In Custody,810.25,8
+2018,61,NW,Aboriginal,Female,In Custody,0,0
+2018,60,YU,Aboriginal,Female,In Custody,0,0
+2018,62,NU,Aboriginal,Female,In Custody,0,0
+2018,99,National,Other Minority,Female,In Custody,"1,390",64
+2018,59,BC,Other Minority,Female,In Custody,"1,356",4
+2018,48,AB,Other Minority,Female,In Custody,"1,669",16
+2018,47,SK,Other Minority,Female,In Custody,448.5,4
+2018,46,MB,Other Minority,Female,In Custody,0,0
+2018,35,ON,Other Minority,Female,In Custody,"1,590",25
+2018,24,QC,Other Minority,Female,In Custody,"1,045",10
+2018,13,NB,Other Minority,Female,In Custody,0,0
+2018,10,NL,Other Minority,Female,In Custody,0,0
+2018,11,PE,Other Minority,Female,In Custody,0,0
+2018,12,NS,Other Minority,Female,In Custody,965.6,5
+2018,61,NW,Other Minority,Female,In Custody,0,0
+2018,60,YU,Other Minority,Female,In Custody,0,0
+2018,62,NU,Other Minority,Female,In Custody,0,0
+2018,99,National,Black,Male,In Custody,"1,536","1,150"
+2018,59,BC,Black,Male,In Custody,"1,435",97
+2018,48,AB,Black,Male,In Custody,"1,632",105
+2018,47,SK,Black,Male,In Custody,"1,226",14
+2018,46,MB,Black,Male,In Custody,"1,766",29
+2018,35,ON,Black,Male,In Custody,"1,548",571
+2018,24,QC,Black,Male,In Custody,"1,438",238
+2018,13,NB,Black,Male,In Custody,"1,483",61
+2018,10,NL,Black,Male,In Custody,0,0
+2018,11,PE,Black,Male,In Custody,0,0
+2018,12,NS,Black,Male,In Custody,"2,020",35
+2018,61,NW,Black,Male,In Custody,0,0
+2018,60,YU,Black,Male,In Custody,0,0
+2018,62,NU,Black,Male,In Custody,0,0
+2018,99,National,White,Male,In Custody,"1,439","7,296"
+2018,59,BC,White,Male,In Custody,"1,370","1,072"
+2018,48,AB,White,Male,In Custody,"1,423","1,063"
+2018,47,SK,White,Male,In Custody,"1,158",202
+2018,46,MB,White,Male,In Custody,"1,460",223
+2018,35,ON,White,Male,In Custody,"1,247","1,684"
+2018,24,QC,White,Male,In Custody,"1,675","2,145"
+2018,13,NB,White,Male,In Custody,"1,372",612
+2018,10,NL,White,Male,In Custody,0,0
+2018,11,PE,White,Male,In Custody,0,0
+2018,12,NS,White,Male,In Custody,"1,448",295
+2018,61,NW,White,Male,In Custody,0,0
+2018,60,YU,White,Male,In Custody,0,0
+2018,62,NU,White,Male,In Custody,0,0
+2018,99,National,Aboriginal,Male,In Custody,"1,392","3,538"
+2018,59,BC,Aboriginal,Male,In Custody,"1,311",637
+2018,48,AB,Aboriginal,Male,In Custody,"1,494",755
+2018,47,SK,Aboriginal,Male,In Custody,"1,406",586
+2018,46,MB,Aboriginal,Male,In Custody,"1,469",518
+2018,35,ON,Aboriginal,Male,In Custody,"1,316",486
+2018,24,QC,Aboriginal,Male,In Custody,"1,306",381
+2018,13,NB,Aboriginal,Male,In Custody,"1,291",133
+2018,10,NL,Aboriginal,Male,In Custody,0,0
+2018,11,PE,Aboriginal,Male,In Custody,0,0
+2018,12,NS,Aboriginal,Male,In Custody,"1,574",42
+2018,61,NW,Aboriginal,Male,In Custody,0,0
+2018,60,YU,Aboriginal,Male,In Custody,0,0
+2018,62,NU,Aboriginal,Male,In Custody,0,0
+2018,99,National,Other Minority,Male,In Custody,"1,449","1,458"
+2018,59,BC,Other Minority,Male,In Custody,"1,394",208
+2018,48,AB,Other Minority,Male,In Custody,"1,227",204
+2018,47,SK,Other Minority,Male,In Custody,"1,388",105
+2018,46,MB,Other Minority,Male,In Custody,"1,525",48
+2018,35,ON,Other Minority,Male,In Custody,"1,570",621
+2018,24,QC,Other Minority,Male,In Custody,"1,410",197
+2018,13,NB,Other Minority,Male,In Custody,"1,358",46
+2018,10,NL,Other Minority,Male,In Custody,0,0
+2018,11,PE,Other Minority,Male,In Custody,0,0
+2018,12,NS,Other Minority,Male,In Custody,"1,323",29
+2018,61,NW,Other Minority,Male,In Custody,0,0
+2018,60,YU,Other Minority,Male,In Custody,0,0
+2018,62,NU,Other Minority,Male,In Custody,0,0
+2012,99,National,Black,Female,Community,"1,803",47
+2012,59,BC,Black,Female,Community,"1,916",1
+2012,48,AB,Black,Female,Community,"1,157",2
+2012,47,SK,Black,Female,Community,0,1
+2012,46,MB,Black,Female,Community,0,0
+2012,35,ON,Black,Female,Community,"1,999",34
+2012,24,QC,Black,Female,Community,"1,650",6
+2012,13,NB,Black,Female,Community,0,0
+2012,10,NL,Black,Female,Community,0,0
+2012,11,PE,Black,Female,Community,0,0
+2012,12,NS,Black,Female,Community,873,3
+2012,61,NW,Black,Female,Community,0,0
+2012,60,YU,Black,Female,Community,0,0
+2012,62,NU,Black,Female,Community,0,0
+2012,99,National,White,Female,Community,"1,020",290
+2012,59,BC,White,Female,Community,907.9814815,54
+2012,48,AB,White,Female,Community,"1,115",45
+2012,47,SK,White,Female,Community,"1,258",6
+2012,46,MB,White,Female,Community,"1,336",6
+2012,35,ON,White,Female,Community,788.9868421,76
+2012,24,QC,White,Female,Community,"1,392",57
+2012,13,NB,White,Female,Community,"1,077",10
+2012,10,NL,White,Female,Community,711.6666667,9
+2012,11,PE,White,Female,Community,653.5,2
+2012,12,NS,White,Female,Community,932.84,25
+2012,61,NW,White,Female,Community,0,0
+2012,60,YU,White,Female,Community,0,0
+2012,62,NU,White,Female,Community,0,0
+2012,99,National,Aboriginal,Female,Community,"1,071",104
+2012,59,BC,Aboriginal,Female,Community,637.1333333,15
+2012,48,AB,Aboriginal,Female,Community,"1,206",21
+2012,47,SK,Aboriginal,Female,Community,"1,465",18
+2012,46,MB,Aboriginal,Female,Community,"1,026",15
+2012,35,ON,Aboriginal,Female,Community,"1,118",21
+2012,24,QC,Aboriginal,Female,Community,411,2
+2012,13,NB,Aboriginal,Female,Community,"2,299",2
+2012,10,NL,Aboriginal,Female,Community,0,0
+2012,11,PE,Aboriginal,Female,Community,0,0
+2012,12,NS,Aboriginal,Female,Community,578.8,10
+2012,61,NW,Aboriginal,Female,Community,0,0
+2012,60,YU,Aboriginal,Female,Community,0,0
+2012,62,NU,Aboriginal,Female,Community,0,0
+2012,99,National,Other Minority,Female,Community,"1,416",43
+2012,59,BC,Other Minority,Female,Community,"2,079",11
+2012,48,AB,Other Minority,Female,Community,983.3333333,3
+2012,47,SK,Other Minority,Female,Community,"2,192",1
+2012,46,MB,Other Minority,Female,Community,"1,095",3
+2012,35,ON,Other Minority,Female,Community,"1,180",20
+2012,24,QC,Other Minority,Female,Community,"1,080",3
+2012,13,NB,Other Minority,Female,Community,"2,010",1
+2012,10,NL,Other Minority,Female,Community,0,0
+2012,11,PE,Other Minority,Female,Community,0,0
+2012,12,NS,Other Minority,Female,Community,731,1
+2012,61,NW,Other Minority,Female,Community,0,0
+2012,60,YU,Other Minority,Female,Community,0,0
+2012,62,NU,Other Minority,Female,Community,0,0
+2012,99,National,Black,Male,Community,"1,503",430
+2012,59,BC,Black,Male,Community,"2,611",15
+2012,48,AB,Black,Male,Community,"1,461",55
+2012,47,SK,Black,Male,Community,"1,198",3
+2012,46,MB,Black,Male,Community,"1,242",8
+2012,35,ON,Black,Male,Community,"1,505",233
+2012,24,QC,Black,Male,Community,"1,459",72
+2012,13,NB,Black,Male,Community,614.8,5
+2012,10,NL,Black,Male,Community,0,0
+2012,11,PE,Black,Male,Community,0,0
+2012,12,NS,Black,Male,Community,"1,400",39
+2012,61,NW,Black,Male,Community,0,0
+2012,60,YU,Black,Male,Community,0,0
+2012,62,NU,Black,Male,Community,0,0
+2012,99,National,White,Male,Community,"1,334","5,014"
+2012,59,BC,White,Male,Community,"1,260",683
+2012,48,AB,White,Male,Community,"1,238",608
+2012,47,SK,White,Male,Community,"1,106",145
+2012,46,MB,White,Male,Community,"1,184",140
+2012,35,ON,White,Male,Community,"1,305","1,179"
+2012,24,QC,White,Male,Community,"1,482","1,650"
+2012,13,NB,White,Male,Community,"1,368",264
+2012,10,NL,White,Male,Community,"1,205",102
+2012,11,PE,White,Male,Community,735.8421053,19
+2012,12,NS,White,Male,Community,"1,194",224
+2012,61,NW,White,Male,Community,0,0
+2012,60,YU,White,Male,Community,0,0
+2012,62,NU,White,Male,Community,0,0
+2012,99,National,Aboriginal,Male,Community,"1,195","1,135"
+2012,59,BC,Aboriginal,Male,Community,"1,245",233
+2012,48,AB,Aboriginal,Male,Community,"1,211",215
+2012,47,SK,Aboriginal,Male,Community,"1,234",192
+2012,46,MB,Aboriginal,Male,Community,"1,095",152
+2012,35,ON,Aboriginal,Male,Community,"1,147",169
+2012,24,QC,Aboriginal,Male,Community,"1,238",121
+2012,13,NB,Aboriginal,Male,Community,"1,461",15
+2012,10,NL,Aboriginal,Male,Community,"1,390",6
+2012,11,PE,Aboriginal,Male,Community,0,0
+2012,12,NS,Aboriginal,Male,Community,886.2857143,21
+2012,61,NW,Aboriginal,Male,Community,892.3333333,6
+2012,60,YU,Aboriginal,Male,Community,0,0
+2012,62,NU,Aboriginal,Male,Community,850.2,5
+2012,99,National,Other Minority,Male,Community,"1,622",602
+2012,59,BC,Other Minority,Male,Community,"1,905",149
+2012,48,AB,Other Minority,Male,Community,"1,358",116
+2012,47,SK,Other Minority,Male,Community,"1,252",16
+2012,46,MB,Other Minority,Male,Community,"1,465",49
+2012,35,ON,Other Minority,Male,Community,"1,648",176
+2012,24,QC,Other Minority,Male,Community,"1,628",80
+2012,13,NB,Other Minority,Male,Community,"2,055",4
+2012,10,NL,Other Minority,Male,Community,0,0
+2012,11,PE,Other Minority,Male,Community,0,0
+2012,12,NS,Other Minority,Male,Community,"1,242",12
+2012,61,NW,Other Minority,Male,Community,0,0
+2012,60,YU,Other Minority,Male,Community,0,0
+2012,62,NU,Other Minority,Male,Community,0,0
+2013,99,National,Black,Female,Community,"1,682",61
+2013,59,BC,Black,Female,Community,"1,916",1
+2013,48,AB,Black,Female,Community,"1,157",2
+2013,47,SK,Black,Female,Community,0,1
+2013,46,MB,Black,Female,Community,0,0
+2013,35,ON,Black,Female,Community,"1,792",47
+2013,24,QC,Black,Female,Community,"1,654",7
+2013,13,NB,Black,Female,Community,0,0
+2013,10,NL,Black,Female,Community,0,0
+2013,11,PE,Black,Female,Community,0,0
+2013,12,NS,Black,Female,Community,873,3
+2013,61,NW,Black,Female,Community,0,0
+2013,60,YU,Black,Female,Community,0,0
+2013,62,NU,Black,Female,Community,0,0
+2013,99,National,White,Female,Community,"1,062",305
+2013,59,BC,White,Female,Community,972.0588235,51
+2013,48,AB,White,Female,Community,"1,087",51
+2013,47,SK,White,Female,Community,"1,382",5
+2013,46,MB,White,Female,Community,"1,457",5
+2013,35,ON,White,Female,Community,871.1264368,87
+2013,24,QC,White,Female,Community,"1,395",58
+2013,13,NB,White,Female,Community,"1,077",10
+2013,10,NL,White,Female,Community,796.1428571,7
+2013,11,PE,White,Female,Community,912,1
+2013,12,NS,White,Female,Community,"1,025",30
+2013,61,NW,White,Female,Community,0,0
+2013,60,YU,White,Female,Community,0,0
+2013,62,NU,White,Female,Community,0,0
+2013,99,National,Aboriginal,Female,Community,"1,103",110
+2013,59,BC,Aboriginal,Female,Community,740.25,16
+2013,48,AB,Aboriginal,Female,Community,"1,220",27
+2013,47,SK,Aboriginal,Female,Community,"1,513",17
+2013,46,MB,Aboriginal,Female,Community,"1,100",12
+2013,35,ON,Aboriginal,Female,Community,"1,126",22
+2013,24,QC,Aboriginal,Female,Community,616.5,4
+2013,13,NB,Aboriginal,Female,Community,"2,299",2
+2013,10,NL,Aboriginal,Female,Community,0,0
+2013,11,PE,Aboriginal,Female,Community,0,0
+2013,12,NS,Aboriginal,Female,Community,578,10
+2013,61,NW,Aboriginal,Female,Community,0,0
+2013,60,YU,Aboriginal,Female,Community,0,0
+2013,62,NU,Aboriginal,Female,Community,0,0
+2013,99,National,Other Minority,Female,Community,"1,411",48
+2013,59,BC,Other Minority,Female,Community,"2,226",10
+2013,48,AB,Other Minority,Female,Community,958.5,4
+2013,47,SK,Other Minority,Female,Community,"2,192",1
+2013,46,MB,Other Minority,Female,Community,"1,095",3
+2013,35,ON,Other Minority,Female,Community,"1,212",24
+2013,24,QC,Other Minority,Female,Community,"1,084",4
+2013,13,NB,Other Minority,Female,Community,"2,010",1
+2013,10,NL,Other Minority,Female,Community,0,0
+2013,11,PE,Other Minority,Female,Community,0,0
+2013,12,NS,Other Minority,Female,Community,731,1
+2013,61,NW,Other Minority,Female,Community,0,0
+2013,60,YU,Other Minority,Female,Community,0,0
+2013,62,NU,Other Minority,Female,Community,0,0
+2013,99,National,Black,Male,Community,"1,508",599
+2013,59,BC,Black,Male,Community,"2,307",25
+2013,48,AB,Black,Male,Community,"1,495",54
+2013,47,SK,Black,Male,Community,"1,161",4
+2013,46,MB,Black,Male,Community,"1,969",11
+2013,35,ON,Black,Male,Community,"1,444",349
+2013,24,QC,Black,Male,Community,"1,556",101
+2013,13,NB,Black,Male,Community,"1,149",12
+2013,10,NL,Black,Male,Community,0,0
+2013,11,PE,Black,Male,Community,0,0
+2013,12,NS,Black,Male,Community,"1,483",43
+2013,61,NW,Black,Male,Community,0,0
+2013,60,YU,Black,Male,Community,0,0
+2013,62,NU,Black,Male,Community,0,0
+2013,99,National,White,Male,Community,"1,377","5,303"
+2013,59,BC,White,Male,Community,"1,318",725
+2013,48,AB,White,Male,Community,"1,250",624
+2013,47,SK,White,Male,Community,"1,135",152
+2013,46,MB,White,Male,Community,"1,183",150
+2013,35,ON,White,Male,Community,"1,326","1,298"
+2013,24,QC,White,Male,Community,"1,533","1,738"
+2013,13,NB,White,Male,Community,"1,505",285
+2013,10,NL,White,Male,Community,"1,302",90
+2013,11,PE,White,Male,Community,767.8235294,17
+2013,12,NS,White,Male,Community,"1,213",224
+2013,61,NW,White,Male,Community,0,0
+2013,60,YU,White,Male,Community,0,0
+2013,62,NU,White,Male,Community,0,0
+2013,99,National,Aboriginal,Male,Community,"1,223","1,244"
+2013,59,BC,Aboriginal,Male,Community,"1,288",257
+2013,48,AB,Aboriginal,Male,Community,"1,210",235
+2013,47,SK,Aboriginal,Male,Community,"1,248",205
+2013,46,MB,Aboriginal,Male,Community,"1,055",165
+2013,35,ON,Aboriginal,Male,Community,"1,198",193
+2013,24,QC,Aboriginal,Male,Community,"1,356",137
+2013,13,NB,Aboriginal,Male,Community,"1,568",16
+2013,10,NL,Aboriginal,Male,Community,"1,390",6
+2013,11,PE,Aboriginal,Male,Community,0,0
+2013,12,NS,Aboriginal,Male,Community,864.2105263,19
+2013,61,NW,Aboriginal,Male,Community,892.3333333,6
+2013,60,YU,Aboriginal,Male,Community,0,0
+2013,62,NU,Aboriginal,Male,Community,850.2,5
+2013,99,National,Other Minority,Male,Community,"1,690",716
+2013,59,BC,Other Minority,Male,Community,"1,997",168
+2013,48,AB,Other Minority,Male,Community,"1,381",125
+2013,47,SK,Other Minority,Male,Community,"1,237",19
+2013,46,MB,Other Minority,Male,Community,"1,489",48
+2013,35,ON,Other Minority,Male,Community,"1,679",235
+2013,24,QC,Other Minority,Male,Community,"1,793",105
+2013,13,NB,Other Minority,Male,Community,"2,009",5
+2013,10,NL,Other Minority,Male,Community,0,0
+2013,11,PE,Other Minority,Male,Community,0,0
+2013,12,NS,Other Minority,Male,Community,"1,313",11
+2013,61,NW,Other Minority,Male,Community,0,0
+2013,60,YU,Other Minority,Male,Community,0,0
+2013,62,NU,Other Minority,Male,Community,0,0
+2014,99,National,Black,Female,Community,"1,720",45
+2014,59,BC,Black,Female,Community,0,0
+2014,48,AB,Black,Female,Community,"1,339",2
+2014,47,SK,Black,Female,Community,0,1
+2014,46,MB,Black,Female,Community,0,0
+2014,35,ON,Black,Female,Community,"1,929",32
+2014,24,QC,Black,Female,Community,"1,577",6
+2014,13,NB,Black,Female,Community,731,1
+2014,10,NL,Black,Female,Community,0,0
+2014,11,PE,Black,Female,Community,0,0
+2014,12,NS,Black,Female,Community,942.3333333,3
+2014,61,NW,Black,Female,Community,0,0
+2014,60,YU,Black,Female,Community,0,0
+2014,62,NU,Black,Female,Community,0,0
+2014,99,National,White,Female,Community,"1,032",286
+2014,59,BC,White,Female,Community,900.9090909,55
+2014,48,AB,White,Female,Community,"1,212",43
+2014,47,SK,White,Female,Community,"1,017",9
+2014,46,MB,White,Female,Community,"1,382",8
+2014,35,ON,White,Female,Community,895.6875,80
+2014,24,QC,White,Female,Community,"1,274",52
+2014,13,NB,White,Female,Community,936.1333333,15
+2014,10,NL,White,Female,Community,839.7142857,7
+2014,11,PE,White,Female,Community,0,0
+2014,12,NS,White,Female,Community,913.2352941,17
+2014,61,NW,White,Female,Community,0,0
+2014,60,YU,White,Female,Community,0,0
+2014,62,NU,White,Female,Community,0,0
+2014,99,National,Aboriginal,Female,Community,"1,151",118
+2014,59,BC,Aboriginal,Female,Community,938.2352941,17
+2014,48,AB,Aboriginal,Female,Community,"1,158",35
+2014,47,SK,Aboriginal,Female,Community,"1,482",15
+2014,46,MB,Aboriginal,Female,Community,984.75,12
+2014,35,ON,Aboriginal,Female,Community,"1,065",21
+2014,24,QC,Aboriginal,Female,Community,"1,644",7
+2014,13,NB,Aboriginal,Female,Community,"2,233",3
+2014,10,NL,Aboriginal,Female,Community,0,0
+2014,11,PE,Aboriginal,Female,Community,0,0
+2014,12,NS,Aboriginal,Female,Community,581.625,8
+2014,61,NW,Aboriginal,Female,Community,0,0
+2014,60,YU,Aboriginal,Female,Community,0,0
+2014,62,NU,Aboriginal,Female,Community,0,0
+2014,99,National,Other Minority,Female,Community,"1,571",43
+2014,59,BC,Other Minority,Female,Community,"2,707",9
+2014,48,AB,Other Minority,Female,Community,567.2,5
+2014,47,SK,Other Minority,Female,Community,"1,552",2
+2014,46,MB,Other Minority,Female,Community,"1,283",6
+2014,35,ON,Other Minority,Female,Community,"1,439",16
+2014,24,QC,Other Minority,Female,Community,"1,495",4
+2014,13,NB,Other Minority,Female,Community,0,0
+2014,10,NL,Other Minority,Female,Community,549,1
+2014,11,PE,Other Minority,Female,Community,0,0
+2014,12,NS,Other Minority,Female,Community,0,0
+2014,61,NW,Other Minority,Female,Community,0,0
+2014,60,YU,Other Minority,Female,Community,0,0
+2014,62,NU,Other Minority,Female,Community,0,0
+2014,99,National,Black,Male,Community,"1,616",468
+2014,59,BC,Black,Male,Community,"2,668",20
+2014,48,AB,Black,Male,Community,"1,513",47
+2014,47,SK,Black,Male,Community,"1,302",4
+2014,46,MB,Black,Male,Community,"1,269",7
+2014,35,ON,Black,Male,Community,"1,627",261
+2014,24,QC,Black,Male,Community,"1,623",85
+2014,13,NB,Black,Male,Community,800.8333333,6
+2014,10,NL,Black,Male,Community,0,0
+2014,11,PE,Black,Male,Community,0,0
+2014,12,NS,Black,Male,Community,"1,326",38
+2014,61,NW,Black,Male,Community,0,0
+2014,60,YU,Black,Male,Community,0,0
+2014,62,NU,Black,Male,Community,0,0
+2014,99,National,White,Male,Community,"1,338","4,991"
+2014,59,BC,White,Male,Community,"1,232",713
+2014,48,AB,White,Male,Community,"1,348",571
+2014,47,SK,White,Male,Community,"1,095",119
+2014,46,MB,White,Male,Community,"1,311",148
+2014,35,ON,White,Male,Community,"1,290","1,098"
+2014,24,QC,White,Male,Community,"1,469","1,715"
+2014,13,NB,White,Male,Community,"1,348",269
+2014,10,NL,White,Male,Community,"1,325",105
+2014,11,PE,White,Male,Community,716.5,22
+2014,12,NS,White,Male,Community,"1,082",231
+2014,61,NW,White,Male,Community,0,0
+2014,60,YU,White,Male,Community,0,0
+2014,62,NU,White,Male,Community,0,0
+2014,99,National,Aboriginal,Male,Community,"1,262","1,200"
+2014,59,BC,Aboriginal,Male,Community,"1,443",251
+2014,48,AB,Aboriginal,Male,Community,"1,164",239
+2014,47,SK,Aboriginal,Male,Community,"1,165",153
+2014,46,MB,Aboriginal,Male,Community,"1,188",168
+2014,35,ON,Aboriginal,Male,Community,"1,205",192
+2014,24,QC,Aboriginal,Male,Community,"1,437",134
+2014,13,NB,Aboriginal,Male,Community,"1,638",15
+2014,10,NL,Aboriginal,Male,Community,"1,235",8
+2014,11,PE,Aboriginal,Male,Community,0,0
+2014,12,NS,Aboriginal,Male,Community,917.4444444,27
+2014,61,NW,Aboriginal,Male,Community,"1,041",5
+2014,60,YU,Aboriginal,Male,Community,0,0
+2014,62,NU,Aboriginal,Male,Community,"1,002",8
+2014,99,National,Other Minority,Male,Community,"1,581",676
+2014,59,BC,Other Minority,Male,Community,"1,810",181
+2014,48,AB,Other Minority,Male,Community,"1,340",115
+2014,47,SK,Other Minority,Male,Community,"1,066",30
+2014,46,MB,Other Minority,Male,Community,"1,366",54
+2014,35,ON,Other Minority,Male,Community,"1,660",211
+2014,24,QC,Other Minority,Male,Community,"1,596",66
+2014,13,NB,Other Minority,Male,Community,"1,476",8
+2014,10,NL,Other Minority,Male,Community,"1,256",1
+2014,11,PE,Other Minority,Male,Community,0,0
+2014,12,NS,Other Minority,Male,Community,"1,259",10
+2014,61,NW,Other Minority,Male,Community,0,0
+2014,60,YU,Other Minority,Male,Community,0,0
+2014,62,NU,Other Minority,Male,Community,0,0
+2015,99,National,Black,Female,Community,"1,752",44
+2015,59,BC,Black,Female,Community,0,0
+2015,48,AB,Black,Female,Community,"1,339",2
+2015,47,SK,Black,Female,Community,0,1
+2015,46,MB,Black,Female,Community,0,0
+2015,35,ON,Black,Female,Community,"1,929",32
+2015,24,QC,Black,Female,Community,"1,828",5
+2015,13,NB,Black,Female,Community,731,1
+2015,10,NL,Black,Female,Community,0,0
+2015,11,PE,Black,Female,Community,0,0
+2015,12,NS,Black,Female,Community,942.3333333,3
+2015,61,NW,Black,Female,Community,0,0
+2015,60,YU,Black,Female,Community,0,0
+2015,62,NU,Black,Female,Community,0,0
+2015,99,National,White,Female,Community,"1,066",270
+2015,59,BC,White,Female,Community,951.9591837,49
+2015,48,AB,White,Female,Community,"1,227",42
+2015,47,SK,White,Female,Community,"1,064",8
+2015,46,MB,White,Female,Community,"1,502",7
+2015,35,ON,White,Female,Community,906.9367089,79
+2015,24,QC,White,Female,Community,"1,274",52
+2015,13,NB,White,Female,Community,"1,102",11
+2015,10,NL,White,Female,Community,839.7142857,7
+2015,11,PE,White,Female,Community,0,0
+2015,12,NS,White,Female,Community,978.1333333,15
+2015,61,NW,White,Female,Community,0,0
+2015,60,YU,White,Female,Community,0,0
+2015,62,NU,White,Female,Community,0,0
+2015,99,National,Aboriginal,Female,Community,"1,166",115
+2015,59,BC,Aboriginal,Female,Community,938.2352941,17
+2015,48,AB,Aboriginal,Female,Community,"1,177",34
+2015,47,SK,Aboriginal,Female,Community,"1,549",14
+2015,46,MB,Aboriginal,Female,Community,"1,022",11
+2015,35,ON,Aboriginal,Female,Community,"1,065",21
+2015,24,QC,Aboriginal,Female,Community,"1,644",7
+2015,13,NB,Aboriginal,Female,Community,"2,233",3
+2015,10,NL,Aboriginal,Female,Community,0,0
+2015,11,PE,Aboriginal,Female,Community,0,0
+2015,12,NS,Aboriginal,Female,Community,581.625,8
+2015,61,NW,Aboriginal,Female,Community,0,0
+2015,60,YU,Aboriginal,Female,Community,0,0
+2015,62,NU,Aboriginal,Female,Community,0,0
+2015,99,National,Other Minority,Female,Community,"1,713",38
+2015,59,BC,Other Minority,Female,Community,"2,707",9
+2015,48,AB,Other Minority,Female,Community,620.6666667,3
+2015,47,SK,Other Minority,Female,Community,"1,552",2
+2015,46,MB,Other Minority,Female,Community,"1,689",4
+2015,35,ON,Other Minority,Female,Community,"1,439",16
+2015,24,QC,Other Minority,Female,Community,"1,495",4
+2015,13,NB,Other Minority,Female,Community,0,0
+2015,10,NL,Other Minority,Female,Community,0,0
+2015,11,PE,Other Minority,Female,Community,0,0
+2015,12,NS,Other Minority,Female,Community,0,0
+2015,61,NW,Other Minority,Female,Community,0,0
+2015,60,YU,Other Minority,Female,Community,0,0
+2015,62,NU,Other Minority,Female,Community,0,0
+2015,99,National,Black,Male,Community,"1,633",461
+2015,59,BC,Black,Male,Community,"2,790",19
+2015,48,AB,Black,Male,Community,"1,526",46
+2015,47,SK,Black,Male,Community,"1,302",4
+2015,46,MB,Black,Male,Community,"1,269",7
+2015,35,ON,Black,Male,Community,"1,645",257
+2015,24,QC,Black,Male,Community,"1,640",84
+2015,13,NB,Black,Male,Community,800.8333333,6
+2015,10,NL,Black,Male,Community,0,0
+2015,11,PE,Black,Male,Community,0,0
+2015,12,NS,Black,Male,Community,"1,326",38
+2015,61,NW,Black,Male,Community,0,0
+2015,60,YU,Black,Male,Community,0,0
+2015,62,NU,Black,Male,Community,0,0
+2015,99,National,White,Male,Community,"1,366","4,825"
+2015,59,BC,White,Male,Community,"1,283",665
+2015,48,AB,White,Male,Community,"1,360",563
+2015,47,SK,White,Male,Community,"1,097",117
+2015,46,MB,White,Male,Community,"1,326",145
+2015,35,ON,White,Male,Community,"1,316","1,070"
+2015,24,QC,White,Male,Community,"1,490","1,679"
+2015,13,NB,White,Male,Community,"1,398",252
+2015,10,NL,White,Male,Community,"1,431",92
+2015,11,PE,White,Male,Community,731.3333333,15
+2015,12,NS,White,Male,Community,"1,089",227
+2015,61,NW,White,Male,Community,0,0
+2015,60,YU,White,Male,Community,0,0
+2015,62,NU,White,Male,Community,0,0
+2015,99,National,Aboriginal,Male,Community,"1,274","1,180"
+2015,59,BC,Aboriginal,Male,Community,"1,465",245
+2015,48,AB,Aboriginal,Male,Community,"1,161",237
+2015,47,SK,Aboriginal,Male,Community,"1,165",153
+2015,46,MB,Aboriginal,Male,Community,"1,197",166
+2015,35,ON,Aboriginal,Male,Community,"1,232",186
+2015,24,QC,Aboriginal,Male,Community,"1,461",131
+2015,13,NB,Aboriginal,Male,Community,"1,638",15
+2015,10,NL,Aboriginal,Male,Community,"1,309",7
+2015,11,PE,Aboriginal,Male,Community,0,0
+2015,12,NS,Aboriginal,Male,Community,917.4444444,27
+2015,61,NW,Aboriginal,Male,Community,"1,041",5
+2015,60,YU,Aboriginal,Male,Community,0,0
+2015,62,NU,Aboriginal,Male,Community,"1,002",8
+2015,99,National,Other Minority,Male,Community,"1,629",645
+2015,59,BC,Other Minority,Male,Community,"1,908",168
+2015,48,AB,Other Minority,Male,Community,"1,387",108
+2015,47,SK,Other Minority,Male,Community,"1,078",29
+2015,46,MB,Other Minority,Male,Community,"1,470",48
+2015,35,ON,Other Minority,Male,Community,"1,670",209
+2015,24,QC,Other Minority,Male,Community,"1,596",66
+2015,13,NB,Other Minority,Male,Community,"1,776",6
+2015,10,NL,Other Minority,Male,Community,"1,256",1
+2015,11,PE,Other Minority,Male,Community,0,0
+2015,12,NS,Other Minority,Male,Community,"1,259",10
+2015,61,NW,Other Minority,Male,Community,0,0
+2015,60,YU,Other Minority,Male,Community,0,0
+2015,62,NU,Other Minority,Male,Community,0,0
+2016,99,National,Black,Female,Community,"2,030",36
+2016,59,BC,Black,Female,Community,0,0
+2016,48,AB,Black,Female,Community,0,0
+2016,47,SK,Black,Female,Community,0,1
+2016,46,MB,Black,Female,Community,0,0
+2016,35,ON,Black,Female,Community,"2,187",29
+2016,24,QC,Black,Female,Community,"2,232",4
+2016,13,NB,Black,Female,Community,0,0
+2016,10,NL,Black,Female,Community,0,0
+2016,11,PE,Black,Female,Community,0,0
+2016,12,NS,Black,Female,Community,365.5,2
+2016,61,NW,Black,Female,Community,0,0
+2016,60,YU,Black,Female,Community,0,0
+2016,62,NU,Black,Female,Community,0,0
+2016,99,National,White,Female,Community,"1,052",293
+2016,59,BC,White,Female,Community,"1,105",46
+2016,48,AB,White,Female,Community,"1,072",47
+2016,47,SK,White,Female,Community,"1,233",11
+2016,46,MB,White,Female,Community,"1,485",6
+2016,35,ON,White,Female,Community,821.96,75
+2016,24,QC,White,Female,Community,"1,242",62
+2016,13,NB,White,Female,Community,"1,101",18
+2016,10,NL,White,Female,Community,"1,076",7
+2016,11,PE,White,Female,Community,"1,096",1
+2016,12,NS,White,Female,Community,922.7368421,19
+2016,61,NW,White,Female,Community,0,0
+2016,60,YU,White,Female,Community,0,1
+2016,62,NU,White,Female,Community,0,0
+2016,99,National,Aboriginal,Female,Community,"1,089",113
+2016,59,BC,Aboriginal,Female,Community,"1,038",16
+2016,48,AB,Aboriginal,Female,Community,933.8275862,29
+2016,47,SK,Aboriginal,Female,Community,"1,008",10
+2016,46,MB,Aboriginal,Female,Community,"1,237",11
+2016,35,ON,Aboriginal,Female,Community,"1,062",21
+2016,24,QC,Aboriginal,Female,Community,"1,510",12
+2016,13,NB,Aboriginal,Female,Community,"1,731",5
+2016,10,NL,Aboriginal,Female,Community,0,0
+2016,11,PE,Aboriginal,Female,Community,0,0
+2016,12,NS,Aboriginal,Female,Community,690.2857143,7
+2016,61,NW,Aboriginal,Female,Community,0,0
+2016,60,YU,Aboriginal,Female,Community,943,1
+2016,62,NU,Aboriginal,Female,Community,867,1
+2016,99,National,Other Minority,Female,Community,"1,821",51
+2016,59,BC,Other Minority,Female,Community,"2,535",10
+2016,48,AB,Other Minority,Female,Community,"1,194",9
+2016,47,SK,Other Minority,Female,Community,"1,827",2
+2016,46,MB,Other Minority,Female,Community,"1,962",3
+2016,35,ON,Other Minority,Female,Community,"2,056",18
+2016,24,QC,Other Minority,Female,Community,"1,254",7
+2016,13,NB,Other Minority,Female,Community,0,0
+2016,10,NL,Other Minority,Female,Community,0,0
+2016,11,PE,Other Minority,Female,Community,0,0
+2016,12,NS,Other Minority,Female,Community,730.5,2
+2016,61,NW,Other Minority,Female,Community,0,0
+2016,60,YU,Other Minority,Female,Community,0,0
+2016,62,NU,Other Minority,Female,Community,0,0
+2016,99,National,Black,Male,Community,"1,574",497
+2016,59,BC,Black,Male,Community,"1,682",22
+2016,48,AB,Black,Male,Community,"1,461",45
+2016,47,SK,Black,Male,Community,"1,078",5
+2016,46,MB,Black,Male,Community,"1,619",10
+2016,35,ON,Black,Male,Community,"1,628",292
+2016,24,QC,Black,Male,Community,"1,613",73
+2016,13,NB,Black,Male,Community,"1,263",4
+2016,10,NL,Black,Male,Community,0,0
+2016,11,PE,Black,Male,Community,0,0
+2016,12,NS,Black,Male,Community,"1,300",46
+2016,61,NW,Black,Male,Community,0,0
+2016,60,YU,Black,Male,Community,0,0
+2016,62,NU,Black,Male,Community,0,0
+2016,99,National,White,Male,Community,"1,337","4,967"
+2016,59,BC,White,Male,Community,"1,236",676
+2016,48,AB,White,Male,Community,"1,384",604
+2016,47,SK,White,Male,Community,970.5275591,127
+2016,46,MB,White,Male,Community,"1,267",136
+2016,35,ON,White,Male,Community,"1,367","1,129"
+2016,24,QC,White,Male,Community,"1,434","1,696"
+2016,13,NB,White,Male,Community,"1,272",245
+2016,10,NL,White,Male,Community,"1,218",92
+2016,11,PE,White,Male,Community,"1,021",21
+2016,12,NS,White,Male,Community,"1,048",238
+2016,61,NW,White,Male,Community,0,0
+2016,60,YU,White,Male,Community,886.3333333,3
+2016,62,NU,White,Male,Community,0,0
+2016,99,National,Aboriginal,Male,Community,"1,330","1,215"
+2016,59,BC,Aboriginal,Male,Community,"1,403",255
+2016,48,AB,Aboriginal,Male,Community,"1,318",206
+2016,47,SK,Aboriginal,Male,Community,"1,364",174
+2016,46,MB,Aboriginal,Male,Community,"1,189",162
+2016,35,ON,Aboriginal,Male,Community,"1,244",187
+2016,24,QC,Aboriginal,Male,Community,"1,519",156
+2016,13,NB,Aboriginal,Male,Community,"1,216",22
+2016,10,NL,Aboriginal,Male,Community,"1,142",12
+2016,11,PE,Aboriginal,Male,Community,0,0
+2016,12,NS,Aboriginal,Male,Community,"1,187",26
+2016,61,NW,Aboriginal,Male,Community,"1,121",10
+2016,60,YU,Aboriginal,Male,Community,"1,108",2
+2016,62,NU,Aboriginal,Male,Community,972.6666667,3
+2016,99,National,Other Minority,Male,Community,"1,703",684
+2016,59,BC,Other Minority,Male,Community,"1,879",180
+2016,48,AB,Other Minority,Male,Community,"1,441",133
+2016,47,SK,Other Minority,Male,Community,"1,556",14
+2016,46,MB,Other Minority,Male,Community,"1,571",45
+2016,35,ON,Other Minority,Male,Community,"1,843",210
+2016,24,QC,Other Minority,Male,Community,"1,611",87
+2016,13,NB,Other Minority,Male,Community,"1,412",4
+2016,10,NL,Other Minority,Male,Community,735,3
+2016,11,PE,Other Minority,Male,Community,0,0
+2016,12,NS,Other Minority,Male,Community,917.5,8
+2016,61,NW,Other Minority,Male,Community,0,0
+2016,60,YU,Other Minority,Male,Community,0,0
+2016,62,NU,Other Minority,Male,Community,0,0
+2017,99,National,Black,Female,Community,"1,949",47
+2017,59,BC,Black,Female,Community,0,0
+2017,48,AB,Black,Female,Community,0,0
+2017,47,SK,Black,Female,Community,0,1
+2017,46,MB,Black,Female,Community,0,0
+2017,35,ON,Black,Female,Community,"2,187",37
+2017,24,QC,Black,Female,Community,"1,493",5
+2017,13,NB,Black,Female,Community,0,0
+2017,10,NL,Black,Female,Community,0,0
+2017,11,PE,Black,Female,Community,0,0
+2017,12,NS,Black,Female,Community,807,4
+2017,61,NW,Black,Female,Community,0,0
+2017,60,YU,Black,Female,Community,0,0
+2017,62,NU,Black,Female,Community,0,0
+2017,99,National,White,Female,Community,"1,081",321
+2017,59,BC,White,Female,Community,"1,074",44
+2017,48,AB,White,Female,Community,"1,322",51
+2017,47,SK,White,Female,Community,"1,442",7
+2017,46,MB,White,Female,Community,"1,369",4
+2017,35,ON,White,Female,Community,932.2345679,81
+2017,24,QC,White,Female,Community,"1,105",84
+2017,13,NB,White,Female,Community,"1,018",18
+2017,10,NL,White,Female,Community,"1,179",6
+2017,11,PE,White,Female,Community,965.5,2
+2017,12,NS,White,Female,Community,910.0434783,23
+2017,61,NW,White,Female,Community,0,0
+2017,60,YU,White,Female,Community,0,1
+2017,62,NU,White,Female,Community,0,0
+2017,99,National,Aboriginal,Female,Community,"1,131",149
+2017,59,BC,Aboriginal,Female,Community,"1,281",20
+2017,48,AB,Aboriginal,Female,Community,"1,051",39
+2017,47,SK,Aboriginal,Female,Community,950.6666667,18
+2017,46,MB,Aboriginal,Female,Community,"1,319",19
+2017,35,ON,Aboriginal,Female,Community,984.2916667,24
+2017,24,QC,Aboriginal,Female,Community,"1,374",18
+2017,13,NB,Aboriginal,Female,Community,"1,781",4
+2017,10,NL,Aboriginal,Female,Community,0,0
+2017,11,PE,Aboriginal,Female,Community,0,0
+2017,12,NS,Aboriginal,Female,Community,563.8333333,6
+2017,61,NW,Aboriginal,Female,Community,0,0
+2017,60,YU,Aboriginal,Female,Community,943,1
+2017,62,NU,Aboriginal,Female,Community,0,0
+2017,99,National,Other Minority,Female,Community,"1,627",57
+2017,59,BC,Other Minority,Female,Community,"2,264",9
+2017,48,AB,Other Minority,Female,Community,"1,118",10
+2017,47,SK,Other Minority,Female,Community,"1,644",3
+2017,46,MB,Other Minority,Female,Community,"1,827",3
+2017,35,ON,Other Minority,Female,Community,"1,762",24
+2017,24,QC,Other Minority,Female,Community,980.2,5
+2017,13,NB,Other Minority,Female,Community,0,0
+2017,10,NL,Other Minority,Female,Community,0,0
+2017,11,PE,Other Minority,Female,Community,0,0
+2017,12,NS,Other Minority,Female,Community,"1,195",3
+2017,61,NW,Other Minority,Female,Community,0,0
+2017,60,YU,Other Minority,Female,Community,0,0
+2017,62,NU,Other Minority,Female,Community,0,0
+2017,99,National,Black,Male,Community,"1,670",517
+2017,59,BC,Black,Male,Community,"1,640",23
+2017,48,AB,Black,Male,Community,"1,494",38
+2017,47,SK,Black,Male,Community,760,1
+2017,46,MB,Black,Male,Community,"1,890",12
+2017,35,ON,Black,Male,Community,"1,701",306
+2017,24,QC,Black,Male,Community,"1,766",82
+2017,13,NB,Black,Male,Community,998.6,5
+2017,10,NL,Black,Male,Community,0,0
+2017,11,PE,Black,Male,Community,0,0
+2017,12,NS,Black,Male,Community,"1,503",50
+2017,61,NW,Black,Male,Community,0,0
+2017,60,YU,Black,Male,Community,0,0
+2017,62,NU,Black,Male,Community,0,0
+2017,99,National,White,Male,Community,"1,338","5,045"
+2017,59,BC,White,Male,Community,"1,396",644
+2017,48,AB,White,Male,Community,"1,337",617
+2017,47,SK,White,Male,Community,890.2051282,117
+2017,46,MB,White,Male,Community,"1,392",120
+2017,35,ON,White,Male,Community,"1,360","1,169"
+2017,24,QC,White,Male,Community,"1,385","1,775"
+2017,13,NB,White,Male,Community,"1,250",231
+2017,10,NL,White,Male,Community,"1,299",89
+2017,11,PE,White,Male,Community,"1,056",21
+2017,12,NS,White,Male,Community,"1,065",259
+2017,61,NW,White,Male,Community,"2,557",1
+2017,60,YU,White,Male,Community,365.5,2
+2017,62,NU,White,Male,Community,0,0
+2017,99,National,Aboriginal,Male,Community,"1,363","1,260"
+2017,59,BC,Aboriginal,Male,Community,"1,520",256
+2017,48,AB,Aboriginal,Male,Community,"1,274",207
+2017,47,SK,Aboriginal,Male,Community,"1,395",174
+2017,46,MB,Aboriginal,Male,Community,"1,237",151
+2017,35,ON,Aboriginal,Male,Community,"1,282",209
+2017,24,QC,Aboriginal,Male,Community,"1,456",182
+2017,13,NB,Aboriginal,Male,Community,"1,368",29
+2017,10,NL,Aboriginal,Male,Community,"1,356",4
+2017,11,PE,Aboriginal,Male,Community,0,0
+2017,12,NS,Aboriginal,Male,Community,"1,218",34
+2017,61,NW,Aboriginal,Male,Community,"1,318",8
+2017,60,YU,Aboriginal,Male,Community,761,2
+2017,62,NU,Aboriginal,Male,Community,"1,008",4
+2017,99,National,Other Minority,Male,Community,"1,711",727
+2017,59,BC,Other Minority,Male,Community,"2,014",171
+2017,48,AB,Other Minority,Male,Community,"1,362",130
+2017,47,SK,Other Minority,Male,Community,"1,365",20
+2017,46,MB,Other Minority,Male,Community,"1,809",38
+2017,35,ON,Other Minority,Male,Community,"1,864",227
+2017,24,QC,Other Minority,Male,Community,"1,475",108
+2017,13,NB,Other Minority,Male,Community,"1,647",9
+2017,10,NL,Other Minority,Male,Community,"1,226",5
+2017,11,PE,Other Minority,Male,Community,731,1
+2017,12,NS,Other Minority,Male,Community,"1,240",18
+2017,61,NW,Other Minority,Male,Community,0,0
+2017,60,YU,Other Minority,Male,Community,0,0
+2017,62,NU,Other Minority,Male,Community,0,0
+2018,99,National,Black,Female,Community,"2,044",39
+2018,59,BC,Black,Female,Community,0,0
+2018,48,AB,Black,Female,Community,"1,065",1
+2018,47,SK,Black,Female,Community,0,1
+2018,46,MB,Black,Female,Community,0,0
+2018,35,ON,Black,Female,Community,"2,313",32
+2018,24,QC,Black,Female,Community,814.5,4
+2018,13,NB,Black,Female,Community,0,0
+2018,10,NL,Black,Female,Community,0,0
+2018,11,PE,Black,Female,Community,0,0
+2018,12,NS,Black,Female,Community,"1,400",1
+2018,61,NW,Black,Female,Community,0,0
+2018,60,YU,Black,Female,Community,0,0
+2018,62,NU,Black,Female,Community,0,0
+2018,99,National,White,Female,Community,"1,045",363
+2018,59,BC,White,Female,Community,870.4423077,52
+2018,48,AB,White,Female,Community,"1,185",46
+2018,47,SK,White,Female,Community,"1,345",13
+2018,46,MB,White,Female,Community,"1,396",6
+2018,35,ON,White,Female,Community,"1,056",108
+2018,24,QC,White,Female,Community,"1,036",87
+2018,13,NB,White,Female,Community,"1,068",13
+2018,10,NL,White,Female,Community,"1,141",7
+2018,11,PE,White,Female,Community,887.3333333,3
+2018,12,NS,White,Female,Community,920.8518519,27
+2018,61,NW,White,Female,Community,0,0
+2018,60,YU,White,Female,Community,0,1
+2018,62,NU,White,Female,Community,0,0
+2018,99,National,Aboriginal,Female,Community,"1,054",160
+2018,59,BC,Aboriginal,Female,Community,903.5666667,30
+2018,48,AB,Aboriginal,Female,Community,"1,025",34
+2018,47,SK,Aboriginal,Female,Community,"1,057",20
+2018,46,MB,Aboriginal,Female,Community,"1,327",21
+2018,35,ON,Aboriginal,Female,Community,"1,054",33
+2018,24,QC,Aboriginal,Female,Community,"1,035",10
+2018,13,NB,Aboriginal,Female,Community,"1,563",5
+2018,10,NL,Aboriginal,Female,Community,0,0
+2018,11,PE,Aboriginal,Female,Community,0,0
+2018,12,NS,Aboriginal,Female,Community,638.8333333,6
+2018,61,NW,Aboriginal,Female,Community,0,0
+2018,60,YU,Aboriginal,Female,Community,943,1
+2018,62,NU,Aboriginal,Female,Community,0,0
+2018,99,National,Other Minority,Female,Community,"1,589",64
+2018,59,BC,Other Minority,Female,Community,"1,598",13
+2018,48,AB,Other Minority,Female,Community,"1,261",14
+2018,47,SK,Other Minority,Female,Community,"1,280",1
+2018,46,MB,Other Minority,Female,Community,"1,897",3
+2018,35,ON,Other Minority,Female,Community,"1,820",24
+2018,24,QC,Other Minority,Female,Community,"1,238",5
+2018,13,NB,Other Minority,Female,Community,731,1
+2018,10,NL,Other Minority,Female,Community,0,0
+2018,11,PE,Other Minority,Female,Community,0,0
+2018,12,NS,Other Minority,Female,Community,"1,888",3
+2018,61,NW,Other Minority,Female,Community,0,0
+2018,60,YU,Other Minority,Female,Community,0,0
+2018,62,NU,Other Minority,Female,Community,0,0
+2018,99,National,Black,Male,Community,"1,745",566
+2018,59,BC,Black,Male,Community,"1,740",19
+2018,48,AB,Black,Male,Community,"1,575",53
+2018,47,SK,Black,Male,Community,0,0
+2018,46,MB,Black,Male,Community,"1,475",10
+2018,35,ON,Black,Male,Community,"1,788",334
+2018,24,QC,Black,Male,Community,"1,792",95
+2018,13,NB,Black,Male,Community,"2,888",9
+2018,10,NL,Black,Male,Community,"1,067",1
+2018,11,PE,Black,Male,Community,"1,096",1
+2018,12,NS,Black,Male,Community,"1,392",43
+2018,61,NW,Black,Male,Community,0,0
+2018,60,YU,Black,Male,Community,915,1
+2018,62,NU,Black,Male,Community,0,0
+2018,99,National,White,Male,Community,"1,367","5,282"
+2018,59,BC,White,Male,Community,"1,404",656
+2018,48,AB,White,Male,Community,"1,304",654
+2018,47,SK,White,Male,Community,901.8272727,110
+2018,46,MB,White,Male,Community,"1,450",130
+2018,35,ON,White,Male,Community,"1,373","1,252"
+2018,24,QC,White,Male,Community,"1,433","1,872"
+2018,13,NB,White,Male,Community,"1,373",248
+2018,10,NL,White,Male,Community,"1,274",73
+2018,11,PE,White,Male,Community,"1,170",23
+2018,12,NS,White,Male,Community,"1,113",261
+2018,61,NW,White,Male,Community,"2,557",1
+2018,60,YU,White,Male,Community,396.5,2
+2018,62,NU,White,Male,Community,0,0
+2018,99,National,Aboriginal,Male,Community,"1,368","1,332"
+2018,59,BC,Aboriginal,Male,Community,"1,479",291
+2018,48,AB,Aboriginal,Male,Community,"1,264",225
+2018,47,SK,Aboriginal,Male,Community,"1,410",185
+2018,46,MB,Aboriginal,Male,Community,"1,263",166
+2018,35,ON,Aboriginal,Male,Community,"1,318",204
+2018,24,QC,Aboriginal,Male,Community,"1,472",184
+2018,13,NB,Aboriginal,Male,Community,"1,327",28
+2018,10,NL,Aboriginal,Male,Community,980.75,8
+2018,11,PE,Aboriginal,Male,Community,0,0
+2018,12,NS,Aboriginal,Male,Community,"1,222",31
+2018,61,NW,Aboriginal,Male,Community,895.8333333,6
+2018,60,YU,Aboriginal,Male,Community,0,0
+2018,62,NU,Aboriginal,Male,Community,"2,271",4
+2018,99,National,Other Minority,Male,Community,"1,692",832
+2018,59,BC,Other Minority,Male,Community,"1,973",164
+2018,48,AB,Other Minority,Male,Community,"1,468",133
+2018,47,SK,Other Minority,Male,Community,"1,065",43
+2018,46,MB,Other Minority,Male,Community,"1,734",38
+2018,35,ON,Other Minority,Male,Community,"1,778",306
+2018,24,QC,Other Minority,Male,Community,"1,596",124
+2018,13,NB,Other Minority,Male,Community,"1,922",8
+2018,10,NL,Other Minority,Male,Community,990.4,5
+2018,11,PE,Other Minority,Male,Community,0,0
+2018,12,NS,Other Minority,Male,Community,"1,357",10
+2018,61,NW,Other Minority,Male,Community,"1,270",1
+2018,60,YU,Other Minority,Male,Community,0,0
+2018,62,NU,Other Minority,Male,Community,0,0
