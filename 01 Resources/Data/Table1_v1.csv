@@ -1,4 +1,4 @@
-﻿Year,Province,Race,Sex,Province-Sex,Population,Arrested,Race % of Population,Race % Arrested,Race disparity Index
+﻿year,province,race,sex,province_sex,population,arrested,race_percent_population,race_percent_arrested,race_disparity_index
 2016,National,Black,Female,National-Female,"927,465",72,4.33%,6.13%,0.417639889
 2016,BC,Black,Female,BC-Female,"42,005",0,1.47%,0.00%,-1
 2016,AB,Black,Female,AB-Female,"83,955",1,3.46%,0.40%,-0.883769489
