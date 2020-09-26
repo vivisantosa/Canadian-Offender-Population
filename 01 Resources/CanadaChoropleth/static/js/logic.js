@@ -4,6 +4,7 @@ var myMap = L.map("map", {
   zoom: 4
 });
 
+
 // Adding tile layer
 L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
   attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
@@ -33,7 +34,7 @@ var provinces = [
     Province: "NU",
     Pct_Aborigin_Pop: "85.5%",
     Pct_Aborigin_Arrested: "100%",
-    Race_Disparity_Index: 1.17
+    Race_Disparity_Index: 1.71
   },
   {
     PRUID: 11,
@@ -92,7 +93,7 @@ var provinces = [
     Race_Disparity_Index: 4.14
   },
   {
-    PRUID: 13,
+    PRUID: 10,
     Province: "NL",
     Pct_Aborigin_Pop: "11.4%",
     Pct_Aborigin_Arrested: "10.5%",
@@ -107,26 +108,109 @@ var provinces = [
   }
 ];
 
-function getRDIvalue(data, provinces){
-  console.log("I am in getRDIvalue");
-  console.log(data);
-  for (var i=0; i < 13; i++) {
-    console.log("provinces", provinces[i].PRUID);
-    console.log("data", data[i].properties.PRUID);
-    if (data[i].properties.PRUID == provinces[i].PRUID) {
-      var rdiValue = provinces[i].Race_Disparity_Index;
-      console.log("rdiValue", rdiValue);
-      return rdiValue 
-  }}
+var provinces2 = {
+  "59":{
+    "Pct_Aborigin_Pop": "6.6%",
+    "Pct_Aborigin_Arrested": "27.2%",
+    "Race_Disparity_Index": 4.10 },
+  "16":{
+    "Pct_Aborigin_Pop": "4.5%",
+    "Pct_Aborigin_Arrested": "10.9%",
+    "Race_Disparity_Index": 2.42 },
+  "62":{
+    "Pct_Aborigin_Pop": "85.5%",
+    "Pct_Aborigin_Arrested": "100%",
+    "Race_Disparity_Index": 1.71 },
+  "11":{
+    "Pct_Aborigin_Pop": "6.6%",
+    "Pct_Aborigin_Arrested": "27.2%",
+    "Race_Disparity_Index": 4.10 },
+  "47":{
+    "Pct_Aborigin_Pop": "4.5%",
+    "Pct_Aborigin_Arrested": "10.9%",
+    "Race_Disparity_Index": 2.42 },
+  "60":{
+    "Pct_Aborigin_Pop": "85.5%",
+    "Pct_Aborigin_Arrested": "100%",
+    "Race_Disparity_Index": 1.71 },
+  "46":{
+    "Pct_Aborigin_Pop": "6.6%",
+    "Pct_Aborigin_Arrested": "27.2%",
+    "Race_Disparity_Index": 4.10 },
+  "35":{
+    "Pct_Aborigin_Pop": "4.5%",
+    "Pct_Aborigin_Arrested": "10.9%",
+    "Race_Disparity_Index": 2.42 },
+  "13":{
+    "Pct_Aborigin_Pop": "85.5%",
+    "Pct_Aborigin_Arrested": "100%",
+    "Race_Disparity_Index": 1.71 },
+  "61":{
+    "Pct_Aborigin_Pop": "6.6%",
+    "Pct_Aborigin_Arrested": "27.2%",
+    "Race_Disparity_Index": 4.10 },
+  "48":{
+    "Pct_Aborigin_Pop": "4.5%",
+    "Pct_Aborigin_Arrested": "10.9%",
+    "Race_Disparity_Index": 2.42 },
+  "10":{
+    "Pct_Aborigin_Pop": "85.5%",
+    "Pct_Aborigin_Arrested": "100%",
+    "Race_Disparity_Index": 1.71 }, 
+  "10":{
+    "Pct_Aborigin_Pop": "85.5%",
+    "Pct_Aborigin_Arrested": "100%",
+    "Race_Disparity_Index": 1.71 },   
 }
 
-console.log("here 1")
+function getRDIvalue(number, provinces){
+  console.log("I am in getRDIvalue");
+  console.log(number);
+  // var rdiValues = [];
+  for (var i=0; i < 13; i++) {
+    console.log("provinces", number, provinces[i].PRUID,provinces[i].Race_Disparity_Index);
+    //console.log("data", data[i].properties.PRUID);
+    if (provinces[i].PRUID == number) {
+      console.log("bingo")
+      var rdiValue = provinces[i].Race_Disparity_Index;  
+      // rdiValues.push(rdiValue) 
+      console.log("rdiValue", rdiValue);
+      return rdiValue
+  }}
+}
+// provinces2 = {
+//   "59":{
+//     "MediuamHOuse":20,
+//     "MediaAge":20
+//   },
+//   "16":70000,
+//   "29":80000
+// }
+
+// loop over the geogson data
+// for every province:
+// loop over the array of provicnes until you find an entry that has pRUID=PRUID
+
+// loop over the geojson data
+// for every provinceget the corresponding data from provinces2
+// proinvce_data = provinces2["59"]
+
+// inject to my provice medianIncome = provicen_data["MedianINcome"]
+
 // Load in geojson data
 var geoData = "static/data/canada_provinces.geojson";
 
 // Grab data with d3
 d3.json(geoData, function(data) {
   console.log("here 2",data);
+
+  // forEach
+  //   //console.log("provinces", number, provinces[i].PRUID,provinces[i].Race_Disparity_Index);
+  //   //console.log("data", data[i].properties.PRUID);
+  //   //jsonObj.members.viewers[newUser] = newValue ;
+
+  //   data[i].properties.Race_Disparity_Index = provinces of PRUID "Race_Disparity_Index"
+  // }}
 
   // Grab second data with d3  
   var geoData1 = "static/data/Median_Household_Income_2016.geojson";
@@ -196,15 +280,16 @@ d3.json(geoData, function(data) {
 });
 
 // Load RaceDisparityIndex
-d3.csv("hours-of-tv-watched.csv").then  (tvData => {
-  console.log(tvData);
-  var names = tvData.map(data=> data.name);
-  console.log ("names ", names); 
-  tvData.forEach( data => {
-      //data.hours = parseInt(data.hours);
-      data.hours = +data.hours; //+data.hours is equivalent to parseInt(data.hours)
-      // not the same as data.hours += data.hours;
-      console.log("Name: ", data.name );
-      console.log("Hours: ", data.hours);
-  });
-});
+// d3.csv("hours-of-tv-watched.csv").then  (tvData => {
+//   console.log(tvData);
+//   var names = tvData.map(data=> data.name);
+//   console.log ("names ", names); 
+//   tvData.forEach( data => {
+//       //data.hours = parseInt(data.hours);
+//       data.hours = +data.hours; //+data.hours is equivalent to parseInt(data.hours)
+//       // not the same as data.hours += data.hours;
+//       console.log("Name: ", data.name );
+//       console.log("Hours: ", data.hours);
+//   });
+// });
+
