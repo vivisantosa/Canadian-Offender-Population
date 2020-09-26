@@ -1,0 +1,169 @@
+﻿Year,Province,Race,Sex,Province-Sex,Population,Arrested,Race % of Population,Race % Arrested,Race disparity Index
+2016,National,Black,Female,National-Female,"927,465",72,4.33%,6.13%,0.417639889
+2016,BC,Black,Female,BC-Female,"42,005",0,1.47%,0.00%,-1
+2016,AB,Black,Female,AB-Female,"83,955",1,3.46%,0.40%,-0.883769489
+2016,SK,Black,Female,SK-Female,"9,495",2,1.45%,2.47%,0.69835976
+2016,MB,Black,Female,MB-Female,"19,335",0,2.47%,0.00%,-1
+2016,ON,Black,Female,ON-Female,"459,775",57,5.53%,17.12%,2.094457581
+2016,QC,Black,Female,QC-Female,"293,445",6,6.06%,3.05%,-0.49740199
+2016,NB,Black,Female,NB-Female,"4,400",0,0.92%,0.00%,-1
+2016,NL,Black,Female,NL-Female,1670,0,0.52%,0.00%,-1
+2016,PE,Black,Female,PE-Female,675,0,0.75%,0.00%,-1
+2016,NS,Black,Female,NS-Female,"11,735",6,1.93%,5.50%,1.854246882
+2016,NW,Black,Female,NW-Female,440,0,1.72%,0.00%,-1
+2016,YU,Black,Female,YU-Female,280,0,1.20%,0.00%,-1
+2016,NU,Black,Female,NU-Female,255,0,1.26%,0.00%,-1
+2016,National,White,Female,National-Female,"15,878,440",641,74.06%,54.60%,-0.262807081
+2016,BC,White,Female,BC-Female,"1,910,910",83,66.95%,54.97%,-0.178988732
+2016,AB,White,Female,AB-Female,"1,756,745",98,72.30%,39.36%,-0.455642687
+2016,SK,White,Female,SK-Female,"498,695",24,76.36%,29.63%,-0.611965006
+2016,MB,White,Female,MB-Female,"544,045",6,69.64%,30.00%,-0.569190968
+2016,ON,White,Female,ON-Female,"5,807,910",178,69.87%,53.45%,-0.235011061
+2016,QC,White,Female,QC-Female,"3,986,430",146,82.32%,74.11%,-0.099746244
+2016,NB,White,Female,NB-Female,"437,385",18,91.76%,78.26%,-0.147116932
+2016,NL,White,Female,NL-Female,"284,000",7,88.32%,100.00%,0.13221831
+2016,PE,White,Female,PE-Female,"83,050",1,92.44%,100.00%,0.081757977
+2016,NS,White,Female,NS-Female,"534,615",79,87.86%,72.48%,-0.175084754
+2016,NW,White,Female,NW-Female,"12,800",0,50.09%,0.00%,-1
+2016,YU,White,Female,YU-Female,"17,030",1,72.70%,50.00%,-0.3122431
+2016,NU,White,Female,NU-Female,4835,0,23.98%,0.00%,-1
+2016,National,Aboriginal,Female,National-Female,"1,103,840",353,5.15%,30.07%,4.839821002
+2016,BC,Aboriginal,Female,BC-Female,"156,280",53,5.48%,35.10%,5.410379273
+2016,AB,Aboriginal,Female,AB-Female,"156,075",128,6.42%,51.41%,7.002825333
+2016,SK,Aboriginal,Female,SK-Female,"91,565",50,14.02%,61.73%,3.402862973
+2016,MB,Aboriginal,Female,MB-Female,"115,770",11,14.82%,55.00%,2.711632979
+2016,ON,Aboriginal,Female,ON-Female,"271,135",55,3.26%,16.52%,4.063282251
+2016,QC,Aboriginal,Female,QC-Female,"186,985",31,3.86%,15.74%,3.075220888
+2016,NB,Aboriginal,Female,NB-Female,"23,955",5,5.03%,21.74%,3.32568312
+2016,NL,Aboriginal,Female,NL-Female,"30,385",0,9.45%,0.00%,-1
+2016,PE,Aboriginal,Female,PE-Female,"2,640",0,2.94%,0.00%,-1
+2016,NS,Aboriginal,Female,NS-Female,"39,115",18,6.43%,16.51%,1.568931649
+2016,NW,Aboriginal,Female,NW-Female,"10,530",0,41.21%,0.00%,-1
+2016,YU,Aboriginal,Female,YU-Female,"4,325",1,18.46%,50.00%,1.708092486
+2016,NU,Aboriginal,Female,NU-Female,"15,075",1,74.76%,100.00%,0.337645108
+2016,National,Other Minority,Female,National-Female,"3,528,985",108,16.46%,9.20%,-0.441137588
+2016,BC,Other Minority,Female,BC-Female,"745,030",15,26.10%,9.93%,-0.619435077
+2016,AB,Other Minority,Female,AB-Female,"433,000",22,17.82%,8.84%,-0.504205737
+2016,SK,Other Minority,Female,SK-Female,"53,345",5,8.17%,6.17%,-0.24426254
+2016,MB,Other Minority,Female,MB-Female,"102,115",3,13.07%,15.00%,0.147625226
+2016,ON,Other Minority,Female,ON-Female,"1,773,060",43,21.33%,12.91%,-0.394659049
+2016,QC,Other Minority,Female,QC-Female,"375,560",14,7.76%,7.11%,-0.083684709
+2016,NB,Other Minority,Female,NB-Female,"10,920",0,2.29%,0.00%,-1
+2016,NL,Other Minority,Female,NL-Female,5495,0,1.71%,0.00%,-1
+2016,PE,Other Minority,Female,PE-Female,3475,0,3.87%,0.00%,-1
+2016,NS,Other Minority,Female,NS-Female,"23,020",6,3.78%,5.50%,0.455021162
+2016,NW,Other Minority,Female,NW-Female,1785,0,6.98%,0.00%,-1
+2016,YU,Other Minority,Female,YU-Female,1790,0,7.64%,0.00%,-1
+2016,NU,Other Minority,Female,NU,695,0,1.64%,0.00%,-1
+2016,National,Black,Male,National-Male,"889,615","1,896",4.30%,8.80%,1.045397305
+2016,BC,Black,Male,BC-Male,"42,985",121,1.57%,3.78%,1.409009957
+2016,AB,Black,Male,AB-Male,"88,670",144,3.64%,4.96%,0.360883832
+2016,SK,Black,Male,SK-Male,"10,485",24,1.64%,1.77%,0.082338444
+2016,MB,Black,Male,MB-Male,"20,335",40,2.67%,3.60%,0.347058728
+2016,ON,Black,Male,ON-Male,"416,920","1,043",5.28%,19.85%,2.760855812
+2016,QC,Black,Male,QC-Male,"290,845",335,6.16%,6.00%,-0.02595632
+2016,NB,Black,Male,NB-Male,"4,580",95,1.01%,7.62%,6.568297154
+2016,NL,Black,Male,NL-Male,1925,0,0.63%,0.00%,-1
+2016,PE,Black,Male,PE-Male,625,0,0.74%,0.00%,-1
+2016,NS,Black,Male,NS-Male,"11,140",94,1.96%,12.62%,5.424309279
+2016,NW,Black,Male,NW-Male,560,0,2.16%,0.00%,-1
+2016,YU,Black,Male,YU-Male,235,0,1.02%,0.00%,-1
+2016,NU,Black,Male,NU-Male,305,0,1.43%,0.00%,-1
+2016,National,White,Male,National-Male,"15,433,410","13,150",74.64%,61.04%,-0.182278715
+2016,BC,White,Male,BC-Male,"1,868,865","1,816",68.29%,56.79%,-0.168412277
+2016,AB,White,Male,AB-Male,"1,779,015","1,607",73.13%,55.36%,-0.243042428
+2016,SK,White,Male,SK-Male,"491,005",414,76.58%,30.53%,-0.601310586
+2016,MB,White,Male,MB-Male,"529,845",373,69.64%,33.57%,-0.517907131
+2016,ON,White,Male,ON-Male,"5,564,155","2,987",70.45%,56.85%,-0.192967347
+2016,QC,White,Male,QC-Male,"3,901,605","4,338",82.61%,77.67%,-0.059754039
+2016,NB,White,Male,NB-Male,"416,330",953,91.58%,76.48%,-0.164790852
+2016,NL,White,Male,NL-Male,"271,100",92,88.32%,85.98%,-0.026470213
+2016,PE,White,Male,PE-Male,"77,635",21,92.31%,100.00%,0.0833387
+2016,NS,White,Male,NS-Male,"497,725",546,87.75%,73.29%,-0.16480677
+2016,NW,White,Male,NW-Male,"13,530",0,52.24%,0.00%,-1
+2016,YU,White,Male,YU-Male,"17,300",3,75.27%,60.00%,-0.20283237
+2016,NU,White,Male,NU-Male,5305,0,24.95%,0.00%,-1
+2016,National,Aboriginal,Male,National-Male,"1,026,675","4,628",4.97%,21.48%,3.326152323
+2016,BC,Aboriginal,Male,BC-Male,"146,530",857,5.35%,26.80%,4.005234485
+2016,AB,Aboriginal,Male,AB-Male,"147,735",868,6.07%,29.90%,3.923473442
+2016,SK,Aboriginal,Male,SK-Male,"85,790",822,13.38%,60.62%,3.53059694
+2016,MB,Aboriginal,Male,MB-Male,"109,465",608,14.39%,54.73%,2.803636564
+2016,ON,Aboriginal,Male,ON-Male,"247,160",627,3.13%,11.93%,2.813681834
+2016,QC,Aboriginal,Male,QC-Male,"172,440",597,3.65%,10.69%,1.927733519
+2016,NB,Aboriginal,Male,NB-Male,"22,625",151,4.98%,12.12%,1.435165081
+2016,NL,Aboriginal,Male,NL-Male,"28,165",12,9.18%,11.21%,0.222256695
+2016,PE,Aboriginal,Male,PE-Male,"2,325",0,2.76%,0.00%,-1
+2016,NS,Aboriginal,Male,NS-Male,"34,920",71,6.16%,9.53%,0.547989076
+2016,NW,Aboriginal,Male,NW-Male,"10,185",10,39.32%,100.00%,1.542955326
+2016,YU,Aboriginal,Male,YU-Male,"4,000",2,17.40%,40.00%,1.2985
+2016,NU,Aboriginal,Male,NU-Male,"15,340",3,72.15%,100.00%,0.385919166
+2016,National,Other Minority,Male,National-Male,"3,326,360","1,870",16.09%,8.68%,-0.460472233
+2016,BC,Other Minority,Male,BC-Male,"678,455",404,24.79%,12.63%,-0.490398763
+2016,AB,Other Minority,Male,AB-Male,"417,245",284,17.15%,9.78%,-0.429622389
+2016,SK,Other Minority,Male,SK-Male,"53,900",96,8.41%,7.08%,-0.157824224
+2016,MB,Other Minority,Male,MB-Male,"101,180",90,13.30%,8.10%,-0.390857993
+2016,ON,Other Minority,Male,ON-Male,"1,670,275",597,21.15%,11.36%,-0.462669548
+2016,QC,Other Minority,Male,QC-Male,"358,115",315,7.58%,5.64%,-0.256153593
+2016,NB,Other Minority,Male,NB-Male,"11,095",47,2.44%,3.77%,0.545648011
+2016,NL,Other Minority,Male,NL-Male,5765,3,1.88%,2.80%,0.492838674
+2016,PE,Other Minority,Male,PE-Male,3520,0,4.19%,0.00%,-1
+2016,NS,Other Minority,Male,NS-Male,"23,420",34,4.13%,4.56%,0.105288889
+2016,NW,Other Minority,Male,NW-Male,1625,0,6.27%,0.00%,-1
+2016,YU,Other Minority,Male,YU-Male,1450,0,6.31%,0.00%,-1
+2016,NU,Other Minority,Male,NU-Male,310,0,1.46%,0.00%,-1
+2016,National,Black,Both,National,"1,817,085","1,968",4.31%,8.66%,1.007772723
+2016,BC,Black,Both,BC,"84,995",121,1.52%,3.61%,1.37668369
+2016,AB,Black,Both,AB,"172,630",145,3.55%,4.60%,0.295747038
+2016,SK,Black,Both,SK,"19,980",26,1.54%,1.81%,0.172063156
+2016,MB,Black,Both,MB,"39,665",40,2.57%,3.54%,0.374972512
+2016,ON,Black,Both,ON,"876,695","1,100",5.41%,19.69%,2.640484745
+2016,QC,Black,Both,QC,"584,290",341,6.11%,5.90%,-0.034499871
+2016,NB,Black,Both,NB,"8,980",95,0.96%,7.49%,6.763774591
+2016,NL,Black,Both,NL,3590,0,0.57%,0.00%,-1
+2016,PE,Black,Both,PE,1305,0,0.75%,0.00%,-1
+2016,NS,Black,Both,NS,"22,875",100,1.95%,11.71%,5.018428226
+2016,NW,Black,Both,NW,995,0,1.93%,0.00%,-1
+2016,YU,Black,Both,YU,515,0,1.11%,0.00%,-1
+2016,NU,Black,Both,NU,560,0,1.32%,0.00%,-1
+2016,National,White,Both,National,"31,311,855","13,791",74.35%,60.71%,-0.183508514
+2016,BC,White,Both,BC,"3,779,770","1,899",67.60%,56.70%,-0.16123754
+2016,AB,White,Both,AB,"3,535,760","1,705",72.72%,54.09%,-0.25610764
+2016,SK,White,Both,SK,"989,700",438,76.47%,30.48%,-0.60139413
+2016,MB,White,Both,MB,"1,073,880",379,69.64%,33.51%,-0.518800753
+2016,ON,White,Both,ON,"11,372,065","3,165",70.15%,56.65%,-0.192487152
+2016,QC,White,Both,QC,"7,888,035","4,484",82.46%,77.55%,-0.059577123
+2016,NB,White,Both,NB,"853,715",971,91.67%,76.52%,-0.165297014
+2016,NL,White,Both,NL,"555,100",99,88.32%,86.84%,-0.016748997
+2016,PE,White,Both,PE,"160,690",22,92.38%,100.00%,0.082519136
+2016,NS,White,Both,NS,"1,032,350",625,87.81%,73.19%,-0.166516046
+2016,NW,White,Both,NW,"26,335",0,51.17%,0.00%,-1
+2016,YU,White,Both,YU,"34,325",4,73.98%,57.14%,-0.227551764
+2016,NU,White,Both,NU,"10,130",0,23.84%,0.00%,-1
+2016,National,Aboriginal,Both,National,"2,130,520","4,981",5.06%,21.93%,3.334067045
+2016,BC,Aboriginal,Both,BC,"302,810",910,5.42%,27.17%,4.017074763
+2016,AB,Aboriginal,Both,AB,"303,815",996,6.25%,31.60%,4.057298866
+2016,SK,Aboriginal,Both,SK,"177,355",872,13.70%,60.68%,3.428393434
+2016,MB,Aboriginal,Both,MB,"225,230",619,14.61%,54.73%,2.747191563
+2016,ON,Aboriginal,Both,ON,"518,300",682,3.20%,12.21%,2.817844414
+2016,QC,Aboriginal,Both,QC,"359,430",628,3.76%,10.86%,1.890491732
+2016,NB,Aboriginal,Both,NB,"46,585",156,5.00%,12.29%,1.457560102
+2016,NL,Aboriginal,Both,NL,"58,550",12,9.32%,10.53%,0.129938424
+2016,PE,Aboriginal,Both,PE,"4,960",0,2.85%,0.00%,-1
+2016,NS,Aboriginal,Both,NS,"74,040",89,6.30%,10.42%,0.654884868
+2016,NW,Aboriginal,Both,NW,"20,720",10,40.26%,100.00%,1.483832046
+2016,YU,Aboriginal,Both,YU,"8,320",3,17.93%,42.86%,1.39010989
+2016,NU,Aboriginal,Both,NU,"30,420",4,71.58%,100.00%,0.397107166
+2016,National,Other Minority,Both,National,"6,855,345","1,978",16.28%,8.71%,-0.465113459
+2016,BC,Other Minority,Both,BC,"1,423,490",419,25.46%,12.51%,-0.508595651
+2016,AB,Other Minority,Both,AB,"850,240",306,17.49%,9.71%,-0.444801369
+2016,SK,Other Minority,Both,SK,"107,250",101,8.29%,7.03%,-0.151802042
+2016,MB,Other Minority,Both,MB,"203,295",93,13.18%,8.22%,-0.376268418
+2016,ON,Other Minority,Both,ON,"3,443,340",640,21.24%,11.46%,-0.460718991
+2016,QC,Other Minority,Both,QC,"733,675",329,7.67%,5.69%,-0.258145752
+2016,NB,Other Minority,Both,NB,"22,015",47,2.36%,3.70%,0.566768449
+2016,NL,Other Minority,Both,NL,11260,3,1.79%,2.63%,0.468869777
+2016,PE,Other Minority,Both,PE,6995,0,4.02%,0.00%,-1
+2016,NS,Other Minority,Both,NS,"46,450",40,3.95%,4.68%,0.185546141
+2016,NW,Other Minority,Both,NW,3415,0,6.64%,0.00%,-1
+2016,YU,Other Minority,Both,YU,3240,0,6.98%,0.00%,-1
+2016,NU,Other Minority,Both,NU,695,0,1.64%,0.00%,-1
