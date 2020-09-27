@@ -10,6 +10,7 @@ var provinces = [
   {
     PRUID: 59,
     Province: "BC",
+    Location: [54.0000, -125.0000],
     Pct_Aborigin_Pop: "6.6%",
     Pct_Aborigin_Arrested: "27.2%",
     Aborigin_Disparity_Index: 4.10,
@@ -19,6 +20,7 @@ var provinces = [
   {
     PRUID: 24,
     Province: "QC",
+    Location: [54.0000, -75.0000],
     Pct_Aborigin_Pop: "4.5%",
     Pct_Aborigin_Arrested: "10.9%",
     Aborigin_Disparity_Index: 2.42,
@@ -28,6 +30,7 @@ var provinces = [
   {
     PRUID: 62,
     Province: "NU",
+    Location: [62.0000, -98.0000],
     Pct_Aborigin_Pop: "85.5%",
     Pct_Aborigin_Arrested: "100%",
     Aborigin_Disparity_Index: 1.71,
@@ -37,6 +40,7 @@ var provinces = [
   {
     PRUID: 11,
     Province: "PE",
+    Location: [46.5000, -63.0000],
     Pct_Aborigin_Pop: "3.6%",
     Pct_Aborigin_Arrested: "0%",
     Aborigin_Disparity_Index: 0,
@@ -46,6 +50,7 @@ var provinces = [
   {
     PRUID: 47,
     Province: "SK",
+    Location: [54.0000, -107.0000],
     Pct_Aborigin_Pop: "6.6%",
     Pct_Aborigin_Arrested: "27.2%",
     Aborigin_Disparity_Index: 3.66,
@@ -55,6 +60,7 @@ var provinces = [
   {
     PRUID: 60,
     Province: "YU",
+    Location: [62.0000, -135.0000],
     Pct_Aborigin_Pop: "23.7%",
     Pct_Aborigin_Arrested: "42.9%",
     Aborigin_Disparity_Index: 1.81,
@@ -64,6 +70,7 @@ var provinces = [
   {
     PRUID: 46,
     Province: "MB",
+    Location: [54.0000, -99.0000],    
     Pct_Aborigin_Pop: "18.2%",
     Pct_Aborigin_Arrested: "54.7%",
     Aborigin_Disparity_Index: 3.01,
@@ -73,6 +80,7 @@ var provinces = [
   {
     PRUID: 35,
     Province: "ON",
+    Location: [54.0000, -90.0000],
     Pct_Aborigin_Pop: "3.9%",
     Pct_Aborigin_Arrested: "12.2%",
     Aborigin_Disparity_Index: 3.12,
@@ -82,6 +90,7 @@ var provinces = [
   {
     PRUID: 13,
     Province: "NB",
+    Location: [47.0000, -67.0000],
     Pct_Aborigin_Pop: "6.4%",
     Pct_Aborigin_Arrested: "12.3%",
     Aborigin_Disparity_Index: 1.93,
@@ -91,6 +100,8 @@ var provinces = [
   {
     PRUID: 61,
     Province: "NW",
+    Location: [62.0000, -115.0000],
+
     Pct_Aborigin_Pop: "50.4%",
     Pct_Aborigin_Arrested: "100%",
     Aborigin_Disparity_Index: 1.99,
@@ -100,6 +111,7 @@ var provinces = [
   {
     PRUID: 48,
     Province: "AB",
+    Location: [54.0000, -116.0000],
     Pct_Aborigin_Pop: "7.6%",
     Pct_Aborigin_Arrested: "31.6%",
     Aborigin_Disparity_Index: 4.14,
@@ -109,6 +121,7 @@ var provinces = [
   {
     PRUID: 10,
     Province: "NL",
+    Location: [54.0000, -62.0000],
     Pct_Aborigin_Pop: "11.4%",
     Pct_Aborigin_Arrested: "10.5%",
     Aborigin_Disparity_Index: 0.92,
@@ -118,6 +131,7 @@ var provinces = [
   {
     PRUID: 12,
     Province: "NS",
+    Location: [45.0000, -65.0000],
     Pct_Aborigin_Pop: "8.2%",
     Pct_Aborigin_Arrested: "10.4%",
     Aborigin_Disparity_Index: 1.28,
@@ -153,7 +167,7 @@ var lightMap = L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/{id}/tiles/{
 // Defining a baseMaps object that contains all of our different map choices. Only one
 // of these maps will be visible at a time!
 var baseMaps = {
-  "Street Map": streetMap,
+  //"Street Map": streetMap,
   "Light Map": lightMap
 };
 
@@ -190,6 +204,7 @@ d3.json(geoData, function(data) {
     for (var i=0; i < 13; i++) {
       if (provinces[i].PRUID == user.properties.PRUID) {
         // push each of the information to geoJson properties
+        user.properties["Location"] = provinces[i].Location;
         user.properties["Aborigin_Disparity_Index"] = provinces[i].Aborigin_Disparity_Index;
         user.properties["Pct_Aborigin_Pop"] = provinces[i].Pct_Aborigin_Pop;
         user.properties["Pct_Aborigin_Arrested"] = provinces[i].Pct_Aborigin_Pop;
@@ -197,7 +212,7 @@ d3.json(geoData, function(data) {
         user.properties["Incarcerated_Pop"] = provinces[i].Incarcerated_Pop;
       }}
   }); 
-
+  
   console.log("here 3",data.features);
 
   // Grab second data with d3  
@@ -226,7 +241,10 @@ d3.json(geoData, function(data) {
           "<br>Aborigin Population:" + feature.properties.Pct_Aborigin_Pop  +
           "<br>Aborigin Inmates:" + feature.properties.Pct_Aborigin_Arrested );
       }
+    // create aboriginRDI_layer  
     }).addTo(aboriginRDI_layer);
+    // Then we add the aboriginRDI_layer to our map for initial display.
+    aboriginRDI_layer.addTo(myMap);
 
     // Create choropleth layer for Black_Disparity_Index
     L.choropleth(data, {
@@ -234,7 +252,7 @@ d3.json(geoData, function(data) {
       valueProperty: "Black_Disparity_Index",
 
       scale: ["#ffffb2", "#b10026"],// Set color scale
-      steps: 5,// Number of breaks in step range
+      steps: 8,// Number of breaks in step range
       mode: "q",// q for quartile, e for equidistant, k for k-means
       style: {
         color: "#fff",// Border color
@@ -246,6 +264,7 @@ d3.json(geoData, function(data) {
         layer.bindPopup("Province/Territory: " + feature.properties.PRENAME + 
           "<br>Race Disparity Index:" + feature.properties.Black_Disparity_Index);
       }
+    // create blackRDI_layer   
     }).addTo(blackRDI_layer);
 
     // Create choropleth layer for Incarcerated_Population
@@ -266,18 +285,32 @@ d3.json(geoData, function(data) {
         layer.bindPopup("Province/Territory: " + feature.properties.PRENAME + 
           "<br>Incarcerated_Pop:" + feature.properties.Incarcerated_Pop);
       }
+    // Incarcerated_Pop_layer  
     }).addTo(Incarcerated_Pop_layer);
 
+    console.log(provinces[1]);
+
+    // Create TEXT LAYER
+    for (var i = 0; i < 13; i++) {
+      console.log("location", provinces[i].Location,provinces[i].Province)
+      L.marker(provinces[i].Location, {
+        icon: L.divIcon({
+            className: 'text-labels',   // Set class for CSS styling
+            html: provinces[i].Province
+        }),
+        zIndexOffset: 1000     // Make appear above other map features
+      }).addTo(myMap); 
+    }
 
     // Set up LEGEND ------------------------------------------------------------------------------------
     var legend = L.control({ position: "bottomleft" });
     legend.onAdd = function() {
       var div = L.DomUtil.create("div", "info legend");
-      var limits = geojson.options.limits;
-      var colors = geojson.options.colors;
+      var limits = [-2, 0, 2, 4, 6];
+      var colors = ["#ffffb2", "#ebbf8f", "#d87f6c", "#c43f49", "#b10026"];
       var labels = [];
 
-      // Add min & max
+      // Create legend info and Add min & max
       var legendInfo = "<h4>Race Disparity Index</h4>" +
         "<div class=\"labels\">" +
           "<div class=\"min\">" + limits[0] + "</div>" +
@@ -286,6 +319,7 @@ d3.json(geoData, function(data) {
 
       div.innerHTML = legendInfo;
 
+      // Create block sample colors
       limits.forEach(function(limit, index) {
         labels.push("<li style=\"background-color: " + colors[index] + "\"></li>");
       });

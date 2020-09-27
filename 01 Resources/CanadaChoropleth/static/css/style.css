@@ -71,6 +71,16 @@ html {
   float: right;
 }
 
+.text-labels {
+  font-size: 14pt;
+  font-weight: 700;
+  color: teal;
+}
+
 h1 {
   text-align: center;
+}
+
+h4 {
+  font: 16px Arial, Helvetica, sans-serif;
 }
