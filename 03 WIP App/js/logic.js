@@ -28,7 +28,6 @@ var sexList = ["Male", "Female", "Both"]
 var Races = ['Aboriginal', 'Black', 'Other Minority','White']
 
 
-
 // Create dropdown
 provinceNames.forEach( d=> {
   selDat1.append("option").text(d)
