@@ -2,7 +2,7 @@
 
 //1.  extract the data from csv
 //1.a load csv data
-var table1 = "../../01 Resources/Data/Table1_v1.csv" 
+var table1 = "../../01 Resources/Data/table1.csv" 
 
 
 // Important! The HTML is edited to have selDat1 and selDat2
