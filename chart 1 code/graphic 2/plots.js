@@ -1,5 +1,4 @@
 
-
 //1.  extract the data from csv
 //1.a load csv data
 var table1 = "../../01 Resources/Data/table1.csv" 
@@ -187,6 +186,5 @@ function updateProvince() {
 }
 
 })
-
 
 
