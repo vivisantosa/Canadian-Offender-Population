@@ -116,3 +116,18 @@ other_disparity_index NUMERIC,
 white_disparity_index NUMERIC
 );
 
+
+-- Table 4: Transformed and aggregated sentence length data (for line chart visualization)
+CREATE TABLE table4 (
+index INT PRIMARY KEY,
+year INT,
+province VARCHAR,
+race VARCHAR,
+in_custody_community VARCHAR,
+avg_length NUMERIC
+);
+
+
+
+
+
