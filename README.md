@@ -2,6 +2,8 @@
 
 'https://vivisantosa.github.io/Project2/index.html'
 
+<img src="Images/Screenshot (199).png" width="720">
+
 ###	Team members: 
 -	Eben Haezer 
 -	Momotaz Mahin Khan
