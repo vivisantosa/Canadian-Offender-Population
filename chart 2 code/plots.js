@@ -2,7 +2,7 @@
 
 //1.  extract the data from csv
 //1.a load csv data
-var table4 = "../../01 Resources/Data/table4.csv" 
+var table4 = "../01 Resources/Data/table4.csv" 
 // var table4 = "table4.csv" 
 
 
@@ -12,7 +12,7 @@ var selDat1 = d3.select("#selDataset1")
 var selDat2 = d3.select("#selDataset2")
 
 var provinceNames = ["National","BC","AB","SK","MB","ON","QC","NB","NL","PE","NS","NW","YU","NU"] 
-var statusList = ["In Custody", "Community"]
+var statusList = ["In Custody", "Community", "Both"]
 var Year = ['2013', '2014', '2015', '2016', '2017', '2018' ]
 
 
@@ -29,7 +29,7 @@ statusList.forEach( d=> {
 
 // Set the province, status and Race as global variable. This way, we just have to change province and sex
 var Province = "National"
-var Status= "In Custody"
+var Status= "Both"
 
 // Load data into
 d3.csv(table4).then(function(d) {
