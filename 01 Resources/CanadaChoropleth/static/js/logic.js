@@ -318,7 +318,7 @@ d3.json(geoData, function(data) {
       console.log("location", provinces[i].Location,provinces[i].Province)
       L.marker(provinces[i].Location, {
         icon: L.divIcon({
-            className: 'my-text-labels',   // Set class for CSS styling
+            className: 'text-labels',   // Set class for CSS styling
             html: provinces[i].Province
         }),
         zIndexOffset: 1000     // Make appear above other map features
