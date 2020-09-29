@@ -1,7 +1,8 @@
 
 //1.  extract the data from csv
 //1.a load csv data
-var table1 = "../../01 Resources/Data/table1.csv" 
+// var table1 = "../../01 Resources/Data/table1.csv"
+var table1 = "../../01 Resources/Data/table1.json" 
 
 
 // Important! The HTML is edited to have selDat1 and selDat2
@@ -31,7 +32,8 @@ var Province = "National"
 var Sex = "Both"
 
 // Load data into
-d3.csv(table1).then(function(d) {
+// d3.csv(table1).then(function(d) {
+d3.json(table1,function(d) {
   // console.log(d)
   
   // Initialize the function
