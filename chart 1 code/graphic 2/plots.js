@@ -179,7 +179,7 @@ function updateProvince() {
   
   // draw the plots
   var data = [trace1, trace2];
-  var layout = {barmode: 'group'};
+  var layout = {barmode: 'group', width: 640, height: 400};
   var CHART = d3.selectAll("#plot").node();
   Plotly.newPlot(CHART, data, layout);
   
