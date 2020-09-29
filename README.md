@@ -46,4 +46,8 @@ Project components will include extraction of the data from open Canadian CSC da
     <img src="Images/Illustrative_3(scatter).png" width="540"><br>  
 
 
-
+#### Credits 
+- Leaflet
+  https://leafletjs.com/
+- Canadian Cloropleth map 
+  https://exploratory.io/map?lang=en
