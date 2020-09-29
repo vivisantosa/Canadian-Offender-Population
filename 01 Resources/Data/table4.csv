@@ -7,12 +7,7 @@
 2012,ON,Black,In Custody,1571.650286
 2012,QC,Black,In Custody,1719.035433
 2012,NB,Black,In Custody,1461.976744
-2012,NL,Black,In Custody,NA
-2012,PE,Black,In Custody,NA
 2012,NS,Black,In Custody,1622.648649
-2012,NW,Black,In Custody,NA
-2012,YU,Black,In Custody,NA
-2012,NU,Black,In Custody,NA
 2012,National,White,In Custody,1492.967977
 2012,BC,White,In Custody,1437.764756
 2012,AB,White,In Custody,1499.768477
@@ -21,12 +16,9 @@
 2012,ON,White,In Custody,1349.486813
 2012,QC,White,In Custody,1723.672484
 2012,NB,White,In Custody,1357.654939
-2012,NL,White,In Custody,NA
-2012,PE,White,In Custody,NA
+2012,NL,White,In Custody,1105.645161
+2012,PE,White,In Custody,2192
 2012,NS,White,In Custody,1337.142157
-2012,NW,White,In Custody,NA
-2012,YU,White,In Custody,NA
-2012,NU,White,In Custody,NA
 2012,National,Aboriginal,In Custody,1415.290802
 2012,BC,Aboriginal,In Custody,1331.83959
 2012,AB,Aboriginal,In Custody,1456.980867
@@ -35,12 +27,9 @@
 2012,ON,Aboriginal,In Custody,1332.101695
 2012,QC,Aboriginal,In Custody,1431.323155
 2012,NB,Aboriginal,In Custody,1517.929204
-2012,NL,Aboriginal,In Custody,NA
-2012,PE,Aboriginal,In Custody,NA
+2012,NL,Aboriginal,In Custody,1389
 2012,NS,Aboriginal,In Custody,1298.345455
-2012,NW,Aboriginal,In Custody,NA
-2012,YU,Aboriginal,In Custody,NA
-2012,NU,Aboriginal,In Custody,NA
+2012,NW,Aboriginal,In Custody,1057.6
 2012,National,Other Minority,In Custody,1522.167678
 2012,BC,Other Minority,In Custody,1489.774775
 2012,AB,Other Minority,In Custody,1438.404494
@@ -49,12 +38,7 @@
 2012,ON,Other Minority,In Custody,1612.312369
 2012,QC,Other Minority,In Custody,1485.140625
 2012,NB,Other Minority,In Custody,1460.03125
-2012,NL,Other Minority,In Custody,NA
-2012,PE,Other Minority,In Custody,NA
 2012,NS,Other Minority,In Custody,1364.5
-2012,NW,Other Minority,In Custody,NA
-2012,YU,Other Minority,In Custody,NA
-2012,NU,Other Minority,In Custody,NA
 2013,National,Black,In Custody,1574.324306
 2013,BC,Black,In Custody,1490
 2013,AB,Black,In Custody,1512.666667
@@ -63,12 +47,7 @@
 2013,ON,Black,In Custody,1563.646714
 2013,QC,Black,In Custody,1715.543933
 2013,NB,Black,In Custody,1460.95
-2013,NL,Black,In Custody,NA
-2013,PE,Black,In Custody,NA
 2013,NS,Black,In Custody,1583.957143
-2013,NW,Black,In Custody,NA
-2013,YU,Black,In Custody,NA
-2013,NU,Black,In Custody,NA
 2013,National,White,In Custody,1487.145899
 2013,BC,White,In Custody,1428.125569
 2013,AB,White,In Custody,1507.926987
@@ -80,9 +59,6 @@
 2013,NL,White,In Custody,1105.645161
 2013,PE,White,In Custody,2192
 2013,NS,White,In Custody,1345.598985
-2013,NW,White,In Custody,NA
-2013,YU,White,In Custody,NA
-2013,NU,White,In Custody,NA
 2013,National,Aboriginal,In Custody,1419.616114
 2013,BC,Aboriginal,In Custody,1321.291209
 2013,AB,Aboriginal,In Custody,1474.863329
@@ -92,11 +68,8 @@
 2013,QC,Aboriginal,In Custody,1384.832
 2013,NB,Aboriginal,In Custody,1511.366972
 2013,NL,Aboriginal,In Custody,1389
-2013,PE,Aboriginal,In Custody,NA
 2013,NS,Aboriginal,In Custody,1291.678571
 2013,NW,Aboriginal,In Custody,1057.6
-2013,YU,Aboriginal,In Custody,NA
-2013,NU,Aboriginal,In Custody,NA
 2013,National,Other Minority,In Custody,1526.016858
 2013,BC,Other Minority,In Custody,1497.417431
 2013,AB,Other Minority,In Custody,1446.657143
@@ -105,12 +78,7 @@
 2013,ON,Other Minority,In Custody,1598.762994
 2013,QC,Other Minority,In Custody,1480.968586
 2013,NB,Other Minority,In Custody,1507.129032
-2013,NL,Other Minority,In Custody,NA
-2013,PE,Other Minority,In Custody,NA
 2013,NS,Other Minority,In Custody,1364.5
-2013,NW,Other Minority,In Custody,NA
-2013,YU,Other Minority,In Custody,NA
-2013,NU,Other Minority,In Custody,NA
 2014,National,Black,In Custody,1605.778846
 2014,BC,Black,In Custody,1450.8
 2014,AB,Black,In Custody,1602.260417
@@ -119,12 +87,7 @@
 2014,ON,Black,In Custody,1607.071602
 2014,QC,Black,In Custody,1680.094017
 2014,NB,Black,In Custody,1528.383838
-2014,NL,Black,In Custody,NA
-2014,PE,Black,In Custody,NA
 2014,NS,Black,In Custody,1735.134328
-2014,NW,Black,In Custody,NA
-2014,YU,Black,In Custody,NA
-2014,NU,Black,In Custody,NA
 2014,National,White,In Custody,1491.813662
 2014,BC,White,In Custody,1448.436968
 2014,AB,White,In Custody,1450.065966
@@ -133,12 +96,7 @@
 2014,ON,White,In Custody,1351.304008
 2014,QC,White,In Custody,1683.909926
 2014,NB,White,In Custody,1419.639889
-2014,NL,White,In Custody,NA
-2014,PE,White,In Custody,NA
 2014,NS,White,In Custody,1398.032037
-2014,NW,White,In Custody,NA
-2014,YU,White,In Custody,NA
-2014,NU,White,In Custody,NA
 2014,National,Aboriginal,In Custody,1428.478826
 2014,BC,Aboriginal,In Custody,1264.446875
 2014,AB,Aboriginal,In Custody,1549.706422
@@ -147,12 +105,8 @@
 2014,ON,Aboriginal,In Custody,1329.82563
 2014,QC,Aboriginal,In Custody,1444.83908
 2014,NB,Aboriginal,In Custody,1394.587786
-2014,NL,Aboriginal,In Custody,NA
-2014,PE,Aboriginal,In Custody,NA
 2014,NS,Aboriginal,In Custody,1337.5625
 2014,NW,Aboriginal,In Custody,853
-2014,YU,Aboriginal,In Custody,NA
-2014,NU,Aboriginal,In Custody,NA
 2014,National,Other Minority,In Custody,1492.639232
 2014,BC,Other Minority,In Custody,1454.822394
 2014,AB,Other Minority,In Custody,1412.322222
@@ -161,12 +115,7 @@
 2014,ON,Other Minority,In Custody,1680.002257
 2014,QC,Other Minority,In Custody,1429.151111
 2014,NB,Other Minority,In Custody,1355.027027
-2014,NL,Other Minority,In Custody,NA
-2014,PE,Other Minority,In Custody,NA
 2014,NS,Other Minority,In Custody,1459.366667
-2014,NW,Other Minority,In Custody,NA
-2014,YU,Other Minority,In Custody,NA
-2014,NU,Other Minority,In Custody,NA
 2015,National,Black,In Custody,1607.884615
 2015,BC,Black,In Custody,1450.8
 2015,AB,Black,In Custody,1602.260417
@@ -175,12 +124,7 @@
 2015,ON,Black,In Custody,1609.17497
 2015,QC,Black,In Custody,1685.46383
 2015,NB,Black,In Custody,1528.383838
-2015,NL,Black,In Custody,NA
-2015,PE,Black,In Custody,NA
 2015,NS,Black,In Custody,1735.134328
-2015,NW,Black,In Custody,NA
-2015,YU,Black,In Custody,NA
-2015,NU,Black,In Custody,NA
 2015,National,White,In Custody,1495.705199
 2015,BC,White,In Custody,1451.569219
 2015,AB,White,In Custody,1454.432536
@@ -189,12 +133,7 @@
 2015,ON,White,In Custody,1355.938175
 2015,QC,White,In Custody,1687.05814
 2015,NB,White,In Custody,1421.348128
-2015,NL,White,In Custody,NA
-2015,PE,White,In Custody,NA
 2015,NS,White,In Custody,1400.332569
-2015,NW,White,In Custody,NA
-2015,YU,White,In Custody,NA
-2015,NU,White,In Custody,NA
 2015,National,Aboriginal,In Custody,1430.576803
 2015,BC,Aboriginal,In Custody,1260.435737
 2015,AB,Aboriginal,In Custody,1549.614583
@@ -203,12 +142,7 @@
 2015,ON,Aboriginal,In Custody,1334.970402
 2015,QC,Aboriginal,In Custody,1450.146789
 2015,NB,Aboriginal,In Custody,1394.587786
-2015,NL,Aboriginal,In Custody,NA
-2015,PE,Aboriginal,In Custody,NA
 2015,NS,Aboriginal,In Custody,1337.5625
-2015,NW,Aboriginal,In Custody,NA
-2015,YU,Aboriginal,In Custody,NA
-2015,NU,Aboriginal,In Custody,NA
 2015,National,Other Minority,In Custody,1499.908591
 2015,BC,Other Minority,In Custody,1460.46124
 2015,AB,Other Minority,In Custody,1412.322222
@@ -217,12 +151,7 @@
 2015,ON,Other Minority,In Custody,1680.002257
 2015,QC,Other Minority,In Custody,1444.030702
 2015,NB,Other Minority,In Custody,1355.027027
-2015,NL,Other Minority,In Custody,NA
-2015,PE,Other Minority,In Custody,NA
 2015,NS,Other Minority,In Custody,1459.366667
-2015,NW,Other Minority,In Custody,NA
-2015,YU,Other Minority,In Custody,NA
-2015,NU,Other Minority,In Custody,NA
 2016,National,Black,In Custody,1604.512195
 2016,BC,Black,In Custody,1501.151515
 2016,AB,Black,In Custody,1611.88
@@ -231,12 +160,7 @@
 2016,ON,Black,In Custody,1606.926829
 2016,QC,Black,In Custody,1618.647727
 2016,NB,Black,In Custody,1488.065934
-2016,NL,Black,In Custody,NA
-2016,PE,Black,In Custody,NA
 2016,NS,Black,In Custody,1784.769231
-2016,NW,Black,In Custody,NA
-2016,YU,Black,In Custody,NA
-2016,NU,Black,In Custody,NA
 2016,National,White,In Custody,1478.349314
 2016,BC,White,In Custody,1428.297366
 2016,AB,White,In Custody,1462.882353
@@ -245,12 +169,7 @@
 2016,ON,White,In Custody,1298.720041
 2016,QC,White,In Custody,1662.033015
 2016,NB,White,In Custody,1436.391243
-2016,NL,White,In Custody,NA
-2016,PE,White,In Custody,NA
 2016,NS,White,In Custody,1440
-2016,NW,White,In Custody,NA
-2016,YU,White,In Custody,NA
-2016,NU,White,In Custody,NA
 2016,National,Aboriginal,In Custody,1409.878456
 2016,BC,Aboriginal,In Custody,1288.998435
 2016,AB,Aboriginal,In Custody,1489.515112
@@ -259,12 +178,7 @@
 2016,ON,Aboriginal,In Custody,1323.702532
 2016,QC,Aboriginal,In Custody,1440.552174
 2016,NB,Aboriginal,In Custody,1372.232558
-2016,NL,Aboriginal,In Custody,NA
-2016,PE,Aboriginal,In Custody,NA
 2016,NS,Aboriginal,In Custody,1252.625
-2016,NW,Aboriginal,In Custody,NA
-2016,YU,Aboriginal,In Custody,NA
-2016,NU,Aboriginal,In Custody,NA
 2016,National,Other Minority,In Custody,1490.824618
 2016,BC,Other Minority,In Custody,1417.947598
 2016,AB,Other Minority,In Custody,1489.176829
@@ -273,12 +187,7 @@
 2016,ON,Other Minority,In Custody,1615.745146
 2016,QC,Other Minority,In Custody,1431.655319
 2016,NB,Other Minority,In Custody,1227.395349
-2016,NL,Other Minority,In Custody,NA
-2016,PE,Other Minority,In Custody,NA
 2016,NS,Other Minority,In Custody,1220.9
-2016,NW,Other Minority,In Custody,NA
-2016,YU,Other Minority,In Custody,NA
-2016,NU,Other Minority,In Custody,NA
 2017,National,Black,In Custody,1561.155864
 2017,BC,Black,In Custody,1544.857143
 2017,AB,Black,In Custody,1482.678261
@@ -287,12 +196,7 @@
 2017,ON,Black,In Custody,1547.5478
 2017,QC,Black,In Custody,1561.21875
 2017,NB,Black,In Custody,1615.571429
-2017,NL,Black,In Custody,NA
-2017,PE,Black,In Custody,NA
 2017,NS,Black,In Custody,1889.456522
-2017,NW,Black,In Custody,NA
-2017,YU,Black,In Custody,NA
-2017,NU,Black,In Custody,NA
 2017,National,White,In Custody,1456.194089
 2017,BC,White,In Custody,1329.499546
 2017,AB,White,In Custody,1424.369176
@@ -301,12 +205,7 @@
 2017,ON,White,In Custody,1249.376162
 2017,QC,White,In Custody,1685.906977
 2017,NB,White,In Custody,1465.292259
-2017,NL,White,In Custody,NA
-2017,PE,White,In Custody,NA
 2017,NS,White,In Custody,1359.142857
-2017,NW,White,In Custody,NA
-2017,YU,White,In Custody,NA
-2017,NU,White,In Custody,NA
 2017,National,Aboriginal,In Custody,1379.404238
 2017,BC,Aboriginal,In Custody,1244.354167
 2017,AB,Aboriginal,In Custody,1465.485401
@@ -315,12 +214,7 @@
 2017,ON,Aboriginal,In Custody,1299.251534
 2017,QC,Aboriginal,In Custody,1405.957589
 2017,NB,Aboriginal,In Custody,1195.669421
-2017,NL,Aboriginal,In Custody,NA
-2017,PE,Aboriginal,In Custody,NA
 2017,NS,Aboriginal,In Custody,1353.375
-2017,NW,Aboriginal,In Custody,NA
-2017,YU,Aboriginal,In Custody,NA
-2017,NU,Aboriginal,In Custody,NA
 2017,National,Other Minority,In Custody,1459.360027
 2017,BC,Other Minority,In Custody,1331.196172
 2017,AB,Other Minority,In Custody,1422.56044
@@ -329,12 +223,7 @@
 2017,ON,Other Minority,In Custody,1564.288401
 2017,QC,Other Minority,In Custody,1445.538462
 2017,NB,Other Minority,In Custody,1216.055556
-2017,NL,Other Minority,In Custody,NA
-2017,PE,Other Minority,In Custody,NA
 2017,NS,Other Minority,In Custody,1087.705882
-2017,NW,Other Minority,In Custody,NA
-2017,YU,Other Minority,In Custody,NA
-2017,NU,Other Minority,In Custody,NA
 2018,National,Black,In Custody,1526.833893
 2018,BC,Black,In Custody,1431.285714
 2018,AB,Black,In Custody,1630.888889
@@ -343,12 +232,7 @@
 2018,ON,Black,In Custody,1527.585124
 2018,QC,Black,In Custody,1441.158333
 2018,NB,Black,In Custody,1482.639344
-2018,NL,Black,In Custody,NA
-2018,PE,Black,In Custody,NA
 2018,NS,Black,In Custody,2019
-2018,NW,Black,In Custody,NA
-2018,YU,Black,In Custody,NA
-2018,NU,Black,In Custody,NA
 2018,National,White,In Custody,1422.273335
 2018,BC,White,In Custody,1352.804152
 2018,AB,White,In Custody,1398.374665
@@ -357,12 +241,7 @@
 2018,ON,White,In Custody,1240.073005
 2018,QC,White,In Custody,1656.489649
 2018,NB,White,In Custody,1371.5
-2018,NL,White,In Custody,NA
-2018,PE,White,In Custody,NA
 2018,NS,White,In Custody,1373.133333
-2018,NW,White,In Custody,NA
-2018,YU,White,In Custody,NA
-2018,NU,White,In Custody,NA
 2018,National,Aboriginal,In Custody,1375.842216
 2018,BC,Aboriginal,In Custody,1319.244444
 2018,AB,Aboriginal,In Custody,1452.369895
@@ -371,12 +250,7 @@
 2018,ON,Aboriginal,In Custody,1293.705545
 2018,QC,Aboriginal,In Custody,1283.268354
 2018,NB,Aboriginal,In Custody,1291.165414
-2018,NL,Aboriginal,In Custody,NA
-2018,PE,Aboriginal,In Custody,NA
 2018,NS,Aboriginal,In Custody,1451.66
-2018,NW,Aboriginal,In Custody,NA
-2018,YU,Aboriginal,In Custody,NA
-2018,NU,Aboriginal,In Custody,NA
 2018,National,Other Minority,In Custody,1446.677398
 2018,BC,Other Minority,In Custody,1393.75
 2018,AB,Other Minority,In Custody,1259.118182
@@ -385,12 +259,7 @@
 2018,ON,Other Minority,In Custody,1570.941176
 2018,QC,Other Minority,In Custody,1391.927536
 2018,NB,Other Minority,In Custody,1357.652174
-2018,NL,Other Minority,In Custody,NA
-2018,PE,Other Minority,In Custody,NA
 2018,NS,Other Minority,In Custody,1270.352941
-2018,NW,Other Minority,In Custody,NA
-2018,YU,Other Minority,In Custody,NA
-2018,NU,Other Minority,In Custody,NA
 2012,National,Black,Community,1532.93501
 2012,BC,Black,Community,2567.5625
 2012,AB,Black,Community,1450.561404
@@ -399,12 +268,7 @@
 2012,ON,Black,Community,1568.014981
 2012,QC,Black,Community,1474.102564
 2012,NB,Black,Community,614.8
-2012,NL,Black,Community,NA
-2012,PE,Black,Community,NA
 2012,NS,Black,Community,1361.928571
-2012,NW,Black,Community,NA
-2012,YU,Black,Community,NA
-2012,NU,Black,Community,NA
 2012,National,White,Community,1316.746606
 2012,BC,White,Community,1233.993216
 2012,AB,White,Community,1229.23124
@@ -416,9 +280,6 @@
 2012,NL,White,Community,1164.576577
 2012,PE,White,Community,728
 2012,NS,White,Community,1168.2249
-2012,NW,White,Community,NA
-2012,YU,White,Community,NA
-2012,NU,White,Community,NA
 2012,National,Aboriginal,Community,1184.224374
 2012,BC,Aboriginal,Community,1208.362903
 2012,AB,Aboriginal,Community,1210.673729
@@ -428,10 +289,8 @@
 2012,QC,Aboriginal,Community,1224.097561
 2012,NB,Aboriginal,Community,1559.588235
 2012,NL,Aboriginal,Community,1390.333333
-2012,PE,Aboriginal,Community,NA
 2012,NS,Aboriginal,Community,787.0967742
 2012,NW,Aboriginal,Community,892.3333333
-2012,YU,Aboriginal,Community,NA
 2012,NU,Aboriginal,Community,850.2
 2012,National,Other Minority,Community,1608.618605
 2012,BC,Other Minority,Community,1916.70625
@@ -441,12 +300,8 @@
 2012,ON,Other Minority,Community,1600.72449
 2012,QC,Other Minority,Community,1607.831325
 2012,NB,Other Minority,Community,2046
-2012,NL,Other Minority,Community,NA
-2012,PE,Other Minority,Community,NA
+2012,NL,Other Minority,Community,902.5
 2012,NS,Other Minority,Community,1202.923077
-2012,NW,Other Minority,Community,NA
-2012,YU,Other Minority,Community,NA
-2012,NU,Other Minority,Community,NA
 2013,National,Black,Community,1524.574242
 2013,BC,Black,Community,2291.961538
 2013,AB,Black,Community,1483.071429
@@ -455,12 +310,7 @@
 2013,ON,Black,Community,1485.638889
 2013,QC,Black,Community,1562.731481
 2013,NB,Black,Community,1148.833333
-2013,NL,Black,Community,NA
-2013,PE,Black,Community,NA
 2013,NS,Black,Community,1443.478261
-2013,NW,Black,Community,NA
-2013,YU,Black,Community,NA
-2013,NU,Black,Community,NA
 2013,National,White,Community,1359.996434
 2013,BC,White,Community,1295.256443
 2013,AB,White,Community,1237.817778
@@ -472,9 +322,7 @@
 2013,NL,White,Community,1265.195876
 2013,PE,White,Community,775.8333333
 2013,NS,White,Community,1191.181102
-2013,NW,White,Community,NA
-2013,YU,White,Community,NA
-2013,NU,White,Community,NA
+2013,YU,White,Community,664.75
 2013,National,Aboriginal,Community,1213.341211
 2013,BC,Aboriginal,Community,1255.985348
 2013,AB,Aboriginal,Community,1210.759542
@@ -484,10 +332,9 @@
 2013,QC,Aboriginal,Community,1335.042553
 2013,NB,Aboriginal,Community,1648.833333
 2013,NL,Aboriginal,Community,1390.333333
-2013,PE,Aboriginal,Community,NA
 2013,NS,Aboriginal,Community,765.5172414
 2013,NW,Aboriginal,Community,892.3333333
-2013,YU,Aboriginal,Community,NA
+2013,YU,Aboriginal,Community,1053
 2013,NU,Aboriginal,Community,850.2
 2013,National,Other Minority,Community,1672.799738
 2013,BC,Other Minority,Community,2009.617978
@@ -497,12 +344,8 @@
 2013,ON,Other Minority,Community,1635.285714
 2013,QC,Other Minority,Community,1767.009174
 2013,NB,Other Minority,Community,2009.333333
-2013,NL,Other Minority,Community,NA
-2013,PE,Other Minority,Community,NA
+2013,NL,Other Minority,Community,902.5
 2013,NS,Other Minority,Community,1264.833333
-2013,NW,Other Minority,Community,NA
-2013,YU,Other Minority,Community,NA
-2013,NU,Other Minority,Community,NA
 2014,National,Black,Community,1625.424951
 2014,BC,Black,Community,2668.4
 2014,AB,Black,Community,1506.040816
@@ -511,12 +354,7 @@
 2014,ON,Black,Community,1660.119454
 2014,QC,Black,Community,1620
 2014,NB,Black,Community,790.8571429
-2014,NL,Black,Community,NA
-2014,PE,Black,Community,NA
 2014,NS,Black,Community,1297.95122
-2014,NW,Black,Community,NA
-2014,YU,Black,Community,NA
-2014,NU,Black,Community,NA
 2014,National,White,Community,1321.042448
 2014,BC,White,Community,1207.967448
 2014,AB,White,Community,1338.223127
@@ -528,9 +366,8 @@
 2014,NL,White,Community,1294.785714
 2014,PE,White,Community,716.5
 2014,NS,White,Community,1070.669355
-2014,NW,White,Community,NA
-2014,YU,White,Community,NA
-2014,NU,White,Community,NA
+2014,NW,White,Community,2557
+2014,YU,White,Community,664.75
 2014,National,Aboriginal,Community,1252.165402
 2014,BC,Aboriginal,Community,1411.268657
 2014,AB,Aboriginal,Community,1163.036496
@@ -540,10 +377,9 @@
 2014,QC,Aboriginal,Community,1447.524823
 2014,NB,Aboriginal,Community,1737.111111
 2014,NL,Aboriginal,Community,1234.5
-2014,PE,Aboriginal,Community,NA
 2014,NS,Aboriginal,Community,840.6857143
 2014,NW,Aboriginal,Community,1040.6
-2014,YU,Aboriginal,Community,NA
+2014,YU,Aboriginal,Community,1053
 2014,NU,Aboriginal,Community,1002.125
 2014,National,Other Minority,Community,1580.354659
 2014,BC,Other Minority,Community,1852.473684
@@ -554,11 +390,8 @@
 2014,QC,Other Minority,Community,1589.957143
 2014,NB,Other Minority,Community,1476.125
 2014,NL,Other Minority,Community,902.5
-2014,PE,Other Minority,Community,NA
+2014,PE,Other Minority,Community,731
 2014,NS,Other Minority,Community,1259.1
-2014,NW,Other Minority,Community,NA
-2014,YU,Other Minority,Community,NA
-2014,NU,Other Minority,Community,NA
 2015,National,Black,Community,1643.758416
 2015,BC,Black,Community,2789.631579
 2015,AB,Black,Community,1518.083333
@@ -567,12 +400,10 @@
 2015,ON,Black,Community,1676.352941
 2015,QC,Black,Community,1650.752809
 2015,NB,Black,Community,790.8571429
-2015,NL,Black,Community,NA
-2015,PE,Black,Community,NA
+2015,NL,Black,Community,1067
+2015,PE,Black,Community,1096
 2015,NS,Black,Community,1297.95122
-2015,NW,Black,Community,NA
-2015,YU,Black,Community,NA
-2015,NU,Black,Community,NA
+2015,YU,Black,Community,915
 2015,National,White,Community,1350.042395
 2015,BC,White,Community,1259.983193
 2015,AB,White,Community,1350.897521
@@ -584,9 +415,8 @@
 2015,NL,White,Community,1388.878788
 2015,PE,White,Community,731.3333333
 2015,NS,White,Community,1082.541322
-2015,NW,White,Community,NA
-2015,YU,White,Community,NA
-2015,NU,White,Community,NA
+2015,NW,White,Community,2557
+2015,YU,White,Community,664.75
 2015,National,Aboriginal,Community,1264.284942
 2015,BC,Aboriginal,Community,1430.816794
 2015,AB,Aboriginal,Community,1162.726937
@@ -596,10 +426,9 @@
 2015,QC,Aboriginal,Community,1470.391304
 2015,NB,Aboriginal,Community,1737.111111
 2015,NL,Aboriginal,Community,1308.571429
-2015,PE,Aboriginal,Community,NA
 2015,NS,Aboriginal,Community,840.6857143
 2015,NW,Aboriginal,Community,1040.6
-2015,YU,Aboriginal,Community,NA
+2015,YU,Aboriginal,Community,1053
 2015,NU,Aboriginal,Community,1002.125
 2015,National,Other Minority,Community,1633.915081
 2015,BC,Other Minority,Community,1948.248588
@@ -610,11 +439,9 @@
 2015,QC,Other Minority,Community,1589.957143
 2015,NB,Other Minority,Community,1775.666667
 2015,NL,Other Minority,Community,1256
-2015,PE,Other Minority,Community,NA
+2015,PE,Other Minority,Community,731
 2015,NS,Other Minority,Community,1259.1
-2015,NW,Other Minority,Community,NA
-2015,YU,Other Minority,Community,NA
-2015,NU,Other Minority,Community,NA
+2015,NW,Other Minority,Community,1270
 2016,National,Black,Community,1604.919325
 2016,BC,Black,Community,1681.5
 2016,AB,Black,Community,1461.244444
@@ -623,12 +450,10 @@
 2016,ON,Black,Community,1678.598131
 2016,QC,Black,Community,1644.974026
 2016,NB,Black,Community,1262.75
-2016,NL,Black,Community,NA
-2016,PE,Black,Community,NA
+2016,NL,Black,Community,1067
+2016,PE,Black,Community,1096
 2016,NS,Black,Community,1261.479167
-2016,NW,Black,Community,NA
-2016,YU,Black,Community,NA
-2016,NU,Black,Community,NA
+2016,YU,Black,Community,915
 2016,National,White,Community,1320.996958
 2016,BC,White,Community,1227.574792
 2016,AB,White,Community,1361.72043
@@ -640,9 +465,8 @@
 2016,NL,White,Community,1207.636364
 2016,PE,White,Community,1024.318182
 2016,NS,White,Community,1038.634241
-2016,NW,White,Community,NA
+2016,NW,White,Community,2557
 2016,YU,White,Community,664.75
-2016,NU,White,Community,NA
 2016,National,Aboriginal,Community,1309.963102
 2016,BC,Aboriginal,Community,1381.453875
 2016,AB,Aboriginal,Community,1270.625532
@@ -652,7 +476,6 @@
 2016,QC,Aboriginal,Community,1518.416667
 2016,NB,Aboriginal,Community,1311.259259
 2016,NL,Aboriginal,Community,1141.5
-2016,PE,Aboriginal,Community,NA
 2016,NS,Aboriginal,Community,1081.606061
 2016,NW,Aboriginal,Community,1121
 2016,YU,Aboriginal,Community,1053
@@ -666,11 +489,9 @@
 2016,QC,Other Minority,Community,1584.893617
 2016,NB,Other Minority,Community,1412
 2016,NL,Other Minority,Community,735
-2016,PE,Other Minority,Community,NA
+2016,PE,Other Minority,Community,731
 2016,NS,Other Minority,Community,880.1
-2016,NW,Other Minority,Community,NA
-2016,YU,Other Minority,Community,NA
-2016,NU,Other Minority,Community,NA
+2016,NW,Other Minority,Community,1270
 2017,National,Black,Community,1693.324468
 2017,BC,Black,Community,1640
 2017,AB,Black,Community,1494.105263
@@ -679,12 +500,10 @@
 2017,ON,Black,Community,1753.588921
 2017,QC,Black,Community,1750.126437
 2017,NB,Black,Community,998.6
-2017,NL,Black,Community,NA
-2017,PE,Black,Community,NA
+2017,NL,Black,Community,1067
+2017,PE,Black,Community,1096
 2017,NS,Black,Community,1451.240741
-2017,NW,Black,Community,NA
-2017,YU,Black,Community,NA
-2017,NU,Black,Community,NA
+2017,YU,Black,Community,915
 2017,National,White,Community,1322.34905
 2017,BC,White,Community,1375.710756
 2017,AB,White,Community,1336.172156
@@ -698,7 +517,6 @@
 2017,NS,White,Community,1052.386525
 2017,NW,White,Community,2557
 2017,YU,White,Community,243.6666667
-2017,NU,White,Community,NA
 2017,National,Aboriginal,Community,1338.822569
 2017,BC,Aboriginal,Community,1502.710145
 2017,AB,Aboriginal,Community,1238.581301
@@ -708,7 +526,6 @@
 2017,QC,Aboriginal,Community,1448.52
 2017,NB,Aboriginal,Community,1418.212121
 2017,NL,Aboriginal,Community,1356.25
-2017,PE,Aboriginal,Community,NA
 2017,NS,Aboriginal,Community,1119.525
 2017,NW,Aboriginal,Community,1318
 2017,YU,Aboriginal,Community,821.6666667
@@ -724,9 +541,7 @@
 2017,NL,Other Minority,Community,1226
 2017,PE,Other Minority,Community,731
 2017,NS,Other Minority,Community,1233.952381
-2017,NW,Other Minority,Community,NA
-2017,YU,Other Minority,Community,NA
-2017,NU,Other Minority,Community,NA
+2017,NW,Other Minority,Community,1270
 2018,National,Black,Community,1764.540496
 2018,BC,Black,Community,1740.473684
 2018,AB,Black,Community,1565.962963
@@ -738,9 +553,7 @@
 2018,NL,Black,Community,1067
 2018,PE,Black,Community,1096
 2018,NS,Black,Community,1392.613636
-2018,NW,Black,Community,NA
 2018,YU,Black,Community,915
-2018,NU,Black,Community,NA
 2018,National,White,Community,1345.875288
 2018,BC,White,Community,1365.110169
 2018,AB,White,Community,1296.384286
@@ -754,7 +567,6 @@
 2018,NS,White,Community,1095.017361
 2018,NW,White,Community,2557
 2018,YU,White,Community,264.3333333
-2018,NU,White,Community,NA
 2018,National,Aboriginal,Community,1334.567694
 2018,BC,Aboriginal,Community,1425.320872
 2018,AB,Aboriginal,Community,1232.718147
@@ -764,7 +576,6 @@
 2018,QC,Aboriginal,Community,1449.768041
 2018,NB,Aboriginal,Community,1363.151515
 2018,NL,Aboriginal,Community,980.75
-2018,PE,Aboriginal,Community,NA
 2018,NS,Aboriginal,Community,1127.054054
 2018,NW,Aboriginal,Community,895.8333333
 2018,YU,Aboriginal,Community,943
@@ -778,8 +589,336 @@
 2018,QC,Other Minority,Community,1582.410853
 2018,NB,Other Minority,Community,1789.555556
 2018,NL,Other Minority,Community,990.4
-2018,PE,Other Minority,Community,NA
 2018,NS,Other Minority,Community,1479.384615
 2018,NW,Other Minority,Community,1270
-2018,YU,Other Minority,Community,NA
-2018,NU,Other Minority,Community,NA
+2012,BC,Black,Both,1702.305882
+2012,AB,Black,Both,1490.310559
+2012,SK,Black,Both,1217.333333
+2012,MB,Black,Both,1667.380952
+2012,ON,Black,Both,1570.80035
+2012,QC,Black,Both,1661.490964
+2012,NB,Black,Both,1415.428571
+2012,NS,Black,Both,1528.25
+2012,National,White,Both,1427.307411
+2012,BC,White,Both,1358.971668
+2012,AB,White,Both,1400.297297
+2012,SK,White,Both,1235.140693
+2012,MB,White,Both,1335.785894
+2012,ON,White,Both,1322.114548
+2012,QC,White,Both,1628.780909
+2012,NB,White,Both,1357.544916
+2012,NL,White,Both,1164.576577
+2012,PE,White,Both,728
+2012,NS,White,Both,1273.123288
+2012,National,Aboriginal,Both,1355.708845
+2012,BC,Aboriginal,Both,1295.122302
+2012,AB,Aboriginal,Both,1399.992157
+2012,SK,Aboriginal,Both,1423.859485
+2012,MB,Aboriginal,Both,1340.653907
+2012,ON,Aboriginal,Both,1282.416089
+2012,QC,Aboriginal,Both,1381.926357
+2012,NB,Aboriginal,Both,1523.376923
+2012,NL,Aboriginal,Both,1390.333333
+2012,NS,Aboriginal,Both,1114.05814
+2012,NW,Aboriginal,Both,892.3333333
+2012,National,Other Minority,Both,1550.573612
+2012,BC,Other Minority,Both,1668.594241
+2012,AB,Other Minority,Both,1402.575758
+2012,SK,Other Minority,Both,1352.777778
+2012,MB,Other Minority,Both,1587.844262
+2012,ON,Other Minority,Both,1608.937593
+2012,QC,Other Minority,Both,1522.170909
+2012,NB,Other Minority,Both,1539.216216
+2012,NS,Other Minority,Both,1300.848485
+2013,National,Black,Both,1558.688571
+2013,BC,Black,Both,1721.677778
+2013,AB,Black,Both,1502.177215
+2013,SK,Black,Both,1221.333333
+2013,MB,Black,Both,1850.272727
+2013,ON,Black,Both,1538.894231
+2013,QC,Black,Both,1667.982709
+2013,NB,Black,Both,1420.23913
+2013,NS,Black,Both,1528.25
+2013,National,White,Both,1436.941421
+2013,BC,White,Both,1373.135467
+2013,AB,White,Both,1404.157086
+2013,SK,White,Both,1222.880174
+2013,MB,White,Both,1336.646465
+2013,ON,White,Both,1323.007914
+2013,QC,White,Both,1642.407247
+2013,NB,White,Both,1389.914573
+2013,NL,White,Both,1226.554688
+2013,PE,White,Both,850.3684211
+2013,NS,White,Both,1285.070988
+2013,National,Aboriginal,Both,1360.568288
+2013,BC,Aboriginal,Both,1299.522589
+2013,AB,Aboriginal,Both,1405.737263
+2013,SK,Aboriginal,Both,1429.783751
+2013,MB,Aboriginal,Both,1346.124386
+2013,ON,Aboriginal,Both,1299.150492
+2013,QC,Aboriginal,Both,1371.226744
+2013,NB,Aboriginal,Both,1530.850394
+2013,NL,Aboriginal,Both,1390.142857
+2013,NS,Aboriginal,Both,1112.164706
+2013,NW,Aboriginal,Both,967.4545455
+2013,National,Other Minority,Both,1580.21798
+2013,BC,Other Minority,Both,1727.64899
+2013,AB,Other Minority,Both,1413.236842
+2013,SK,Other Minority,Both,1388.028369
+2013,MB,Other Minority,Both,1602.756303
+2013,ON,Other Minority,Both,1611.545946
+2013,QC,Other Minority,Both,1584.896667
+2013,NB,Other Minority,Both,1588.567568
+2013,NS,Other Minority,Both,1327.125
+2014,National,Black,Both,1610.89741
+2014,BC,Black,Both,1653.733333
+2014,AB,Black,Both,1569.744828
+2014,SK,Black,Both,1057.25
+2014,MB,Black,Both,1787.583333
+2014,ON,Black,Both,1620.986571
+2014,QC,Black,Both,1663.267692
+2014,NB,Black,Both,1479.679245
+2014,NS,Black,Both,1569.166667
+2014,National,White,Both,1428.118462
+2014,BC,White,Both,1358.829694
+2014,AB,White,Both,1408.69759
+2014,SK,White,Both,1228.76699
+2014,MB,White,Both,1398.826087
+2014,ON,White,Both,1319.026365
+2014,QC,White,Both,1599.288386
+2014,NB,White,Both,1393.33996
+2014,NS,White,Both,1279.512409
+2014,National,Aboriginal,Both,1380.663786
+2014,BC,Aboriginal,Both,1307.781938
+2014,AB,Aboriginal,Both,1447.539055
+2014,SK,Aboriginal,Both,1431.487535
+2014,MB,Aboriginal,Both,1391.477204
+2014,ON,Aboriginal,Both,1287.07402
+2014,QC,Aboriginal,Both,1445.496528
+2014,NB,Aboriginal,Both,1435.966443
+2014,NS,Aboriginal,Both,1161.89899
+2014,NW,Aboriginal,Both,1009.333333
+2014,National,Other Minority,Both,1521.609095
+2014,BC,Other Minority,Both,1623.093541
+2014,AB,Other Minority,Both,1370.48
+2014,SK,Other Minority,Both,1251.969466
+2014,MB,Other Minority,Both,1526.754386
+2014,ON,Other Minority,Both,1668.038806
+2014,QC,Other Minority,Both,1467.308475
+2014,NB,Other Minority,Both,1376.555556
+2014,NS,Other Minority,Both,1409.3
+2015,National,Black,Both,1617.122896
+2015,BC,Black,Both,1664.563025
+2015,AB,Black,Both,1574.201389
+2015,SK,Black,Both,1057.25
+2015,MB,Black,Both,1787.583333
+2015,ON,Black,Both,1626.633993
+2015,QC,Black,Both,1675.929012
+2015,NB,Black,Both,1479.679245
+2015,NS,Black,Both,1569.166667
+2015,National,White,Both,1442.550064
+2015,BC,White,Both,1383.41156
+2015,AB,White,Both,1416.469697
+2015,SK,White,Both,1231.462103
+2015,MB,White,Both,1415
+2015,ON,White,Both,1331.316599
+2015,QC,White,Both,1609.817247
+2015,NB,White,Both,1411.914634
+2015,NS,White,Both,1286.902655
+2015,National,Aboriginal,Both,1385.991304
+2015,BC,Aboriginal,Both,1310.035556
+2015,AB,Aboriginal,Both,1448.703561
+2015,SK,Aboriginal,Both,1435.62726
+2015,MB,Aboriginal,Both,1397.598462
+2015,ON,Aboriginal,Both,1298.386765
+2015,QC,Aboriginal,Both,1455.013937
+2015,NB,Aboriginal,Both,1435.966443
+2015,NS,Aboriginal,Both,1161.89899
+2015,National,Other Minority,Both,1542.717961
+2015,BC,Other Minority,Both,1658.94023
+2015,AB,Other Minority,Both,1394.845361
+2015,SK,Other Minority,Both,1273.490272
+2015,MB,Other Minority,Both,1603.457143
+2015,ON,Other Minority,Both,1670.94012
+2015,QC,Other Minority,Both,1478.308725
+2015,NB,Other Minority,Both,1413.72093
+2015,NS,Other Minority,Both,1409.3
+2016,National,Black,Both,1604.622459
+2016,BC,Black,Both,1533.942149
+2016,AB,Black,Both,1565.131034
+2016,SK,Black,Both,1356.884615
+2016,MB,Black,Both,1790.775
+2016,ON,Black,Both,1627.841818
+2016,QC,Black,Both,1624.592375
+2016,NB,Black,Both,1478.578947
+2016,NS,Black,Both,1533.59
+2016,National,White,Both,1418.333841
+2016,BC,White,Both,1351.982622
+2016,AB,White,Both,1424.256891
+2016,SK,White,Both,1196.36758
+2016,MB,White,Both,1473.635884
+2016,ON,White,Both,1311.954502
+2016,QC,White,Both,1569.962979
+2016,NB,White,Both,1388.571576
+2016,NS,White,Both,1274.9584
+2016,National,Aboriginal,Both,1383.239711
+2016,BC,Aboriginal,Both,1316.531868
+2016,AB,Aboriginal,Both,1437.869478
+2016,SK,Aboriginal,Both,1393.96789
+2016,MB,Aboriginal,Both,1444.26979
+2016,ON,Aboriginal,Both,1293.768328
+2016,QC,Aboriginal,Both,1461.382166
+2016,NB,Aboriginal,Both,1361.679487
+2016,NS,Aboriginal,Both,1189.213483
+2016,National,Other Minority,Both,1572.641557
+2016,BC,Other Minority,Both,1642.72315
+2016,AB,Other Minority,Both,1459.503268
+2016,SK,Other Minority,Both,1443.80198
+2016,MB,Other Minority,Both,1600.44086
+2016,ON,Other Minority,Both,1702.551563
+2016,QC,Other Minority,Both,1475.43769
+2016,NB,Other Minority,Both,1243.106383
+2016,NS,Other Minority,Both,1135.7
+2017,National,Black,Both,1601.232796
+2017,BC,Black,Both,1564.052632
+2017,AB,Black,Both,1485.51634
+2017,SK,Black,Both,1217.73913
+2017,MB,Black,Both,1818.555556
+2017,ON,Black,Both,1618.078842
+2017,QC,Black,Both,1609.134111
+2017,NB,Black,Both,1580.910112
+2017,NS,Black,Both,1652.82
+2017,National,White,Both,1402.937936
+2017,BC,White,Both,1347.271101
+2017,AB,White,Both,1391.344731
+2017,SK,White,Both,1243.220207
+2017,MB,White,Both,1448.857923
+2017,ON,White,Both,1283.043845
+2017,QC,White,Both,1554.483217
+2017,NB,White,Both,1399.739229
+2017,NS,White,Both,1223.766823
+2017,National,Aboriginal,Both,1368.374228
+2017,BC,Aboriginal,Both,1319.57173
+2017,AB,Aboriginal,Both,1413.220974
+2017,SK,Aboriginal,Both,1401.63626
+2017,MB,Aboriginal,Both,1415.057576
+2017,ON,Aboriginal,Both,1283.860111
+2017,QC,Aboriginal,Both,1419.094136
+2017,NB,Aboriginal,Both,1243.357143
+2017,NS,Aboriginal,Both,1247.079545
+2017,National,Other Minority,Both,1544.238767
+2017,BC,Other Minority,Both,1653.010283
+2017,AB,Other Minority,Both,1388.673913
+2017,SK,Other Minority,Both,1363.196319
+2017,MB,Other Minority,Both,1595.845361
+2017,ON,Other Minority,Both,1646.268841
+2017,QC,Other Minority,Both,1448.127726
+2017,NB,Other Minority,Both,1302.288889
+2017,NS,Other Minority,Both,1168.526316
+2018,National,Black,Both,1606.863105
+2018,BC,Black,Both,1481.495726
+2018,AB,Black,Both,1609.246914
+2018,SK,Black,Both,1144.6
+2018,MB,Black,Both,1691.179487
+2018,ON,Black,Both,1643.147271
+2018,QC,Black,Both,1532.117994
+2018,NB,Black,Both,1663.357143
+2018,NS,Black,Both,1678.740741
+2018,National,White,Both,1389.781285
+2018,BC,White,Both,1357.601872
+2018,AB,White,Both,1359.169138
+2018,SK,White,Both,1088.840237
+2018,MB,White,Both,1455.440111
+2018,ON,White,Both,1287.139111
+2018,QC,White,Both,1543.503229
+2018,NB,White,Both,1367.344788
+2018,NS,White,Both,1249.526235
+2018,National,Aboriginal,Both,1364.183453
+2018,BC,Aboriginal,Both,1353.431727
+2018,AB,Aboriginal,Both,1401.393369
+2018,SK,Aboriginal,Both,1388.991706
+2018,MB,Aboriginal,Both,1416.537589
+2018,ON,Aboriginal,Both,1289.852632
+2018,QC,Aboriginal,Both,1338.108659
+2018,NB,Aboriginal,Both,1305.475904
+2018,NS,Aboriginal,Both,1313.609195
+2018,National,Other Minority,Both,1534.841605
+2018,BC,Other Minority,Both,1644.750643
+2018,AB,Other Minority,Both,1334.891008
+2018,SK,Other Minority,Both,1272.176471
+2018,MB,Other Minority,Both,1626.629213
+2018,ON,Other Minority,Both,1642.066598
+2018,QC,Other Minority,Both,1465.059524
+2018,NB,Other Minority,Both,1428.327273
+2018,NS,Other Minority,Both,1328.170213
+2012,National,Black,Both,1571.680506
+2012,NU,Aboriginal,Both,850.2
+2012,NL,Other Minority,Both,902.5
+2013,YU,White,Both,664.75
+2013,YU,Aboriginal,Both,1053
+2013,NU,Aboriginal,Both,850.2
+2013,NL,Other Minority,Both,902.5
+2014,NL,White,Both,1294.785714
+2014,PE,White,Both,716.5
+2014,NW,White,Both,2557
+2014,YU,White,Both,664.75
+2014,NL,Aboriginal,Both,1234.5
+2014,YU,Aboriginal,Both,1053
+2014,NU,Aboriginal,Both,1002.125
+2014,NL,Other Minority,Both,902.5
+2014,PE,Other Minority,Both,731
+2015,NL,Black,Both,1067
+2015,PE,Black,Both,1096
+2015,YU,Black,Both,915
+2015,NL,White,Both,1388.878788
+2015,PE,White,Both,731.3333333
+2015,NW,White,Both,2557
+2015,YU,White,Both,664.75
+2015,NL,Aboriginal,Both,1308.571429
+2015,NW,Aboriginal,Both,1040.6
+2015,YU,Aboriginal,Both,1053
+2015,NU,Aboriginal,Both,1002.125
+2015,NL,Other Minority,Both,1256
+2015,PE,Other Minority,Both,731
+2015,NW,Other Minority,Both,1270
+2016,NL,Black,Both,1067
+2016,PE,Black,Both,1096
+2016,YU,Black,Both,915
+2016,NL,White,Both,1207.636364
+2016,PE,White,Both,1024.318182
+2016,NW,White,Both,2557
+2016,YU,White,Both,664.75
+2016,NL,Aboriginal,Both,1141.5
+2016,NW,Aboriginal,Both,1121
+2016,YU,Aboriginal,Both,1053
+2016,NU,Aboriginal,Both,946.25
+2016,NL,Other Minority,Both,735
+2016,PE,Other Minority,Both,731
+2016,NW,Other Minority,Both,1270
+2017,NL,Black,Both,1067
+2017,PE,Black,Both,1096
+2017,YU,Black,Both,915
+2017,NL,White,Both,1290.978947
+2017,PE,White,Both,1047.73913
+2017,NW,White,Both,2557
+2017,YU,White,Both,243.6666667
+2017,NL,Aboriginal,Both,1356.25
+2017,NW,Aboriginal,Both,1318
+2017,YU,Aboriginal,Both,821.6666667
+2017,NU,Aboriginal,Both,1007.75
+2017,NL,Other Minority,Both,1226
+2017,PE,Other Minority,Both,731
+2017,NW,Other Minority,Both,1270
+2018,NL,Black,Both,1067
+2018,PE,Black,Both,1096
+2018,YU,Black,Both,915
+2018,NL,White,Both,1262.45
+2018,PE,White,Both,1137.769231
+2018,NW,White,Both,2557
+2018,YU,White,Both,264.3333333
+2018,NL,Aboriginal,Both,980.75
+2018,NW,Aboriginal,Both,895.8333333
+2018,YU,Aboriginal,Both,943
+2018,NU,Aboriginal,Both,2271.25
+2018,NL,Other Minority,Both,990.4
+2018,NW,Other Minority,Both,1270
