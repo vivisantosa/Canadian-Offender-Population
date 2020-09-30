@@ -2,7 +2,7 @@
 
 //1.  extract the data from csv
 //1.a load csv data
-var table4 = "static/data/table1.json" 
+var table4 = "static/data/table4.json" 
 // var table4 = "table4.csv" 
 
 
@@ -176,7 +176,7 @@ d3.select("#selDataset4").on("change", updateStatus);
     // draw the plots
     var data = [trace1, trace2, trace3, trace4];
     var layout = {showlegend: true, yaxis:{title:"Length of Sentence (Days)"}};
-    var CHART = d3.selectAll("#plot").node();
+    var CHART = d3.selectAll("#plot2").node();
     
     Plotly.newPlot(CHART, data, layout);
     
