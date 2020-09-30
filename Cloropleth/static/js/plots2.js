@@ -2,7 +2,7 @@
 
 //1.  extract the data from csv
 //1.a load csv data
-var table4 = "static/data/table1.json" 
+var table4 = "static/data/table4.json" 
 // var table4 = "table4.csv" 
 
 
