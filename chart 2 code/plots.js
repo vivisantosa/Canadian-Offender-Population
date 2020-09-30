@@ -2,7 +2,7 @@
 
 //1.  extract the data from csv
 //1.a load csv data
-var table4 = "../01 Resources/Data/table4.json" 
+var table4 = "../01Resources/Data/table4.json" 
 // var table4 = "table4.csv" 
 
 
@@ -32,7 +32,7 @@ var Province = "National"
 var Status= "Both"
 
 // Load data into
-d3.json(table4).then(function(d) {
+d3.json(table4,function(d) {
   console.log(d)
   
   // Initialize the function
@@ -94,7 +94,7 @@ d3.json(table4).then(function(d) {
     
     // draw the plots
     var data = [trace1, trace2, trace3, trace4];
-    var layout = {showlegend: true};
+    var layout = {showlegend: true, yaxis:{title:"Length of Sentence (Days)"}};
     var CHART = d3.selectAll("#plot").node();
     Plotly.newPlot(CHART, data, layout);
 
@@ -175,7 +175,7 @@ d3.select("#selDataset2").on("change", updateStatus);
     
     // draw the plots
     var data = [trace1, trace2, trace3, trace4];
-     var layout = {showlegend: true};
+    var layout = {showlegend: true, yaxis:{title:"Length of Sentence (Days)"}};
     var CHART = d3.selectAll("#plot").node();
     
     Plotly.newPlot(CHART, data, layout);
@@ -248,7 +248,7 @@ function updateProvince() {
   
   // draw the plots
   var data = [trace1, trace2, trace3, trace4];
-  var layout = {showlegend: true};
+  var layout = {showlegend: true, yaxis:{title:"Length of Sentence (Days)"}};
   var CHART = d3.selectAll("#plot").node();
   Plotly.newPlot(CHART, data, layout);
   
