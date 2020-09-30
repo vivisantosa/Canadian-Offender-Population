@@ -154,7 +154,6 @@ d3.json(geoData, function(data) {
       }).addTo(Incarcerated_Pop_layer);
 
     // Create TEXT LAYER
-    console.log("here 3",data1);
     for (var i = 0; i < 13; i++) {
       L.marker([data1[i].latitude,data1[i].longitude], {
         icon: L.divIcon({

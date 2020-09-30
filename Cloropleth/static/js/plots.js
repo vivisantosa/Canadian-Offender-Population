@@ -36,7 +36,6 @@ var Sex = "Both"
 // Load data into
 // d3.csv(table1).then(function(d) {
 d3.json(table1,function(d) {
-
   
   // Initialize the function
   function init() {

@@ -8,8 +8,8 @@ var table4 = "../01Resources/Data/table4.json"
 
 // Important! The HTML is edited to have selDat1 and selDat2
 // Selecting elements on the HTML
-var selDat1 = d3.select("#selDataset1")
-var selDat2 = d3.select("#selDataset2")
+var selDat3 = d3.select("#selDataset3")
+var selDat4 = d3.select("#selDataset4")
 
 var provinceNames = ["National","BC","AB","SK","MB","ON","QC","NB","NL","PE","NS","NW","YU","NU"] 
 var statusList = ["In Custody", "Community", "Both"]
@@ -249,7 +249,7 @@ function updateProvince() {
   // draw the plots
   var data = [trace1, trace2, trace3, trace4];
   var layout = {showlegend: true, yaxis:{title:"Length of Sentence (Days)"}};
-  var CHART = d3.selectAll("#plot").node();
+  var CHART = d3.selectAll("#plot2").node();
   Plotly.newPlot(CHART, data, layout);
   
 }
