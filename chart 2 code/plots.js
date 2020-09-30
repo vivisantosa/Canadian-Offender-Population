@@ -2,7 +2,7 @@
 
 //1.  extract the data from csv
 //1.a load csv data
-var table4 = "../01 Resources/Data/table4.csv" 
+var table4 = "../01 Resources/Data/table4.json" 
 // var table4 = "table4.csv" 
 
 
@@ -32,7 +32,7 @@ var Province = "National"
 var Status= "Both"
 
 // Load data into
-d3.csv(table4).then(function(d) {
+d3.json(table4).then(function(d) {
   console.log(d)
   
   // Initialize the function
