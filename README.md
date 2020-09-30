@@ -1,9 +1,12 @@
 # Project 2 – Incarceration Trends in Canada 				 September 2020<br>
 
+<<<<<<< HEAD
 'https://vivisantosa.github.io/Project2/index.html'
 
 <img src="Images/Screenshot (199).png" width="720">
 
+=======
+>>>>>>> parent of 421500b... Update README.md
 ###	Team members: 
 -	Eben Haezer 
 -	Momotaz Mahin Khan
