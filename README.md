@@ -1,7 +1,6 @@
 # Project 2 – Incarceration Trends in Canada 				 September 2020<br>
 
-<<<<<<< HEAD
-'https://vivisantosa.github.io/Project2/index.html'
+### 'https://vivisantosa.github.io/Project2/index.html'
 
 <img src="Images/Screenshot (199).png" width="720">
 
