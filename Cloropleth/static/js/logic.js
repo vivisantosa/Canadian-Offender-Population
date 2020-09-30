@@ -128,8 +128,31 @@ L.control
 // Load in geojson data ------------------------------------------------------
 var geoData = "static/data/canada_provinces.geojson";
 
+// Toggle here!
+var button = d3.select("#Btn1")
+var divMap = d3.select("#map-wrapper")
+
+const element = document.getElementById('#map');
+
+document.getElementById('Btn1').addEventListener('click', event => {
+	if (screenfull.isEnabled) {
+		screenfull.toggle(event.divMap);
+	} else {
+		// Ignore or do something else
+	}
+});
+//
+
 // Grab data with d3
 d3.json(geoData, function(data) {
+  // toggle image
+ 
+
+  button.on('click', event => {
+    if (screenfull.isEnabled) {
+      screenfull.toggle(event.divMap);
+    }
+  });
 
   // Grab second data with d3  
   var Data1 = "static/data/xixi3.json";
