@@ -5,75 +5,6 @@
   Date:     2020-09-29
 */
 
-// Provinces data ------------------------------------------------------------
-var provinces = [
-  {
-    PRUID: 59,
-    Province: "BC",
-    Location: [54.0000, -125.0000],
-  },
-  {
-    PRUID: 24,
-    Province: "QC",
-    Location: [54.0000, -75.0000],
-  },
-  {
-    PRUID: 62,
-    Province: "NU",
-    Location: [62.0000, -98.0000],
-  },
-  {
-    PRUID: 11,
-    Province: "PE",
-    Location: [46.5000, -63.0000],
-  },
-  {
-    PRUID: 47,
-    Province: "SK",
-    Location: [54.0000, -107.0000],
-  },
-  {
-    PRUID: 60,
-    Province: "YU",
-    Location: [62.0000, -135.0000],
-  },
-  {
-    PRUID: 46,
-    Province: "MB",
-    Location: [54.0000, -99.0000],    
-  },
-  {
-    PRUID: 35,
-    Province: "ON",
-    Location: [54.0000, -90.0000],
-  },
-  {
-    PRUID: 13,
-    Province: "NB",
-    Location: [47.0000, -67.0000],
-  },
-  {
-    PRUID: 61,
-    Province: "NW",
-    Location: [62.0000, -115.0000],
-  },
-  {
-    PRUID: 48,
-    Province: "AB",
-    Location: [54.0000, -116.0000],
-  },
-  {
-    PRUID: 10,
-    Province: "NL",
-    Location: [54.0000, -62.0000],
-  },
-  {
-    PRUID: 12,
-    Province: "NS",
-    Location: [45.0000, -65.0000],
-  }
-];
-
 // Creating map object -------------------------------------------------------
 var myMap = L.map("map", {
   center: [55.0000, -97.0000],
@@ -132,7 +63,7 @@ var geoData = "static/data/canada_provinces.geojson";
 d3.json(geoData, function(data) {
 
   // Grab second data with d3  
-  var Data1 = "static/data/xixi3.json";
+  var Data1 = "static/data/xixi6.json";
   d3.json(Data1, function(data1) {
 
     // Loop through the geoJSON data then for each object append "CRIME DATA" information
@@ -153,7 +84,6 @@ d3.json(geoData, function(data) {
       }
     });  
     //--------------------------------------
-    console.log("here 3",data);
 
     // Create choropleth layer for Aborigin_Disparity_Index
     L.choropleth(data, {
@@ -171,9 +101,10 @@ d3.json(geoData, function(data) {
       // Binding a pop-up to each layer
       onEachFeature: function(feature, layer) {
         layer.bindPopup("Province/Territory: " + feature.properties.PRENAME + 
-          "<br>Race Disparity Index:" + feature.properties.Aborigin_Disparity_Index  +
-          "<br>Aborigin Population:" + feature.properties.Pct_Aborigin_Pop  +
-          "<br>Aborigin Inmates:" + feature.properties.Pct_Aborigin_Arrested );
+          "<br>Aborigin Disparity Index:" + feature.properties.Aborigin_Disparity_Index  +
+          "<br>Black Disparity Index:" + feature.properties.Black_Disparity_Index  +
+          "<br>Other Disparity Index:" + feature.properties.Other_Disparity_Index +
+          "<br>White Disparity Index:" + feature.properties.White_Disparity_Index );
       }  
       // create aboriginRDI_layer  
       }).addTo(aboriginRDI_layer);
@@ -223,11 +154,12 @@ d3.json(geoData, function(data) {
       }).addTo(Incarcerated_Pop_layer);
 
     // Create TEXT LAYER
+    console.log("here 3",data1);
     for (var i = 0; i < 13; i++) {
-      L.marker(provinces[i].Location, {
+      L.marker([data1[i].latitude,data1[i].longitude], {
         icon: L.divIcon({
             className: 'text-labels',   // Set class for CSS styling
-            html: provinces[i].Province
+            html: data1[i].province
         }),
         zIndexOffset: 1000     // Make appear above other map features
       }).addTo(myMap); 

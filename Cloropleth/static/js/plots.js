@@ -2,7 +2,7 @@
 //1.  extract the data from csv
 //1.a load csv data
 // var table1 = "../../01 Resources/Data/table1.csv"
-var table1 = "../Data/table1.json" 
+var table1 = "static/data/table1.json" 
 // var table1 = "table1.json" 
 
 
