@@ -12,8 +12,8 @@ var provinces = [
   {
     PRUID: 24,
     province: "QC",
-    latitude: 48.0000,
-    longitude: -75.0000,
+    latitude: 50.0000,
+    longitude: -71.0000,
     aboriginal_disparity_index: 1.9,
     black_disparity_index: 0.0,
     other_disparity_index: -0.3,
@@ -72,8 +72,8 @@ var provinces = [
   {
     PRUID: 35,
     province: "ON",
-    latitude: 48.0000,
-    longitude: -90.0000,
+    latitude: 50.0000,
+    longitude: -87.0000,
     aboriginal_disparity_index: 2.8,
     black_disparity_index: 2.6,
     other_disparity_index: -0.5,
