@@ -142,7 +142,10 @@ d3.json(geoData, function(data) {
       // Binding a pop-up to each layer
       onEachFeature: function(feature, layer) {
         layer.bindPopup("Province/Territory: " + feature.properties.PRENAME + 
-          "<br>Race Disparity Index:" + feature.properties.Black_Disparity_Index);
+        "<br>Aborigin Disparity Index:" + feature.properties.Aborigin_Disparity_Index  +
+        "<br>Black Disparity Index:" + feature.properties.Black_Disparity_Index  +
+        "<br>Other Disparity Index:" + feature.properties.Other_Disparity_Index +
+        "<br>White Disparity Index:" + feature.properties.White_Disparity_Index );
       }  
       // create blackRDI_layer   
       }).addTo(blackRDI_layer);
