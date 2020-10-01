@@ -13,16 +13,17 @@
 body {
   padding: 0;
   margin: 0;
-  background-color: teal;
+  background-color: #474747;
 }
-
+ 
 .jumbotron {
   margin-bottom: 0px;
-  background-color: rgb(48, 211, 162);
+  background-color: #363636;
   padding-top: 20px;
   padding-bottom: 20px;
   margin-bottom: 0px;
   height: 140px;
+  color: #EBEDEE
 } 
 .card{
   margin-top: 2rem;
@@ -47,7 +48,7 @@ body {
 }
 #plot2
 {
-    height:300px;
+    height:308px;
     min-height: 80%;
     min-width: 50%;
     display: block;

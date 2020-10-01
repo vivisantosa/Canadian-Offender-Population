@@ -67,7 +67,9 @@ d3.json(table4,function(d) {
       x: Year,
       y: trace1Y,
       name: 'Black',
-      type: 'scatter'
+      type: 'scatter',
+      marker:{
+        color: '#FC9D9A'}
     };
     
     // set up trace to prepare data for one of the table
@@ -75,21 +77,27 @@ d3.json(table4,function(d) {
       x: Year,
       y: trace2Y,
       name: 'Aboriginal',
-      type: 'scatter'
+      type: 'scatter',
+      marker:{
+        color: '#FE4365'}
     };
     // set up trace to prepare data for one of the table
     var trace3 = {
       x: Year,
       y: trace3Y,
       name: 'White',
-      type: 'scatter'
+      type: 'scatter',
+      marker:{
+        color: '#83AF9B'}
     };
     // set up trace to prepare data for one of the table
     var trace4 = {
       x: Year,
       y: trace4Y,
       name: 'Other Minority',
-      type: 'scatter'
+      type: 'scatter',
+      marker:{
+        color: '#C8C8A9'}
     };
     
     // draw the plots
@@ -148,7 +156,9 @@ d3.select("#selDataset4").on("change", updateStatus);
       x: Year,
       y: trace1Y,
       name: 'Black',
-      type: 'scatter'
+      type: 'scatter',
+      marker:{
+        color: '#FC9D9A'}
     };
     
     // set up trace to prepare data for one of the table
@@ -156,21 +166,27 @@ d3.select("#selDataset4").on("change", updateStatus);
       x: Year,
       y: trace2Y,
       name: 'Aboriginal',
-      type: 'scatter'
+      type: 'scatter',
+      marker:{
+        color: '#FE4365'}
     };
     // set up trace to prepare data for one of the table
     var trace3 = {
       x: Year,
       y: trace3Y,
       name: 'White',
-      type: 'scatter'
+      type: 'scatter',
+      marker:{
+        color: '#83AF9B'}
     };
     // set up trace to prepare data for one of the table
     var trace4 = {
       x: Year,
       y: trace4Y,
       name: 'Other Minority',
-      type: 'scatter'
+      type: 'scatter',
+      marker:{
+        color: '#C8C8A9'}
     };
     
     // draw the plots
@@ -221,7 +237,9 @@ function updateProvince() {
     x: Year,
     y: trace1Y,
     name: 'Black',
-    type: 'scatter'
+    type: 'scatter',
+    marker:{
+      color: '#FC9D9A'}
   };
   
   // set up trace to prepare data for one of the table
@@ -229,21 +247,27 @@ function updateProvince() {
     x: Year,
     y: trace2Y,
     name: 'Aboriginal',
-    type: 'scatter'
+    type: 'scatter',
+    marker:{
+      color: '#FE4365'}
   };
   //  // set up trace to prepare data for one of the table
   var trace3 = {
     x: Year,
     y: trace3Y,
     name: 'White',
-    type: 'scatter'
+    type: 'scatter',
+    marker:{
+      color: '#83AF9B'}
   };
   //  // set up trace to prepare data for one of the table
   var trace4 = {
     x: Year,
     y: trace4Y,
     name: 'Other Minority',
-    type: 'scatter'
+    type: 'scatter',
+    marker:{
+      color: '#C8C8A9'}
   };
   
   // draw the plots

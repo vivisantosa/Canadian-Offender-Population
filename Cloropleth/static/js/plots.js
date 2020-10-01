@@ -62,7 +62,9 @@ d3.json(table1,function(d) {
       x: Races,
       y: trace1Y,
       name: 'Offender Pop.',
-      type: 'bar'
+      type: 'bar',
+      marker:{
+        color: '#FE4365'}
     };
     
     // set up trace to prepare data for one of the table
@@ -70,7 +72,9 @@ d3.json(table1,function(d) {
       x: Races,
       y: trace2Y,
       name: 'General Pop.',
-      type: 'bar'
+      type: 'bar',
+      marker:{
+        color: '#83AF9B'}
     };
     
     // draw the plots
@@ -121,7 +125,9 @@ d3.select("#selDataset2").on("change", updateSex);
       x: Races,
       y: trace1Y,
       name: 'Offender Pop.',
-      type: 'bar'
+      type: 'bar',
+      marker:{
+        color: '#FE4365'}
     };
     
     // set up trace to prepare data for one of the table
@@ -129,7 +135,9 @@ d3.select("#selDataset2").on("change", updateSex);
       x: Races,
       y: trace2Y,
       name: 'General Pop.',
-      type: 'bar'
+      type: 'bar',
+      marker:{
+        color: '#83AF9B'}
     };
     
     // draw the plots
@@ -171,7 +179,9 @@ function updateProvince() {
     x: Races,
     y: trace1Y,
     name: 'Offender Pop.',
-    type: 'bar'
+    type: 'bar',
+    marker:{
+      color: '#FE4365'}
   };
   
   // set up trace to prepare data for one of the table
@@ -179,7 +189,9 @@ function updateProvince() {
     x: Races,
     y: trace2Y,
     name: 'General Pop.',
-    type: 'bar'
+    type: 'bar',
+    marker:{
+      color: '#83AF9B'}
   };
   
   // draw the plots
