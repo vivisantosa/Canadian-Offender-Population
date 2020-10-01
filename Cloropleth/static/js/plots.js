@@ -14,7 +14,7 @@ var selDat2 = d3.select("#selDataset2")
 
 var provinceNames = ["National","BC","AB","SK","MB","ON","QC","NB","NL","PE","NS","NW","YU","NU"] 
 var sexList = ["Male", "Female", "Both"]
-var Races = ['Aboriginal', 'Black', 'Other Minority','White']
+var Races = ['Black', 'White', 'Aboriginal','Other Minority']
 
 
 
@@ -48,6 +48,7 @@ d3.json(table1,function(d) {
 
       // console.log(data.Percent_Population)
       if ( data.province == Province && data.sex == Sex ){
+        console.log()
         trace1Y.push(data.race_percent_arrested)
         trace2Y.push(data.race_percent_population)
 
