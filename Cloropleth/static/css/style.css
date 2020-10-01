@@ -56,14 +56,14 @@ body {
 }
 #plot
 {
-    height:300px;
+    height:302px;
     min-height: 100%;
     min-width: 50%;
     display: block;
 }
 #plot2
 {
-    height:300px;
+    height:302px;
     min-height: 80%;
     min-width: 50%;
     display: block;
