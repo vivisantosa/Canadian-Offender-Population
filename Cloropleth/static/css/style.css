@@ -6,6 +6,9 @@
   Date:     2020-09-29
 */
 
+.modebar{
+  display: none !important;
+}
 
 body {
   padding: 0;

@@ -60,7 +60,7 @@ d3.json(table1,function(d) {
     var trace1 = {
       x: Races,
       y: trace1Y,
-      name: 'Sum of Race % Arrested',
+      name: 'Offender Pop.',
       type: 'bar'
     };
     
@@ -68,13 +68,14 @@ d3.json(table1,function(d) {
     var trace2 = {
       x: Races,
       y: trace2Y,
-      name: 'Sum of Race % Population',
+      name: 'General Pop.',
       type: 'bar'
     };
     
     // draw the plots
     var data = [trace1, trace2];
-    var layout = {barmode: 'group'};
+    var layout = {barmode: 'group', yaxis:{title:"% of Population"}
+  };
     var CHART = d3.selectAll("#plot").node();
     Plotly.newPlot(CHART, data, layout);
 
@@ -118,7 +119,7 @@ d3.select("#selDataset2").on("change", updateSex);
     var trace1 = {
       x: Races,
       y: trace1Y,
-      name: 'Sum of Race % Arrested',
+      name: 'Offender Pop.',
       type: 'bar'
     };
     
@@ -126,13 +127,13 @@ d3.select("#selDataset2").on("change", updateSex);
     var trace2 = {
       x: Races,
       y: trace2Y,
-      name: 'Sum of Race % Population',
+      name: 'General Pop.',
       type: 'bar'
     };
     
     // draw the plots
     var data = [trace1, trace2];
-    var layout = {barmode: 'group'};
+    var layout = {barmode: 'group', yaxis:{title:"% of Population"}};
     var CHART = d3.selectAll("#plot").node();
     
     Plotly.newPlot(CHART, data, layout);
@@ -168,7 +169,7 @@ function updateProvince() {
   var trace1 = {
     x: Races,
     y: trace1Y,
-    name: 'Sum of Race % Arrested',
+    name: 'Offender Pop.',
     type: 'bar'
   };
   
@@ -176,13 +177,13 @@ function updateProvince() {
   var trace2 = {
     x: Races,
     y: trace2Y,
-    name: 'Sum of Race % Population',
+    name: 'General Pop.',
     type: 'bar'
   };
   
   // draw the plots
   var data = [trace1, trace2];
-  var layout = {barmode: 'group'};
+  var layout = {barmode: 'group', yaxis:{title:"% of Population"}};
   var CHART = d3.selectAll("#plot").node();
   Plotly.newPlot(CHART, data, layout);
   

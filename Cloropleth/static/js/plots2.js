@@ -19,11 +19,11 @@ var Year = ['2013', '2014', '2015', '2016', '2017', '2018' ]
 
 // Create dropdown
 provinceNames.forEach( d=> {
-  selDat1.append("option").text(d)
+  selDat3.append("option").text(d)
   } )
 
 statusList.forEach( d=> {
-  selDat2.append("option").text(d)
+  selDat4.append("option").text(d)
   } )
 
 

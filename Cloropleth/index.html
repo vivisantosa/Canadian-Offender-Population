@@ -39,15 +39,23 @@
         <!-- The div where we will inject our map -->
         <div class="col-md-7" >
           <div class="card" style="margin-left: 1rem; margin-bottom: 1rem;">
-            <a target="_blank" href="index-map.html">
+
               <div class="card-body">
                 <h5 class="card-title">Race Disparity Index by Province</h5>
                 <p class="card-text"><b>This map visualizes race disparity of Aboriginal and Black Canadian offenders. A Race Disparity Index score was calculated for each province by comparing the race of the 2016 offender population with the general (Source: StatCan 2016) provincial population.</b></p>
                 <p class="card-text"> Use the selector at the top right corner of the map to view the Aboriginal or Black Race Disparity Index score.</p>
                 <p class="card-text"> Click on each province or territory to view a summary of index scores by race group.</p>
                 <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-              </div></a>
-            <div id="map"></div>
+              </div>
+
+              <div id="map-wrapper">
+                <div id="button-wrapper">
+                  <input type="button" id="Btn1" value="Toggle Full Screen" class="btnStyle span3">
+               </div>
+                <div id="map"></div>
+
+              </div>
+
           </div> 
         </div>
         <div class="col-md-5">
@@ -57,13 +65,31 @@
               <p class="card-text"><small class="text-muted">Use drop down to view for each province/territory and by offender sex.</small></p>
             </div>
             <div class="row">
+
+                          <!-- <div id="plot"></div>
+            <ul class="list-group list-group-horizontal">
+              <li class="list-group-item">
+                <select id="selDataset1"></select>
+                <select id="selDataset2"></select></li>
+            </ul> -->
+
+            <!-- <div id="plot"></div>
+            <ul class="list-group list-group-horizontal">
+              <li class="list-group-item">
+                <select id="selDataset1"></select>
+                <select id="selDataset2"></select></li>
+            </ul> -->
+
               <div class="col-md-9" >
                 <div id="plot"></div>
               </div>
               <div class="col-md-3" >
                 <select class="selector" id="selDataset1"></select>
                 <select class="selector" id="selDataset2"></select>
+
               </div>
+
+
             </div> 
           </div>
           <div class="card" style="margin-right: 1rem;">
@@ -71,10 +97,26 @@
               <h5 class="card-title">Length of Offender Sentence by Race Group Over Time (2013 - 2018)</h5>
               <p class="card-text"><small class="text-muted">Use drop down to view for each province/territory, and by Incarcerated vs Community-supervised offenders.</small></p>
             </div>
-            <div id="plot2"></div>
+
+            <!-- <div id="plot2"></div>
             <ul class="list-group list-group-horizontal">
-              <li class="list-group-item"><select id="selDataset3"></select><select id="selDataset4"></select></li>
-            </ul>
+              <li class="list-group-item">
+                <select id="selDataset3"></select>
+                <select id="selDataset4"></select></li>
+            </ul> -->
+
+            <div class="row">
+              <div class="col-md-9" >
+                <div id="plot2"></div>
+              </div>
+              <div class="col-md-3" >
+                <select class="selector" id="selDataset3"></select>
+                <select class="selector" id="selDataset4"></select>
+
+              </div>
+            </div> 
+            
+
           </div>
         </div>
       </div>
@@ -97,5 +139,7 @@
     <script type="text/javascript" src="static/js/logic.js"></script>
     <script type="text/javascript" src="static/js/plots.js"></script>
     <script type="text/javascript" src="static/js/plots2.js"></script>
+    <script type="text/javascript" src="static/js/screenful.js"></script>
+    <script type="text/javascript" src="static/js/angularScreenful.js"></script>
   </body>
 </html>
