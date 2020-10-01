@@ -90,7 +90,7 @@ d3.json(geoData, function(data) {
       // Set valueProperty (value that define the color) as: RDIvalue
       valueProperty: "Aborigin_Disparity_Index",
 
-      scale: ["#ffffb2", "#b10026"],// Set color scale
+      scale: ["#83AF9B", "#FE4365"],// Set color scale
       steps: 5,// Number of breaks in step range
       mode: "q",// q for quartile, e for equidistant, k for k-means
       style: {
@@ -116,7 +116,7 @@ d3.json(geoData, function(data) {
       // Set valueProperty (value that define the color) as: RDIvalue
       valueProperty: "Black_Disparity_Index",
 
-      scale: ["#ffffb2", "#b10026"],// Set color scale
+      scale: ["#83AF9B", "#FE4365"],// Set color scale Alternate: ["#ffffb2", "#b10026"]
       steps: 8,// Number of breaks in step range
       mode: "q",// q for quartile, e for equidistant, k for k-means
       style: {
@@ -137,7 +137,7 @@ d3.json(geoData, function(data) {
       // Set valueProperty (value that define the color) as: RDIvalue
       valueProperty: "Incarcerated_Pop",
 
-      scale: ["#e6e6ff", "#000080"],// Set color scale
+      scale: ["#83AF9B", "#FE4365"],// Set color scale
       steps: 5,// Number of breaks in step range
       mode: "q",// q for quartile, e for equidistant, k for k-means
       style: {
@@ -169,7 +169,7 @@ d3.json(geoData, function(data) {
     legend.onAdd = function() {
       var div = L.DomUtil.create("div", "info legend");
       var limits = [-2, 0, 2, 4, 6];
-      var colors = ["#ffffb2", "#ebbf8f", "#d87f6c", "#c43f49", "#b10026"];
+      var colors = ["#83AF9B", "#C8C8A9", "#F9CDAD", "#FC9D9A", "#FE4365"];
       var labels = [];
 
       // Create legend info and Add min & max
