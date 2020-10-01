@@ -36,12 +36,12 @@
           <h3>A look at Correctional Services Canada's (CSC) offender profiles (2012-2018) </h3>
         </div>
         
-        <!-- The div where we will inject our map -->
+        <!-- map -->
         <div class="col-md-7" >
           <div class="card" style="margin-left: 1rem; margin-bottom: 1rem;">
 
               <div class="card-body">
-                <h5 class="card-title">Race Disparity Index by Province</h5>
+                <h5 class="card-title">Race Disparity Index by Province (2016) </h5>
                 <p class="card-text"><b>This map visualizes race disparity of Aboriginal and Black Canadian offenders. A Race Disparity Index score was calculated for each province by comparing the race of the 2016 offender population with the general (Source: StatCan 2016) provincial population.</b></p>
                 <p class="card-text"><small class="text-muted"> Click on each province or territory to view a summary of index scores by race group.<br>
                 Use the selector at the top right corner of the map to view the Aboriginal or Black Race Disparity Index score.</small></p>
@@ -57,40 +57,34 @@
 
           </div> 
         </div>
+
         <div class="col-md-5">
+          <!-- plot1 -->
           <div class="card" style="margin-right: 1rem;">
             <div class="card-body">
-              <h5 class="card-title">Representation of Race Groups in the Offender vs General Population (2016) </h5>
+              <h5 class="card-title">Representation of Race Groups in the Offender vs General Population</h5>
               <p class="card-text"><small class="text-muted">Use drop down to view for each province/territory and by offender sex.</small></p>
             </div>
             <div class="row">
 
-                          <!-- <div id="plot"></div>
-            <ul class="list-group list-group-horizontal">
-              <li class="list-group-item">
-                <select id="selDataset1"></select>
-                <select id="selDataset2"></select></li>
-            </ul> -->
+              <!-- <div id="plot"></div>
+              <ul class="list-group list-group-horizontal">
+                <li class="list-group-item">
+                  <select id="selDataset1"></select>
+                  <select id="selDataset2"></select></li>
+              </ul> -->
 
-            <!-- <div id="plot"></div>
-            <ul class="list-group list-group-horizontal">
-              <li class="list-group-item">
-                <select id="selDataset1"></select>
-                <select id="selDataset2"></select></li>
-            </ul> -->
-
-              <div class="col-md-9" >
+              <div class="col-md-10" >
                 <div id="plot"></div>
               </div>
-              <div class="col-md-3" >
+              <div class="col-md-2" style="padding-left: 0px;">
                 <select class="selector" id="selDataset1"></select>
                 <select class="selector" id="selDataset2"></select>
-
               </div>
-
-
             </div> 
           </div>
+
+          <!-- plot2 -->
           <div class="card" style="margin-right: 1rem;">
             <div class="card-body">
               <h5 class="card-title">Length of Offender Sentence by Race Group Over Time (2013 - 2018)</h5>
@@ -105,17 +99,15 @@
             </ul> -->
 
             <div class="row">
-              <div class="col-md-9" >
+              <div class="col-md-10" >
                 <div id="plot2"></div>
               </div>
-              <div class="col-md-3" >
+              <div class="col-md-2"  style="padding-left: 0px;">
                 <select class="selector" id="selDataset3"></select>
                 <select class="selector" id="selDataset4"></select>
 
               </div>
             </div> 
-            
-
           </div>
         </div>
       </div>

@@ -106,9 +106,6 @@ d3.json(table4,function(d) {
     var CHART = d3.selectAll("#plot2").node();
     Plotly.newPlot(CHART, data, layout);
 
-    
-
-
 };
 init()
 // TO DO! On change, run this program

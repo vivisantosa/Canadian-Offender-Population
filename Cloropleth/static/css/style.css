@@ -13,7 +13,7 @@
 body {
   padding: 0;
   margin: 0;
-  background-color: #474747;
+  background-color: #474747e5;
 }
  
 .jumbotron {
@@ -27,8 +27,23 @@ body {
 } 
 .card{
   margin-top: 2rem;
+  /*background-color: rgb(68, 216, 154);*/
+}
+.card-body {
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  padding: 1.25rem;
+  padding-bottom: 0rem;
+}
+.card-title {
+  margin-bottom: .25rem;
+}
+.card-text{
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 .selector{
+  margin-left: 0px;
   max-width: 100%;
   align-items: end;
 }
@@ -41,14 +56,14 @@ body {
 }
 #plot
 {
-    height:275px;
+    height:302px;
     min-height: 100%;
     min-width: 50%;
     display: block;
 }
 #plot2
 {
-    height:308px;
+    height:302px;
     min-height: 80%;
     min-width: 50%;
     display: block;
@@ -108,4 +123,13 @@ h1 {
 
 h4 {
   font: 16px Arial, Helvetica;
+}
+h5 {
+  font: 21px Arial, Helvetica;
+}
+p{
+  line-height: 20px;
+}
+.selector {
+  font-size: 11px;
 }
