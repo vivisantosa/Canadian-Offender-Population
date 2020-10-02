@@ -27,7 +27,7 @@ Project components included extraction of the data from Open Canada and StatCan,
 <img src="Images/Project2_flow_v2.jpg" width="1080"> 
 
 ##	Application components <br>
-•	"Race Disparity Index by Province (2016)" 
+•	Race Disparity Index by Province (2016)
   This cloropleth map visualizes race disparity of Aboriginal and Black Canadian offenders. 
   A Race Disparity Index score was calculated for each province by comparing the race of the 2016 offender population with the general provincial population.<br>
   (1) Each province or territory can be clicked to view a summary of index scores by race group<br>
@@ -36,13 +36,13 @@ Project components included extraction of the data from Open Canada and StatCan,
   <img src="Images/Map.PNG" width="540"><br> 
 
 
-•	"Representation of Race Groups in the Offender vs General Population (2016)"<br>
+•	Representation of Race Groups in the Offender vs General Population (2016)<br>
   The drop down allows visualization of data by province/territory and by offender sex
   
   <img src="Images/BarChart.PNG" width="540"><br> 
   
   
-•	"Length of Offender Sentence by Race Group Over Time (2013 - 2018)"<br>
+•	Length of Offender Sentence by Race Group Over Time (2013 - 2018)<br>
   The drop down allows visualization of data by province/territory and by Incarcerated vs Community-supervised offenders
   
   <img src="Images/LineChart.PNG" width="540"><br> 
