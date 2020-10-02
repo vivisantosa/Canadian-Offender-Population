@@ -1,4 +1,4 @@
-# Project 2 – Race Disparity in Canada's Offender Population 				 September 2020<br>
+# Project 2 – Race Disparity in Canada's Offender Population 				 ##September 2020<br>
 ## A look at Correctional Services Canada's (CSC) offender profiles (2012-2018)
 
 ### 'https://vivisantosa.github.io/Project2/index.html'
@@ -8,10 +8,10 @@
 =======
 
 ##	Team members: 
-###-	Eben Haezer 
-###-	Momotaz Mahin Khan
-###-	Sheri Shojaie
-###-	Vivi Santosa
+-	Eben Haezer 
+-	Momotaz Mahin Khan
+-	Sheri Shojaie
+-	Vivi Santosa
 
 ##	Project description / outline:<br>
 ###The goal of this project was to extract data from Correctional Services Canada(CSC), perform analysis on the Offender Profiles data, make a comparison of race group representation (offender population vs the general population) across the provinces in Canada, and communicate the findings through interactive data visualizations. <br>
